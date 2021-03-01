@@ -29,19 +29,15 @@ jobs:
           git config --global user.name "Pedro Guia"
           yarn version --patch
 
-      - uses: JS-DevTools/npm-publish@v1
+      # Publish to GitHub Package Registry
+      - uses: actions/setup-node@master
         with:
-          token: ${{ secrets.NPM_AUTH_TOKEN }}
-
-      # # Publish to GitHub Package Registry
-      # - uses: actions/setup-node@master
-      #   with:
-      #     node-version: 12
-      #     registry-url: https://npm.pkg.github.com/
-      #     scope: "<@OWNER>"
-      # - name: Publish to GitHub Package Registry
-      #   run: |
-      #     npm config set registry http://registry.npmjs.org
-      #     npm publish
-      #   env:
-      #     NODE_AUTH_TOKEN: ${{github.I18N_TOKEN}}
+          node-version: 12
+          registry-url: https://npm.pkg.github.com/
+          scope: "<@pedroguia>"
+      - name: Publish to GitHub Package Registry
+        run: |
+          npm config set registry http://registry.npmjs.org
+          npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{SECRETS.GITHUB_TOKEN}}
