@@ -1,0 +1,14 @@
+{
+  "name": "@esolidar/i18n",
+  "description": "eSolidar i18n",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/esolidar/i18n.git"
+  },
+  "keywords": [],
+  "author": "Pedro Guia",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "https://github.com/esolidar/i18n"
+}
