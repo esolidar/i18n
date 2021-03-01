@@ -40,4 +40,4 @@ jobs:
           npm config set registry http://registry.npmjs.org
           npm publish
         env:
-          NODE_AUTH_TOKEN: ${{github.token}}
+          NODE_AUTH_TOKEN: ${{SECRETS.NPM_AUTH_TOKEN}}
