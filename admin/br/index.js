@@ -42,4 +42,6 @@ const translation = Object.assign(
   tickets,
 );
 
-export default translation;
+module.exports = translation;
+
+// export default translation;
