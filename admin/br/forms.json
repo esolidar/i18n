@@ -1,0 +1,12 @@
+{
+  "form.requiredField": "Campo de preenchimento obrigatório",
+  "form.typeNumber": "Este campo é apenas numérico",
+  "form.invalidEmail": "Insira um email válido",
+  "form.invalidUrl": "Insira um url válido",
+  "form.invalidIban": "Insira um IBAN válido",
+  "form.maxtags": "Só são permitadas 8 tags",
+  "form.subdomain.invalid": "Este subdominio é inválido, por favor utilize apenas caractéres alfanúmericos.",
+  "form.subdomain.unique": "Este subdominio já existe, por favor escolha outro.",
+  "form.domain.invalid": "Dominio inválido",
+  "form.domain.unique": "Este dominio já existe, por favor escolha outro"
+}

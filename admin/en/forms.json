@@ -1,0 +1,12 @@
+{
+  "form.requiredField": "This field is required",
+  "form.typeNumber": "This field is numeric",
+  "form.invalidEmail": "Type in a valid email address",
+  "form.invalidUrl": "Type in a valid URL",
+  "form.invalidIban": "Type in a valid IBAN",
+  "form.maxtags": "Only 8 tags allowed",
+  "form.subdomain.invalid": "This subdomain is invalid, please use only alphanumeric characters",
+  "form.subdomain.unique": "This subdomain is already used, please choose another",
+  "form.domain.invalid": "Your domain is invalid",
+  "form.domain.unique": "This domain is already used, please choose another"
+}
