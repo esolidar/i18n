@@ -10,5 +10,6 @@
   "author": "eSolidar",
   "license": "MIT",
   "bugs": {},
-  "homepage": "https://github.com/esolidar/i18n"
+  "homepage": "https://github.com/esolidar/i18n",
+  "type": "module"
 }
