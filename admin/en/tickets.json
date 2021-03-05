@@ -24,7 +24,7 @@
   "tickets.status.waitingFeedback": "Waiting Feedback",
   "tickets.status.pendingCustomerFeedback": "Waiting Customer Feedback",
   "tickets.status.pendingCompanyFeedback": "Waiting Company Feedback",
-  "tickets.status.pendingEsolidarFeedback": "Waiting eSolidar Feedback",
+  "tickets.status.pendingeSolidarFeedback": "Waiting eSolidar Feedback",
   "tickets.priority.all": "All",
   "tickets.priority.low": "Low",
   "tickets.priority.lowest": "Lowest",
