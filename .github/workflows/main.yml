@@ -42,22 +42,16 @@ on:
     branches: ["master"]
 
 jobs:
-  update-version:
+  publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
       - name: Update package version and setup git
         run: |
           git config --global user.email "pedroguia@live.com.pt",
           git config --global user.name "Pedro Guia"
           yarn version --patch
-
-  publish:
-    runs-on: ubuntu-latest
-    needs: update-version
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
       - name: Build container image
         uses: actions/setup-node@v2
         with:
