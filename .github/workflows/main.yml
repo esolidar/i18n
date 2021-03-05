@@ -15,8 +15,8 @@ jobs:
           git config --global user.email "pedroguia@live.com.pt",
           git config --global user.name "Pedro Guia"
           yarn version --patch
-          git commit -m "updated package version" -a
-          git push
+      # git commit -m "updated package version" -a
+      # git push
       # - name: Push changes
       #   uses: ad-m/github-push-action@master
       #   with:
@@ -27,6 +27,6 @@ jobs:
         with:
           node-version: "12.x"
           registry-url: "https://npm.pkg.github.com"
-      - run: npm publish
+        run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
