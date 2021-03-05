@@ -16,11 +16,12 @@ jobs:
           git config --global user.name "Pedro Guia"
           yarn version --patch
           git commit -m "updated package version" -a
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          git push
+      # - name: Push changes
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: ${{ github.ref }}
       - name: Build container image
         uses: actions/setup-node@v2
         with:
