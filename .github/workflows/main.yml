@@ -1,44 +1,7 @@
-# name: CI
-
-# on:
-#   # Triggers the workflow on push or pull request events but only for the master branch
-#   push:
-#     branches: [master]
-#   pull_request:
-#     branches: [master]
-
-# jobs:
-# update-version:
-#   runs-on: ubuntu-latest
-
-#   steps:
-#     - uses: actions/checkout@v2
-
-#     - name: Update package version and setup git
-#       run: |
-#         git config --global user.email "pedroguia@live.com.pt",
-#         git config --global user.name "Pedro Guia"
-#         yarn version --patch
-
-#       # # Publish to GitHub Package Registry
-#       # - uses: actions/setup-node@master
-#       #   with:
-#       #     node-version: 12
-#       #     registry-url: https://npm.pkg.github.com/
-#       #     scope: "<@pedroguia>"
-#       # - name: Publish to GitHub Package Registry
-#       #   run: |
-#       #     npm config set registry http://registry.npmjs.org
-#       #     npm publish
-#       #   env:
-#       #     NODE_AUTH_TOKEN: ${{SECRETS.GITHUB_TOKEN}}
-
 name: Create and publish a package
 
 on:
   push:
-    branches: ["master"]
-  pull_request:
     branches: ["master"]
 
 jobs:
@@ -48,16 +11,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Update package version and setup git
-        run: |
-          git config --global user.email "pedroguia@live.com.pt",
-          git config --global user.name "Pedro Guia"
-          yarn version --patch
+        run: yarn version --patch
       - name: Build container image
         uses: actions/setup-node@v2
         with:
           node-version: "12.x"
           registry-url: "https://npm.pkg.github.com"
-      # - run: npm install
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
