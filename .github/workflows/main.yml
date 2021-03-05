@@ -11,7 +11,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Update package version and setup git
-        run: yarn version --patch
+        run: |
+          git config --global user.email "pedroguia@live.com.pt",
+          git config --global user.name "Pedro Guia"
+          yarn version --patch
       - name: Build container image
         uses: actions/setup-node@v2
         with:
