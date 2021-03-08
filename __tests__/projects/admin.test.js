@@ -1,7 +1,7 @@
 const translations = {
-  br: require("../admin/br"),
-  en: require("../admin/en"),
-  pt: require("../admin/pt"),
+  br: require("../../projects/admin/br"),
+  en: require("../../projects/admin/en"),
+  pt: require("../../projects/admin/pt"),
 };
 
 const errorList = [];

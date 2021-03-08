@@ -3,8 +3,7 @@
   "description": "eSolidar i18n",
   "version": "0.0.17",
   "scripts": {
-    "test": "jest",
-    "prepare": "husky install"
+    "test": "jest"
   },
   "husky": {
     "hooks": {
