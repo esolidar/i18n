@@ -17,6 +17,7 @@
   "auctions.endDate": "End date",
   "auctions.status": "Status",
   "auctions.winner": "Winner",
+  "auctions.executed": "Executed",
   "auctions.lastBid": "Last bid",
   "auctions.tax": "eSolidar tax",
   "auctions.position": "Position",
