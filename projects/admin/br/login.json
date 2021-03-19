@@ -20,5 +20,6 @@
   "custom.footer.disabled": "(Desativado)",
   "custom.footer.edit": "Editar footer personalizado",
   "custom.footer": "Footer personalizado",
-  "Header.logout": "Sair"
+  "Header.logout": "Sair",
+  "ERROR_FORM_PASSWORD_MIN": "A password deve ter no mínimo 6 caracteres"
 }

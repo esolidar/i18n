@@ -20,5 +20,6 @@
   "custom.footer.disabled": "(Disabled)",
   "custom.footer.edit": "Edit custom footer",
   "custom.footer": "Custom footer",
-  "Header.logout": "Logout"
+  "Header.logout": "Logout",
+  "ERROR_FORM_PASSWORD_MIN": "Password must contain at least 6 characters"
 }
