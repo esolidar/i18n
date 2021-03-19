@@ -6,7 +6,7 @@
   "Login.title": "Entrar no backoffice da eSolidar",
   "email": "Email",
   "password": "Palavra-passe",
-  "Login.button": "Entar",
+  "Login.button": "Entrar",
   "login.invalid.email": "Email ou palavra-passe inválidos",
   "login.invalid.data": "Invalid access data",
   "user.register.error.type": "Por favor selecione pelo menos um tipo",
