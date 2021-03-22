@@ -25,6 +25,7 @@
   "alert.success.crowdfunding.created": "Crowdfunding campaign was successfully created.",
   "alert.success.subscription.created": "The subscription was updated successfully.",
   "alert.success.request.updated": "The request was successfully updated.",
+  "alert.success.request.deleted": "The request was successfully deleted.",
   "alert.success.whitelabel.updated": "Whitelabel was successfully updated.",
   "alert.success.upload.image": "The image was successfully uploaded.",
   "alert.success.delete.image": "The image was successfully deleted."
