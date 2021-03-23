@@ -1,4 +1,8 @@
 {
+  "alert.error.400": "Existem erros no formulário.",
+  "alert.error.403": "Não tem acesso à informação pedida.",
+  "alert.error.404": "Página não encontrada, tente novamente.",
+  "alert.error.500": "Ocorreu um erro no servidor, por favor tente mais tarde.",
   "alert.error.internet-connection": "Sem ligação à internet!",
   "alert.error.unexpected": "Ocorreu um erro inesperado.",
   "alert.error.form-submit": "Corrija os campos inválidos e tente novamente.",
@@ -11,10 +15,7 @@
   "alert.error.subscription.features.created": "Por favor seleccione pelo menos uma feature.",
   "alert.error.whitelabel.updated": "Ocorreu um erro ao gravar o whitelabel.",
   "alert.error.upload.image": "Ocorreu um erro ao carregar as imagens, por favor tente novamente.",
-  "alert.error.400": "Existem erros no formulário.",
-  "alert.error.403": "Não tem acesso à informação pedida.",
-  "alert.error.404": "Página não encontrada, tente novamente.",
-  "alert.error.500": "Ocorreu um erro no servidor, por favor tente mais tarde.",
+  "alert.error.status.changed": "Ocorreu um erro ao atualizar o estado.",
 
   "alert.success.data-updated": "Dados atualizados com sucesso.",
   "alert.success.tickets.comment.created": "Comentário criado com sucesso.",
@@ -28,5 +29,6 @@
   "alert.success.request.deleted": "Pedido eliminado com sucesso.",
   "alert.success.whitelabel.updated": "Whitelabel atualizado com sucesso.",
   "alert.success.upload.image": "Imagem carregada com sucesso.",
-  "alert.success.delete.image": "Imagem eliminada com sucesso."
+  "alert.success.delete.image": "Imagem eliminada com sucesso.",
+  "alert.success.status.changed": "Estado atualizado com sucesso."
 }

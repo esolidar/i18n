@@ -441,6 +441,8 @@
   "homepage.toolsbox.charityCrowdfunding.seeAll": "Ver todas as campanhas",
   "crowdfunding.crowdfunding.institution.helps": "Apoiar esta causa",
   "crowdfunding.no.access": "Esta campanha não existe!",
+  "crowdfunding-created-success": "A sua campanha foi criada com sucesso.",
+  "crowdfunding-created-error": "Ocorreu um erro, por favor tente novamente.",
 
   "crowdfunding.add.name": "Nome da campanha",
   "crowdfunding.add.description": "Descrição",
@@ -766,6 +768,8 @@
   "company.settings.total-raised": "Mostrar o total angariado na página de perfil da empresa",
   "company.settings.dont-show": "Não mostrar",
   "company.settings.show": "Mostrar",
+  "company-review-add-files-error": "Ficheiro(s) não carregado(s)",
+  "company-review-add-images-error": "Imagens não carregadas",
 
   "homepage.configuration": "Configurar Homepage",
   "homepage.configuration.add.slideshow": "Adicionar slideshow",

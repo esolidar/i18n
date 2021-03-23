@@ -1,4 +1,8 @@
 {
+  "alert.error.400": "There are errors in the form.",
+  "alert.error.403": "You do not access to the requested information.",
+  "alert.error.404": "Page not found, try again.",
+  "alert.error.500": "There was a server error, please try again later.",
   "alert.error.internet-connection": "No internet connection found!",
   "alert.error.unexpected": "An unexpected error occurred.",
   "alert.error.form-submit": "Fix the invalid fields and try again.",
@@ -11,10 +15,7 @@
   "alert.error.subscription.features.created": "Please add at least one feature.",
   "alert.error.whitelabel.updated": "An error has occurred saving whitelabel.",
   "alert.error.upload.image": "There was an error uploading your image, please try again.",
-  "alert.error.400": "There are errors in the form.",
-  "alert.error.403": "You do not access to the requested information.",
-  "alert.error.404": "Page not found, try again.",
-  "alert.error.500": "There was a server error, please try again later.",
+  "alert.error.status.changed": "An error has occurred updating Status.",
 
   "alert.success.data-updated": "Data successfully updated.",
   "alert.success.tickets.comment.created": "Comment successfully created.",
@@ -28,5 +29,6 @@
   "alert.success.request.deleted": "The request was successfully deleted.",
   "alert.success.whitelabel.updated": "Whitelabel was successfully updated.",
   "alert.success.upload.image": "The image was successfully uploaded.",
-  "alert.success.delete.image": "The image was successfully deleted."
+  "alert.success.delete.image": "The image was successfully deleted.",
+  "alert.success.status.changed": "Status successfully updated."
 }

@@ -84,8 +84,6 @@
   "tickets.updatedAuction": "Aprovar",
   "tickets.clearAllFilters": "Limpar filtros",
   "project.tickets.files": "Ficheiros",
-  "status.changed": "Estado aprovado com sucesso",
-  "status.changed.error": "Ocorreu um erro",
   "document.files.modal.drop": "Arraste ficheiros para aqui, ou click para selecionar os ficheiros",
   "document.files.modal.acceptedFiles": "Ficheiros aceites: {accept}",
   "document.files.modal.maxSize": "Tamanho máximo permitido por ficheiro: 5mb",

@@ -444,6 +444,8 @@
   "homepage.toolsbox.charityCrowdfunding.seeAll": "See all campaigns",
   "crowdfunding.crowdfunding.institution.helps": "Support this cause",
   "crowdfunding.no.access": "This campaign does not exist!",
+  "crowdfunding-created-success": "Your campaign was successfully created.",
+  "crowdfunding-created-error": "An error has occurred, please try again.",
 
   "crowdfunding.add.name": "Campaign name",
   "crowdfunding.add.description": "Description",
@@ -765,6 +767,8 @@
   "company.settings.total-raised": "Mostrar o total angariado na página de perfil da empresa",
   "company.settings.dont-show": "Dont show",
   "company.settings.show": "Show",
+  "company-review-add-files-error": "Your file(s) was not uploaded",
+  "company-review-add-images-error": "Your image(s) was not uploaded",
 
   "homepage.configuration": "Homepage configuration",
   "homepage.configuration.add.slideshow": "Add slideshow",

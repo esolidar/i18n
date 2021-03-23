@@ -84,8 +84,6 @@
   "tickets.updatedAuction": "Approve",
   "tickets.clearAllFilters": "Clear filters",
   "project.tickets.files": "Files",
-  "status.changed": "Status was successfully updated.",
-  "status.changed.error": "Auction status was not changed",
   "document.files.modal.drop": "Drag and drop some files or click here to select them",
   "document.files.modal.acceptedFiles": "Files accepted: {accept}",
   "document.files.modal.maxSize": "Max file size accepted: 5mb",
