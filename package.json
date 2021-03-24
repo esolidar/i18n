@@ -1,7 +1,7 @@
 {
   "name": "@esolidar/i18n",
   "description": "eSolidar i18n",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "scripts": {
     "test": "jest"
   },
