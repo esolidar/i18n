@@ -61,6 +61,7 @@
   "auctions.executeCron.success": "Todos os emails enviados com sucesso",
   "auctions.notify.winner.success": "Email enviado com sucesso",
   "auctions.execute.donation.success": "Donativo adicionado com sucesso",
+  "auctions.bid.deleted": "Licitação eliminada com sucesso",
   "brand": "Marca",
   "private": "Privado",
   "public": "Publico",
