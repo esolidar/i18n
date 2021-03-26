@@ -644,6 +644,7 @@
   "crowdfunding.description.ods": "Objetivos de desenvolvimento sustentável",
   "crowdfunding.supports": "Esta campanha ajuda",
   "projects.crowdfunding.list": "Campanhas que ajudam este projeto",
+  "projects.auctions.list": "Leilões que ajudam este projeto",
   "member.created.success": "Por favor, verifique o seu email para validar a sua conta",
   "error.boundary": "Alguma coisa correu mal.",
   "error.boundary.message": "Se o problema persistir, entre em contato conosco.",
