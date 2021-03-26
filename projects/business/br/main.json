@@ -647,6 +647,8 @@
   "Auctions.Stats.compared": "no ultimo trimestre",
   "auction.add.subtitle": "Os leilões solidários são uma forma de aumentar o envolvimento dos funcionários, caso o leilão seja privado, e a visibilidade de sua marca, caso o leilão seja público.",
   "auction.add.submit.text": "O leilão será criado, mas só estará disponível após a aprovação por parte de nossa equipe. Em breve entraremos em contato.",
+  "auction.add.image": "Adicionar imagem",
+  "auction.add.image.crop": "Adicionar",
   "noAuctionsData": "Ainda não realizou nenhum leilão solidário",
 
   "Auctions.list.title": "Lista de leilões",
@@ -663,7 +665,7 @@
   "Auctions.add.shipment.costs": "Custos de envio",
   "Auctions.add.payment": "Pagamento",
   "auctions.add.submitAuction": "Submeter Leilão",
-  
+
   "auctionVideo": "VIDEO (Apenas o URL de vídeos do Youtube)",
   "auctionEsolidarTax": "Taxa Esolidar",
   "auctionBidMaxInterval": "Intervalo máximo do lance",

@@ -645,6 +645,8 @@
   "Auctions.Stats.compared": "growth last quarter",
   "auction.add.subtitle": "Charity auctions are an easy way to boost employee engagement if the auction is private and to raise awareness if the auction is public.",
   "auction.add.submit.text": "The auction will be submitted but will not be available until our team approve it. We will contact you soon.",
+  "auction.add.image": "Add image",
+  "auction.add.image.crop": "Add",
   "noAuctionsData": "There is no auctions to display",
 
   "Auctions.list.title": "Auctions list",
