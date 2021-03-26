@@ -9,6 +9,8 @@
   "video-url": "Video URL",
   "reward-description": "Reward description",
   "description": "Description",
+  "no.results": "There are no results",
+  "select.category": "Select category",
 
   "menu.feed": "Social Feed",
   "menu.auctions": "Charity Auctions",
@@ -658,8 +660,13 @@
   "Auctions.add.description": "Auction Description",
   "Auctions.add.shipment.costs": "Shipment Costs",
   "Auctions.add.payment": "Payment",
+  "auctions.status": "Auction status",
 
-  "auctionDescription": "Auctin description",
+  "auctionVideo": "VIDEO (Only Youtube videos URL)",
+  "auctionEsolidarTax": "ESOLIDAR TAX",
+  "auctionBidMaxInterval": "MAX BID INTERVAL",
+  "auctionBidInterval": "BID INTERVAL",
+  "auctionDescription": "Auction description",
   "auctionStartBid": "Starting bid",
   "auctionDescriptionShipping": "Shipment costs",
   "auctionDescriptionPayment": "Payment",
