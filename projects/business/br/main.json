@@ -650,6 +650,8 @@
   "auction.add.image": "Adicionar imagem",
   "auction.add.image.crop": "Adicionar",
   "noAuctionsData": "Ainda não realizou nenhum leilão solidário",
+  "autions.list.status": "Estado",
+  "autions.list.edit": "Editar",
 
   "Auctions.list.title": "Lista de leilões",
   "auctionShippingText": "Informação sobre os custos de envio e como o vencedor receberá o seu prémio",

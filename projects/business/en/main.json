@@ -648,6 +648,8 @@
   "auction.add.image": "Add image",
   "auction.add.image.crop": "Add",
   "noAuctionsData": "There is no auctions to display",
+  "autions.list.status": "Status",
+  "autions.list.edit": "Edit",
 
   "Auctions.list.title": "Auctions list",
   "auctionShippingText": "Information about the shipping costs of the prize to the winner.",
