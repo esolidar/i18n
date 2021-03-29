@@ -739,6 +739,7 @@
   "auction.filter.status": "Estado: ",
   "auction.filter.keywords": "Palavra-chave: ",
   "auctions.notexist": "Não existe leilões",
+  "auctions.search.notExist": "Não há resultados para a tua pesquisa",
   "auctions.search.forbidden": "Verifique a grafia das palavras inseridas",
   "homepage.toolsbox.charityAuctions.startBid": "Lance Base ",
   "homepage.toolsbox.charityAuctions.raised": "Angariado",

@@ -737,6 +737,7 @@
   "auction.filter.status": "Status: ",
   "auction.filter.keywords": "Keywords: ",
   "auctions.notexist": "There are no auctions yet to bid",
+  "auctions.search.notExist": "There are no results for your search",
   "auctions.search.forbidden": "Please check the spelling of the words you have entered.",
   "homepage.toolsbox.charityAuctions.startBid": "Starting Bid",
   "homepage.toolsbox.charityAuctions.raised": "Raised",
