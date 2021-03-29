@@ -844,5 +844,7 @@
   "feed.new.like": "New 'Love' on the post",
   "footer.menu.buyNow": "Buy now",
   "footer.menu.causes": "Causes",
-  "project.tickets.changeToWaitingFeedback": "Reopen"
+  "project.tickets.changeToWaitingFeedback": "Reopen",
+
+  "updatedBankAccountsSuccess": "Your bank accounts have been successfully updated!"
 }
