@@ -10,7 +10,7 @@ Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 ```
 
-## Todo:
+## Todo
 - remove all default messages in eSolidar
 - move eSoliar translation files into this project
 - remove all default messages from toolkit
