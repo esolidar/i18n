@@ -1815,6 +1815,8 @@
   "project.review.review.from": "Avaliação de",
   "project.review.edit": "(Editar)",
   "project.review.textarea.placeholder": "Escreva uma avaliação geral deste projeto",
+  "project.review.update": "Atualizar avaliação",
+  "project.review.save": "Gravar avaliação",
   "projects.review.rate": "Faça uma avaliação deste projeto",
   "review.rate.required": "A avaliação é obrigatória.",
   "project.requestInfo.title": "Seleccione os campos que pretende ver alterados e depois submeta o pedido.",

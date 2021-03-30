@@ -592,8 +592,6 @@
   "giftcard.used.title": "Aqui encontra todos os giftcards dados pela sua empresa que já foram gastos por si ou que já expirou a data de utilização.",
   "giftcard.expire-at": "Expira em",
   "giftcard.used": "Usado",
-  "giftcard.used-no": "Não",
-  "giftcard.used-yes": "Sim",
   "giftcard.amount": "Valor",
   "giftcard.used-at": "Usado",
   "institutions.list.select": "Selecionar",

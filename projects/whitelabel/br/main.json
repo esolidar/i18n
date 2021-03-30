@@ -592,8 +592,6 @@
   "giftcard.used.title": "Aqui encontra todos os giftcards dados pela sua empresa que já foram gastos por você ou que já expiraram a data de utilização.",
   "giftcard.expire-at": "Expira em",
   "giftcard.used": "Usado",
-  "giftcard.used-no": "Não",
-  "giftcard.used-yes": "Sim",
   "giftcard.amount": "Valor",
   "giftcard.used-at": "Usado",
   "institutions.list.select": "Selecionar",
@@ -849,8 +847,8 @@
   "project.tickets.changeToWaitingFeedback": "Reabrir",
 
   "topMenu.manageBankAccounts": "Gerir contas bancárias",
-  "bank.account.description": "Configure e edite os dados bancárias para receber os valores arrecadados com leilões que beneficiarão um ou mais projetos sociais.",
   "bank.account.title": "Gerir contas bancárias",
+  "bank.account.description": "Configure e edite os dados bancárias para receber os valores arrecadados com leilões que beneficiarão um ou mais projetos sociais.",
   "bank.account.add.international": "Adicionar conta internacional",
   "bank.account.add": "Adicionar conta",
   "bank.account.save": "Guardar",
