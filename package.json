@@ -1,20 +1,17 @@
 {
   "name": "@esolidar/i18n",
   "description": "eSolidar i18n",
-  "version": "0.0.44",
+  "version": "0.0.56",
   "scripts": {
     "test": "jest"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn test"
-    }
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/esolidar/i18n.git"
   },
-  "keywords": [],
+  "keywords": [
+    "i18n"
+  ],
   "author": "eSolidar",
   "license": "MIT",
   "bugs": {},
