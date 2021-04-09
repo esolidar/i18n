@@ -669,8 +669,8 @@
 
   "auctionVideo": "VIDEO (Apenas o URL de vídeos do Youtube)",
   "auctionEsolidarTax": "Taxa Esolidar",
-  "auctionBidMaxInterval": "Intervalo máximo do lance",
-  "auctionBidInterval": "Instervalo da lance",
+  "auctionBidMaxInterval": "INTERVALO MÁXIMO DO LANCE",
+  "auctionBidInterval": "INTERVALO MÍNIMO DO LANCE",
   "auctions.show.esolidar": "Mostar em esolidar.com",
   "auctions.status": "Estado do leilão",
   "auctionDescription": "Descrição",
