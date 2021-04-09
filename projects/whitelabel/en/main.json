@@ -502,7 +502,7 @@
   "thumb.countdown.day": "Day",
   "thumb.countdown.startsin": "Starts in:",
   "thumb.countdown.running": "Running:",
-  "thumb.countdown.ended": "Ended:",
+  "thumb.countdown.ended": "Ended",
   "thumb.countdown.eightHoursLeft": "Ending soon:",
   "countdown.hours": "Hour",
   "countdown.min": "Min",
@@ -510,7 +510,7 @@
   "countdown.day": "Day",
   "countdown.startsin": "Starts in:",
   "countdown.running": "Running:",
-  "countdown.ended": "Ended:",
+  "countdown.ended": "Ended",
   "countdown.eightHoursLeft": "Ending soon:",
 
   "checkout.remove.item": "Remove",
