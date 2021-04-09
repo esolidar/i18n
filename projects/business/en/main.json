@@ -2085,5 +2085,7 @@
 
   "error-404-message": "Sorry, the page you are looking for could not be found!",
   "back.to.homepage": "Back to homepage",
-  "page.not.found": "Page not found"
+  "page.not.found": "Page not found",
+
+  "auction.edit.forbidden": "You can not edit an Active auction"
 }

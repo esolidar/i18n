@@ -2085,5 +2085,7 @@
 
   "error-404-message": "Desculpe, a página que procura não foi encontrada!",
   "back.to.homepage": "Voltar à página principal",
-  "page.not.found": "Página não encontrada"
+  "page.not.found": "Página não encontrada",
+
+  "auction.edit.forbidden": "Não pode editar um leilão ativo"
 }
