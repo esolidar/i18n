@@ -2087,5 +2087,6 @@
   "back.to.homepage": "Voltar à página principal",
   "page.not.found": "Página não encontrada",
 
-  "auction.edit.forbidden": "Não pode editar um leilão ativo"
+  "auction.edit.forbidden": "Não pode editar um leilão ativo",
+  "institution": "Instituição"
 }
