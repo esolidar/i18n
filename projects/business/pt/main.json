@@ -2088,5 +2088,6 @@
   "page.not.found": "Página não encontrada",
 
   "auction.edit.forbidden": "Não pode editar um leilão ativo",
-  "institution": "Instituição"
+  "institution": "Instituição",
+  "institutions.list.selected": "Selecionado"
 }
