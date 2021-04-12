@@ -28,6 +28,7 @@ jobs:
         run: yarn test
 
   update-version-and-publish:
+    needs: run-tests
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
