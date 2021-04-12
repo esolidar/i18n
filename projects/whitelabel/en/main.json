@@ -79,6 +79,7 @@
 
   "login.title": "Login to {value}",
   "user.register.FBinfo": "The fastest way to start",
+  "user.login.FBinfo": "The fastest way to authenticate",
   "Login.forgot.password": "Forgot your password?",
   "Login.recover.password": "Recover",
   "Login.create.account": "Don’t have an account?",

@@ -79,6 +79,7 @@
 
   "login.title": "Autentique-se em {value}",
   "user.register.FBinfo": "A forma mais rápida de se cadastrar",
+  "user.login.FBinfo": "A forma mais rápida de se registrar",
   "Login.forgot.password": "Esqueceu-se da senha?",
   "Login.recover.password": "Recuperar",
   "Login.create.account": "Ainda não tem conta?",
