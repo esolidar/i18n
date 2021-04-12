@@ -123,6 +123,7 @@
   "user.register.title": "Registe-se primeiro antes de registar a sua empresa",
   "user.register.FBtext": "Registar com Facebook",
   "user.register.FBinfo": "The fastest way to start",
+  "user.login.FBinfo": "The fastest way to authenticate",
   "user.register.or": "Ou",
   "country.label": "Country",
   "user.register.birthDate": "Data de nascimento",

@@ -123,6 +123,7 @@
   "user.register.title": "Cadastre-se primeiro antes de cadastrar a sua empresa",
   "user.register.FBtext": "Entrar com o Facebook",
   "user.register.FBinfo": "A forma mais rápida de se cadastrar",
+  "user.login.FBinfo": "A forma mais rápida de se registrar",
   "user.register.or": "Ou",
   "country.label": "País",
   "user.register.birthDate": "Data de nascimento",
