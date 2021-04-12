@@ -737,6 +737,8 @@
   "auction.filter.status": "Estado: ",
   "auction.filter.keywords": "Palavra-chave: ",
   "auctions.notexist": "Não existe leilões",
+  "auctions.error.notexist": "Desculpe, um erro ocorreu ao processar a pesquisa",
+  "auctions.error.notexist.description": "Por favor, tente novamente em alguns minutos",
   "auctions.search.notexist": "Nenhum leilão encontrado",
   "auctions.search.notExist.description": "Por favor verifique a ortografia ou tente termos mais genéricos.",
   "auctions.search.forbidden": "Verifica a ortografia das palavras inseridas",
