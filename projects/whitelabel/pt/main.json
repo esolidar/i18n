@@ -709,6 +709,7 @@
   "auction.modal.bid.anonymousBid": "Licitar como anónimo.",
   "auctions.private.supportes": "Insira o código de acesso para exibir e licitar no leilão: ",
   "auctions.private.insertCode": "Insira o código",
+  "auction.private.insertCode": "Introduza o código",
   "auction.private.cancel": "Cancelar",
   "auction.private.confirm": "Confirmar",
   "auction.private.validate": "Validar",

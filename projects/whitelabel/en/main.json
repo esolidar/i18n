@@ -709,6 +709,7 @@
   "auction.modal.bid.anonymousBid": "Anonymous bid",
   "auctions.private.supportes": "Insert the access code to display and bid on the auction: ",
   "auctions.private.insertCode": "Insert code",
+  "auction.private.insertCode": "Insert code",
   "auction.private.cancel": "Cancel",
   "auction.private.confirm": "Confirm",
   "auction.private.validate": "Validate",
