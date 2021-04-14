@@ -483,6 +483,7 @@
   "checkout.noitems": "Não existe artigos para pagar",
   "crowdfunding.donation.checkout.goHome": "Ir para a homepage",
   "payment.loader.processing": "Por favor, aguarde. Estamos a processar o seu pagamento",
+  "payment.loader.wait": "Por favor aguarde",
   "crowdfunding.donation.checkout.anonymous": "Fazer contribuição como anónimo",
   "header.crowdfunding": "Crowdfunding",
   "crowdfunding.list.public": "Crowdfunding",

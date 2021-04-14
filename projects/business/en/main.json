@@ -486,6 +486,7 @@
   "checkout.noitems": "There are no items to checkout",
   "crowdfunding.donation.checkout.goHome": "Go home",
   "payment.loader.processing": "Please wait, we are processing your payment.",
+  "payment.loader.wait": "Please wait",
   "crowdfunding.donation.checkout.anonymous": "Make an anonymous donation.",
   "header.crowdfunding": "Crowdfunding",
   "crowdfunding.list.public": "Crowdfunding",
