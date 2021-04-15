@@ -750,6 +750,7 @@
   "auction.tags.info": "Use comma, space or enter to add a new tag.",
   "auctions.show.esolidar.info": "This will include the auction in the esolidar listing page, being accessible outside your brand’s page.",
   "auction.institution.search.placeholder": "Search for esolidar institutions",
+  "auction.no.project": "No projects avaliable yet",
 
   "job": "Job / Position",
   "phone": "Phone",

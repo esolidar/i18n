@@ -749,6 +749,7 @@
   "auction.tags.info": "Use vírgula, espaço ou enter para adicionar uma nova tag.",
   "auctions.show.esolidar.info": "Esta ação vai incluir o leilão no site da eSolidar, sendo possível de aceder fora da página da sua marca.",
   "auction.institution.search.placeholder": "Pesquise por instituições na eSolidar",
+  "auction.no.project": "Nenhum projeto disponível ainda",
   "auctions.add.type.help": "Leilões privados só podem ser acedidos através de um código.",
 
   "job": "Cargo / Posição",
