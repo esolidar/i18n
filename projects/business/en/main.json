@@ -739,7 +739,7 @@
   "auctions.add.form.title": "Basic information",
   "auction.images": "IMAGES",
   "auctions.add.submit.draft": "Save as Draft",
-  "auctions.edit.submitAuction": "Submit Auction",
+  "auctions.edit.submitAuction": "Update auction",
   "auction.beneficiary.help": "Select the institution or project that will benefit from this auction.",
   "auction.institution": "Institution",
   "auction.project": "Project",

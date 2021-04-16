@@ -738,7 +738,7 @@
   "auctions.add.form.title": "Informação básica",
   "auction.images": "Imagens",
   "auctions.add.submit.draft": "Salvar como rascunho",
-  "auctions.edit.submitAuction": "Submeter leilão",
+  "auctions.edit.submitAuction": "Atualizar leilão",
   "auction.beneficiary.help": "Selecione a organização social ou projeto que será beneficiado com o leilão.",
   "auction.institution": "Organização social",
   "auction.project": "Projeto",
