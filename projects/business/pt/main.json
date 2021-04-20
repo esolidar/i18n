@@ -107,6 +107,7 @@
   "recovery.password.title": "Recuperar palavra-passe",
   "recovery.enter.email": "Email de registo",
   "recovery.password.button": "Enviar",
+  "recovery.password.email.not.exist": "O email inserido não existe!",
   "success.recovery.pass": "Recebeu um email com a informação para alterar a sua password.",
   "redifine.password.title": "Redefinir palavra-passe",
   "code": "Insira o código de segurança",
