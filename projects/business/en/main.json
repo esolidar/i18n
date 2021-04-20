@@ -107,6 +107,7 @@
   "recovery.password.title": "Recovery Password",
   "recovery.enter.email": "Register email",
   "recovery.password.button": "Recover",
+  "recovery.password.email.label": "Enter your email",
   "recovery.password.email.not.exist": "The email you entered does not exist!",
   "success.recovery.pass": "You received an email with the information to change your password.",
   "redifine.password.title": "Redefine Password",

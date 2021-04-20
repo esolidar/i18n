@@ -107,6 +107,7 @@
   "recovery.password.title": "Recuperar senha",
   "recovery.enter.email": "Email de cadastro",
   "recovery.password.button": "Enviar",
+  "recovery.password.email.label": "Insira o seu e-mail",
   "recovery.password.email.not.exist": "O email inserido não existe!",
   "success.recovery.pass": "Recebeu um email com a informação para alterar a sua senha.",
   "redifine.password.title": "Redefinir senha",
