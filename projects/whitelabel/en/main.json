@@ -698,7 +698,7 @@
   "auction.shipping": "Shipping",
   "auction.payment": "Payment",
   "auction.modal.bid.email": "If you are the winner you will receive an email to: ",
-  "auction.modal.bid.check1": "eSolidar and the charity/cause for which it is intended the amount raised in this auction, we reserve the legal right to take legal action against any act that puts into question the normal operation of it.",
+  "auction.modal.bid.check1": "eSolidar and the charity/cause for which it is intended the amount raised in this auction we reserve the legal right to take legal action against any act that puts into question the normal operation of it.",
   "auction.modal.bid.check2": "I agree with the eSolidar Privacy Policy and Terms and Conditions.",
   "auction.modal.bid.check3": "To be able to bid you must first accept to receive our notifications. This will allow us to inform you whenever you win an auction.",
   "auction.modal.bid.confirm": "Confirm bid",
