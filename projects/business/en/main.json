@@ -46,6 +46,8 @@
   "footer.menu.no.pack.contact.us.chat": "\"Contact us\"",
   "footer.menu.btn.close": "Close",
 
+  "user.register.error.video": "The URL is not correct.",
+  "user.register.error.select.only.one": "You cannot select both a cause and a project. Please select only one.",
   "user.register.error.required": "This field is required",
   "user.register.error.email.invalid": "Email is invalid",
   "user.register.error.email": "This email is invalid",

@@ -881,5 +881,5 @@
   "accountholder": "Account holder",
   "banksortcode": "Bank sort code",
   "accountnumber": "Account number",
-  "user.register.error.bank.account": "Por favor, adicione uma conta bancária nacional ou internacional"
+  "user.register.error.bank.account": "Please add either a national or international bank account"
 }
