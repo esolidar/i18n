@@ -2078,7 +2078,7 @@
   "bic.swift": "BIC/SWIFT",
   "bank.account": "Bank account #{value}",
   "bank.account.international.value": "International bank account #{value}",
-  "bank.account.field": "Account",
+  "bank.account.field": "Account Number",
   "bank.account.beneficiary": "Account holder",
   "bank.account.cnpj": "VAT",
   "bank.account.bank_branch": "Bank branch",
