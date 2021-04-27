@@ -378,7 +378,7 @@
   "crowdfunding.pending": "Pendente",
   "crowdfunding.completed": "Finalizado",
   "crowdfunding.rejected": "Rejeitado",
-  "crowdfunding.contributors.modal.title": "Lista de contribuições de '{value}'",
+  "crowdfunding.contributors.modal.title": "Lista de contribuições de \"{value}\"",
   "crowdfunding.list.contribute": "Contributo",
   "crowdfunding.list.payed": "Pago",
   "crowdfunding.contributors.modal.sub-title": "Deve confirmar o pagamento das contribuições que já recebeu e/ou eliminar uma contribuição.",
