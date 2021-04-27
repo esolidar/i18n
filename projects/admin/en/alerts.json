@@ -15,7 +15,7 @@
   "alert.error.subscription.features.created": "Please add at least one feature.",
   "alert.error.whitelabel.updated": "An error has occurred saving whitelabel.",
   "alert.error.upload.image": "There was an error uploading your image, please try again.",
-  "alert.error.status.changed": "An error has occurred updating Status.",
+  "alert.error.status.changed": "An error has occurred updating status.",
 
   "alert.success.data-updated": "Data successfully updated.",
   "alert.success.tickets.comment.created": "Comment successfully created.",
