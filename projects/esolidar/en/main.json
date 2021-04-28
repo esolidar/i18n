@@ -641,6 +641,7 @@
   "crowdfunding.detail.access.denied": "This page does not exist",
   "crowdfunding.detail.campaign.status.rejected": "This crowdfunding campaign was rejected.",
   "crowdfunding.detail.campaign.status.pending": "This crowdfunding campaign is pending.",
+  "crowdfunding.detail.companySupport": "{companyName} is supporting the realization of this crowdfunding.",
   "payments.title": "Manage Payments",
   "payments.soon.subtitle": "All payments and donations made from gift cards and match donations are made directly to solidarity institutions. Here you can see the entire donation history and make payments for social causes in an easy and intuitive way.",
   "impactAnalytics.soon.title": "Statistics",

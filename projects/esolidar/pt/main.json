@@ -641,6 +641,7 @@
   "crowdfunding.detail.access.denied": "A página não existe",
   "crowdfunding.detail.campaign.status.rejected": "Esta campanha de crowdfunding foi rejeitada.",
   "crowdfunding.detail.campaign.status.pending": "Esta campanha de crowdfunding está pendente.",
+  "crowdfunding.detail.companySupport": "{companyName} está a apoiar a realização deste crowdfunding.",
   "payments.title": "Gerir pagamentos",
   "payments.soon.subtitle": "Todos os pagamentos e donativos feitos a partir dos cartões presente e match de donativos são feitos diretamente as instituições de solidariedade. Aqui poderá ver todo o histórico de donativos e realizar os pagamentos para as causas sociais de uma forma fácil e intuitiva.",
   "impactAnalytics.soon.title": "Análise de impacto",
