@@ -1,3 +1,5 @@
+const { logError, logEmpty } = require("../../shared/utils/tests");
+
 const project = "admin";
 
 const translations = {
@@ -6,17 +8,11 @@ const translations = {
   pt: require(`../../projects/${project}/pt`),
 };
 
-const errorList = [];
-const logError = (key, locale) =>
-  console.error(`Missing key in ${project}: "${key}" for locale: "${locale}"`);
-
-const emptyList = [];
-const logEmpty = (key, locale) =>
-  console.error(`Empty key in ${project}: "${key}" for locale: "${locale}"`);
-
 const localesList = Object.keys(translations);
 
-test(`${project}: error list must be empty`, () => {
+test(`${project}: every key should exist in every locale`, () => {
+  const errorList = [];
+
   localesList.forEach(lang => {
     const translationKeys = Object.keys(translations[lang]);
 
@@ -27,7 +23,7 @@ test(`${project}: error list must be empty`, () => {
       });
     });
 
-    if (errorList.length) errorList.forEach(([key, locale]) => logError(key, locale));
+    if (errorList.length) errorList.forEach(([key, locale]) => logError(project, key, locale));
     expect(errorList.length).toBe(0);
   });
 });
@@ -54,14 +50,17 @@ test(`${project}: equal number of translations for every locale`, () => {
 });
 
 test(`${project}: there are no empty translations in any locale`, () => {
+  const emptyList = [];
+
   localesList.forEach(locale => {
     const translationKeys = Object.keys(translations[locale]);
     const translationValues = Object.values(translations[locale]);
+
     translationValues.forEach((item, i) => {
       if (item === "") emptyList.push([translationKeys[i], locale]);
     });
   });
 
-  if (emptyList.length) emptyList.forEach(([key, locale]) => logEmpty(key, locale));
+  if (emptyList.length) emptyList.forEach(([key, locale]) => logEmpty(project, key, locale));
   expect(emptyList.length).toBe(0);
 });
