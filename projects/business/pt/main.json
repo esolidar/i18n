@@ -1623,6 +1623,7 @@
   "brands.title": "Gerir marcas",
   "brands.subtitle": "Aqui pode adicionar e gerir todas as marcas da sua empresa.",
   "brands.add.text": "Adicione uma página com a marca da sua empresa que estará visível para a comunidade eSolidar após a sua aprovação.",
+  "brands.add.text.noSubscription": "Para adicionar marcas faça, por favor, upgrade à sua subscrição, contacte-nos em info@esolidar.com.",
   "brands.add.brand": "Adicionar marca",
   "brands.list.text": "Lista de marcas",
   "brands.list.active": "Ativas",
