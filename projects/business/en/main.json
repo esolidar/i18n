@@ -1623,7 +1623,7 @@
   "brands.title": "Manage brands",
   "brands.subtitle": "Here you can add and manage all of your company's brands.",
   "brands.add.text": "Add a page with your company's brand that will be visible to the eSolidar community after your approval.",
-  "brands.add.text.noSubscription": "To add brands, please upgrade your subscription, contact us at <a>info@esolidar.com</a>.",
+  "brands.add.text.noSubscription": "To add brands please upgrade your subscription, contact us at <a>info@esolidar.com</a>.",
   "brands.add.brand": "New brand",
   "brands.list.text": "Brands list",
   "brands.list.active": "Active",
