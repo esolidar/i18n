@@ -4,7 +4,9 @@
   "version": "0.0.88",
   "scripts": {
     "test": "jest",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "print-duplicated-values": "node -e 'require(\"./shared/utils/duplicated\").printDuplicatedValues()'",
+    "print-duplicated-key": "node -e 'require(\"./shared/utils/duplicated\").printDuplicatedKey()'"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,8 @@
   "devDependencies": {
     "husky": "^6.0.0",
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
