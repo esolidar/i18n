@@ -1632,5 +1632,6 @@
   "faqs.chatwithus": "Fale connosco",
   "institution.email.validate.success": "O seu email foi validado com sucesso",
   "institution.email.validate.error": "O seu email não foi validado",
-  "erro500Message": "Ocorreu um erro, por favor teste mais tarde!"
+  "erro500Message": "Ocorreu um erro, por favor teste mais tarde!",
+  "brand.no-items": "Sem iniciativas ativas"
 }

@@ -1632,5 +1632,6 @@
   "faqs.chatwithus": "Chat with us",
   "institution.email.validate.success": "Your email was successfully validated",
   "institution.email.validate.error": "Your email was not validated",
-  "erro500Message": "An error has occurred, please try again later!"
+  "erro500Message": "An error has occurred, please try again later!",
+  "brand.no-items": "Without campaigns at this moment"
 }
