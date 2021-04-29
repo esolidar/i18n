@@ -91,5 +91,6 @@
   "crowdfunding.endsIn": "Ends in",
   "crowdfunding.endedIn": "Ended in",
   "crowdfunding.thumb.raised": "Raised",
-  "crowdfunding.no.access": "This campaign does not exist!"
+  "crowdfunding.no.access": "This campaign does not exist!",
+  "crowdfunding.detail.companySupport": "{companyName} is supporting the realization of this crowdfunding."
 }

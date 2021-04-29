@@ -567,6 +567,7 @@
   "crowdfunding.crowdfunding.helps": "This crowdfunding campaign is helping:",
   "crowdfunding.no-contributions": "No contributions",
   "crowdfunding.detail.campaign.status.pending": "This crowdfunding campaign is pending.",
+  "crowdfunding.detail.companySupport": "{companyName} is supporting the realization of this crowdfunding.",
   "crowdfunding.detail.campaign.editCampaign": "Edit campaign",
   "commentHere": "Comment here",
   "crowdfunding.create.comment": "Write a comment",
