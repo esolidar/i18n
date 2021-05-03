@@ -42,7 +42,7 @@
 
   "login.Access.denied": "Access denied",
   "login.Access.denied.contact": "Por Please contact the eSolidar team.",
-  "footer.menu.no.pack.contact.us": "by email: <a href=\"mailto:info@esolidar.com\">info@esolidar.com</a> or in the chat",
+  "footer.menu.no.pack.contact.us": "by email: <a>info@esolidar.com</a> or in the chat",
   "footer.menu.no.pack.contact.us.chat": "\"Contact us\"",
   "footer.menu.btn.close": "Close",
 
@@ -1515,7 +1515,7 @@
   "footer.newsletter.title": "Newsletter",
   "footer.newsletter.id": "form_6faaf002",
   "footer.menu.btn.contact.us": "Request a demo",
-  "footer.menu.contact.us": "Or contact us at <a href='mailto:info@esolidar.com'>info@esolidar.com</a>",
+  "footer.menu.contact.us": "Or contact us at <a>info@esolidar.com</a>",
   "footer.menu.join.us": "Follow us",
 
   "footer.chat.with.us": "Chat with us",
