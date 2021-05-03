@@ -716,7 +716,7 @@
   "auction.description.info": "Descreve informações sobre o prêmio, objetivos e o motivo que o levou a criar este leilão.",
   "optional": "opcional",
   "auction.tags": "Tags",
-  "auction.tags.placeholder": "e.g. tshirt, futebol, ronaldo, cr7",
+  "auction.tags.placeholder": "Ex. tshirt, futebol, ronaldo, cr7",
   "auction.tags.help": "Inclua tags para ajudar possíveis licitadores a encontrar mais facilmente o seu leilão.",
   "auctions.add.multimedia": "Multimédia",
   "auctions.add.multimedia.help": "Pode adicionar até 5 ficheiros de multimédia para apresentar o seu leilão.",
