@@ -64,6 +64,7 @@
   "user.register.error.currency": "Select currency",
   "user.register.error.email.paypal.validated": "This email is not a PayPal account or do not accept the selected currency!",
   "user.register.error.payment.method": "Payment method is required",
+  "user.register.error.bank.account": "Please add either a national or international bank account",
 
   "Header.logout": "Logout",
   "Header.signin": "Sign in",

@@ -64,6 +64,7 @@
   "user.register.error.currency": "Selecione uma moeda",
   "user.register.error.email.paypal.validated": "Este email não é uma conta PayPal ou não aceita a moeda seleccinada!",
   "user.register.error.payment.method": "O método de pagamento é obrigatório",
+  "user.register.error.bank.account": "Por favor, adicione uma conta bancária nacional ou internacional",
 
   "Header.logout": "Sair",
   "Header.signin": "Entrar",
