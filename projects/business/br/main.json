@@ -2072,7 +2072,7 @@
   "bank.account.empty": "Não existem contas bancárias.",
   "bank.account.subtitle": "Conta bancária",
   "bank.account.delete.title": "Excluir conta bancária",
-  "bank.account.delete.body": "Excluir conta bancáriaVocê não poderá recuperar as informações da conta depois de excluí-las.",
+  "bank.account.delete.body": "Você não poderá recuperar as informações da conta depois de excluí-las.",
   "confirm": "Confirmar",
   "bank.account.delete": "Eliminar conta",
   "iban": "IBAN",
