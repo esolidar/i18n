@@ -1,9 +1,9 @@
 {
-  "Header.goEsolidar": "Ir para eSolidar.com",
-  "Header.goBusinessEsolidar": "Ir para business.eSolidar.com",
+  "Header.goEsolidar": "Ir para esolidar.com",
+  "Header.goBusinessEsolidar": "Ir para business.esolidar.com",
   "Header.signin": "Entrar",
-  "footer.copyright": "©{year} eSolidar. Todos os direitos reservados.",
-  "Login.title": "Entrar no backoffice da eSolidar",
+  "footer.copyright": "©{year} esolidar. Todos os direitos reservados.",
+  "Login.title": "Entrar no backoffice da esolidar",
   "email": "Email",
   "password": "Palavra-passe",
   "Login.button": "Entrar",

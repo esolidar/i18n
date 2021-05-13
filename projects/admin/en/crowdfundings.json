@@ -28,7 +28,7 @@
   "crowdfunding.table.previousPage": "Previous Page",
   "crowdfunding.table.nextPage": "Next Page",
   "selected.rows": "You have {numSelected, number} {numSelected, plural, one {row selected} other {rows selected}}",
-  "admin.welcome": "Welcome eSolidar admin!",
+  "admin.welcome": "Welcome esolidar admin!",
   "timezone": "Timezone",
   "crowdfunding.add.id": "Id",
   "crowdfunding.add.position": "Position",

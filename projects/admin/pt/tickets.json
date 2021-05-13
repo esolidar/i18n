@@ -24,7 +24,7 @@
   "tickets.status.waitingFeedback": "Aguarda Resposta",
   "tickets.status.pendingCustomerFeedback": "Aguarda resposta do cliente",
   "tickets.status.pendingCompanyFeedback": "Aguarda resposta da empresa",
-  "tickets.status.pendingeSolidarFeedback": "Aguarda resposta da eSolidar",
+  "tickets.status.pendingeSolidarFeedback": "Aguarda resposta da esolidar",
   "tickets.priority.all": "Todas",
   "tickets.priority.low": "Baixa",
   "tickets.priority.lowest": "Muito Baixa",
