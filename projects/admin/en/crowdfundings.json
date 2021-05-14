@@ -63,7 +63,7 @@
   "institution.category": "Category",
   "institution.search.category": "All",
   "payment.method.paypal": "Paypal",
-  "payment.method.stripe": "Stripe",
+  "payment.method.stripe": "Credit Card (Stripe)",
   "payment.method.MBWay": "MBWay",
   "payment.method.CreditCard": "Credit Card (SIBS)",
   "payment.method.DirectDebit": "Direct Debit (SIBS)",
