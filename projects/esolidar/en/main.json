@@ -198,6 +198,7 @@
   "Header.goEsolidar": "Go to esolidar.com",
   "header.menu.crowdfunding": "Crowdfunding",
   "footer.menu.help": "Help Center",
+  "footer.menu.help.url": "https://help.esolidar.com",
   "footer.menu.terms": "Terms & Conditions",
   "footer.menu.policy": "Privacy Policy",
   "footer.menu.faqs": "FAQ's",
