@@ -84,6 +84,8 @@
   "header.menu.dashboard": "Dashboard",
   "header.menu.home": "Home",
 
+  "footer.menu.title.whyEsolidar": "Why esolidar?",
+  "footer.menu.title.learn": "Learn",
   "footer.menu.about": "About",
   "footer.menu.howItWorks": "How it works",
   "footer.menu.blog": "Blog",
@@ -1465,7 +1467,7 @@
 
   "landing.depositions.title": "Who is already generating social impact with esolidar",
   "landing.depositions.dep-1": "“All this experience has been very productive, concerning the relationship between the employees and also the promotion of charity auctions together with the Football Foundation - Liga Portugal which is the League's Social Responsibility area and we are pleased with the service, so we continue for a new era and with new projects.”{br}<i>Margarida Miranda</i>{br}<b>LIGA DE FUTEBOL PORTUGUESA | Head of Social Responsibility</b>",
-  "landing.depositions.dep-2": "“TAP Air Portugal is very pleased with this partnership established with esolidar that started in 2016. This way, we have been able to build our solidary support to the causes and associations with which we identify and care and know that esolidar has, also, this purpose and this vision.”{br}<i>Sandra Fanha</i>{br}<>TAP AIR PORTUGAL | Head of Social Responsibility</>",
+  "landing.depositions.dep-2": "“TAP Air Portugal is very pleased with this partnership established with esolidar that started in 2016. This way, we have been able to build our solidary support to the causes and associations with which we identify and care and know that esolidar has, also, this purpose and this vision.”{br}<i>Sandra Fanha</i>{br}<b>TAP AIR PORTUGAL | Head of Social Responsibility</b>",
 
   "landing.clients.title": "Clients",
   "landing.clients.new-1.img.src": "/frontend/assets/landing/delfim.png",
