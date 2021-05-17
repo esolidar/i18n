@@ -18,6 +18,8 @@
   "day": "Day",
   "month": "Month",
   "year": "Year",
+  "organizations": "Organizations",
+  "solidarity.market": "Solidarity Market",
   "errorFieldRequiredMessage": "The field is required.",
   "menu.feed": "Social Feed",
   "menu.auctions": "Charity Auctions",
