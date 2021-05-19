@@ -1668,5 +1668,8 @@
   "signup.busienss.title": "Schedule a demo to get to know our business solutions",
   "your.email": "Your email",
   "signup.business.title": "Schedule a demo to get to know our business solutions",
-  "signup.business.footer.message": "You’ll be able to schedule the date and time of your demo in the next step."
+  "signup.business.footer.message": "You’ll be able to schedule the date and time of your demo in the next step.",
+  "create.account": "Create account",
+  "corporate": "Corporate",
+  "book.demo": "Schedule demo"
 }
