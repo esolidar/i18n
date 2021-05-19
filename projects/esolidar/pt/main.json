@@ -1672,5 +1672,6 @@
   "create.account": "Criar conta",
   "corporate": "Corporativo",
   "book.demo": "Agendar demo",
-  "user.signin.business.switch": "Entrar na área administrativa"
+  "user.signin.business.switch": "Entrar na área administrativa",
+  "email.password.invalid.admin": "A sua conta não pode aceder a área administrativa."
 }

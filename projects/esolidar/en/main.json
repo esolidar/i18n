@@ -1672,5 +1672,6 @@
   "create.account": "Create account",
   "corporate": "Corporate",
   "book.demo": "Schedule demo",
-  "user.signin.business.switch": "Access admin area"
+  "user.signin.business.switch": "Access admin area",
+  "email.password.invalid.admin": "Your account can't access admin area."
 }
