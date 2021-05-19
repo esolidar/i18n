@@ -1671,5 +1671,6 @@
   "signup.business.footer.message": "Poderá agendar a data e hora da sua demo no passo seguinte",
   "create.account": "Criar conta",
   "corporate": "Corporativo",
-  "book.demo": "Agendar demo"
+  "book.demo": "Agendar demo",
+  "user.signin.business.switch": "Entrar na área administrativa"
 }

@@ -1671,5 +1671,6 @@
   "signup.business.footer.message": "You’ll be able to schedule the date and time of your demo in the next step.",
   "create.account": "Create account",
   "corporate": "Corporate",
-  "book.demo": "Schedule demo"
+  "book.demo": "Schedule demo",
+  "user.signin.business.switch": "Access admin area"
 }
