@@ -1138,7 +1138,7 @@
   "user.signup.birthDay": "Birth Date",
   "user.signup.acceptTerms": "I accept esolidar's {privacy} and {terms}.",
   "user.signup.acceptAge": "I am 18 years old or over",
-  "user.signup.acceptNotifications": "You will receive esolidar’s notifications by email – such as purchase/sales notifications, auction bids, among others – to improve your website experience. You may change your email notification preferences, at any time, on the 'Edit Profile' menu. If you turn this option off, you are responsible for keeping track of the notifications of bids and purchases/sales as you will only access them on the website.",
+  "user.signup.acceptNotifications": "You will receive esolidar’s notifications by email – such as purchase/sales notifications, auction bids, among others – to improve your website experience.",
   "user.signup.acceptNewsletter": "I agree to receive general email notifications of purchases, sales, auction bids, among others.",
   "user.signup.btn": "Sign up",
   "user.signup.haveAccount": "Log in to existing account",
