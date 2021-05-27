@@ -73,6 +73,7 @@
   "Header.demo.url": "https://demo.esolidar.com/pt-br/",
   "header.menu.login": "Entrar",
   "header.menu.blog": "Blog",
+  "header.menu.blog.url": "https://impactosocial.esolidar.com/",
   "header.menu.whyEsolidar": "Porquê a esolidar?",
   "header.menu.companies": "Empresas",
   "header.menu.organizations": "Organizações",
@@ -83,6 +84,7 @@
   "header.menu.helpCenter": "Central de ajuda",
   "header.menu.dashboard": "Dashboard",
   "header.menu.home": "Início",
+  "header.menu.help.url": "https://help.esolidar.com/kb/pt",
 
   "footer.menu.title.whyEsolidar": "Porquê a esolidar?",
   "footer.menu.title.learn": "Aprenda",
