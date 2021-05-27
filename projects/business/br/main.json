@@ -67,11 +67,11 @@
   "user.register.error.bank.account": "Por favor, adicione uma conta bancária nacional ou internacional",
 
   "Header.logout": "Sair",
-  "Header.signin": "Entrar",
   "Header.register": "Cadastre-se",
   "Header.goEsolidar": "Ir para esolidar.com",
   "Header.demo": "Agendar demo",
   "Header.demo.url": "https://demo.esolidar.com/pt-br/",
+  "header.menu.login": "Entrar",
   "header.menu.blog": "Blog",
   "header.menu.whyEsolidar": "Porquê a esolidar?",
   "header.menu.companies": "Empresas",

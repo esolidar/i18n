@@ -67,11 +67,11 @@
   "user.register.error.bank.account": "Please add either a national or international bank account",
 
   "Header.logout": "Logout",
-  "Header.signin": "Log in",
   "Header.register": "Sign up",
   "Header.goEsolidar": "Go to esolidar.com",
   "Header.demo": "Book a demo",
   "Header.demo.url": "https://demo.esolidar.com/pt-pt/",
+  "header.menu.login": "Log in",
   "header.menu.blog": "Blog",
   "header.menu.whyEsolidar": "Why esolidar?",
   "header.menu.companies": "For companies",
