@@ -58,6 +58,7 @@
   "header.menu.howItWorks": "Como funciona",
   "header.menu.about": "Sobre",
   "header.menu.blog": "Blog",
+  "header.menu.blog.url": "https://impactosocial.esolidar.com/pt-pt/",
   "header.menu.ChatWithUs": "Fale connosco",
   "header.menu.whyEsolidar": "Porquê a esolidar?",
   "header.menu.companies": "Empresas",
@@ -69,6 +70,8 @@
   "header.menu.helpCenter": "Central de ajuda",
   "header.menu.dashboard": "Dashboard",
   "header.menu.home": "Início",
+  "header.menu.help.url": "https://help.esolidar.com/kb/pt",
+
   "header.notifications.noNotifications": "Não tem notificações.",
   "modal.changeCompany.title": "Alterar de empresa",
   "modal.changeCompany.description": "Esta notificação refere-se à sua outra empresa. Deseja mudar para essa empresa?",

@@ -58,6 +58,7 @@
   "header.menu.howItWorks": "How it works",
   "header.menu.about": "About",
   "header.menu.blog": "Blog",
+  "header.menu.blog.url": "https://impactosocial.esolidar.com/",
   "header.menu.ChatWithUs": "Chat with us",
   "header.menu.whyEsolidar": "Why esolidar?",
   "header.menu.companies": "For companies",
@@ -69,6 +70,8 @@
   "header.menu.helpCenter": "Help Center",
   "header.menu.dashboard": "Dashboard",
   "header.menu.home": "Home",
+  "header.menu.help.url": "https://help.esolidar.com/kb/en",
+
   "header.notifications.noNotifications": "No notifications.",
   "modal.changeCompany.title": "Change the company",
   "modal.changeCompany.description": "This notification is for your other company. Do you wish to switch to that company?",
