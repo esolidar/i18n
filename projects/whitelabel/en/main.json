@@ -887,5 +887,7 @@
   "user.register.error.bank.account": "Please add either a national or international bank account",
   "day": "Day",
   "month": "Month",
-  "year": "Year"
+  "year": "Year",
+  "session.lost": "Session expired",
+  "session.lost.message": "Please, login."
 }
