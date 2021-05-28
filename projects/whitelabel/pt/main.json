@@ -884,5 +884,8 @@
   "accountholder": "Titular da conta",
   "banksortcode": "Código de identificação bancária",
   "accountnumber": "Número de conta bancária",
-  "user.register.error.bank.account": "Por favor, adicione uma conta bancária nacional ou internacional"
+  "user.register.error.bank.account": "Por favor, adicione uma conta bancária nacional ou internacional",
+  "day": "Dia",
+  "month": "Mês",
+  "year": "Ano"
 }

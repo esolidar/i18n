@@ -884,5 +884,8 @@
   "accountholder": "Account holder",
   "banksortcode": "Bank sort code",
   "accountnumber": "Account number",
-  "user.register.error.bank.account": "Please add either a national or international bank account"
+  "user.register.error.bank.account": "Please add either a national or international bank account",
+  "day": "Day",
+  "month": "Month",
+  "year": "Year"
 }
