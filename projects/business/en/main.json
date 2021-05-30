@@ -764,8 +764,8 @@
   "auction.images": "IMAGES",
   "auctions.add.submit.draft": "Save as Draft",
   "auctions.edit.submitAuction": "Update auction",
-  "auction.beneficiary.help": "Select the institution or project that will benefit from this auction.",
-  "auction.institution": "Institution",
+  "auction.beneficiary.help": "Select the nonprofit or project that will benefit from this auction.",
+  "auction.institution": "Nonprofit",
   "auction.project": "Project",
   "projects": "Projects",
   "auction.add.project.member": "We will send an email to the person that created the project informing him that you have built an auction to help raise funds.",
@@ -773,7 +773,7 @@
   "Auctions.add": "Add auction",
   "auction.tags.info": "Use comma, space or enter to add a new tag.",
   "auctions.show.esolidar.info": "This will include the auction in the esolidar listing page, being accessible outside your brand’s page.",
-  "auction.institution.search.placeholder": "Search for esolidar institutions",
+  "auction.institution.search.placeholder": "Search for esolidar nonprofit",
   "auction.no.project": "No projects avaliable yet",
 
   "job": "Job / Position",
@@ -2116,6 +2116,6 @@
   "page.not.found": "Page not found",
 
   "auction.edit.forbidden": "You can not edit an Active auction",
-  "institution": "Institution",
+  "institution": "Nonprofit",
   "institutions.list.selected": "Selected"
 }
