@@ -796,6 +796,7 @@
   "import.employees.invite.team": "Invite your team",
   "import.employees.import.text": "Make upload of a CSV file with the email contact",
   "import.employees.import.button": "Import file",
+  "import.employees.upload.button": "Upload file",
   "import.employees.noresults": "No results",
   "import.employees.tooManyResults": "Too many results to show. Max. 500 contacts. ({value} contacts)",
   "import.employees.invite": "Add email contacts manually separated by a comma or space",

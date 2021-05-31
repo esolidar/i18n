@@ -994,6 +994,7 @@
   "import.employees.invite.team": "Convide a sua equipe",
   "import.employees.import.text": "Faça upload do arquivo CSV com os contatos de email",
   "import.employees.import.button": "Importar arquivo",
+  "import.employees.upload.button": "Carregar arquivo",
   "import.employees.noresults": "Sem resultados",
   "import.employees.tooManyResults": "Muitos resultados para apresentar. Máximo 500 resultados. ({value} contatos)",
   "import.employees.invite": "Adicione os contatos de email manualmente separados por vírgulas ou espaços",
