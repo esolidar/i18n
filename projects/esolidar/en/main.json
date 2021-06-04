@@ -125,6 +125,8 @@
   "user.menu.addAuction": "Add auction",
   "user.menu.feedback": "Share your feedback",
   "user.menu.rate": "Rate us",
+  "user.menu.feedback.href": "https://help.esolidar.com/kb/guide/en/share-your-feedback-rpJ6Bj76HS/Steps/389549",
+  "user.menu.rate.href": "https://help.esolidar.com/kb/guide/en/rate-us-BIDreHkC15/Steps/389550",
   "user.settings.choose.file": "Choose file",
   "modal.notifications.title": "Notifications",
   "modal.selectCompany": "Select company",
