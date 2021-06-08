@@ -1,4 +1,10 @@
 {
+  "no": "Não",
+  "opened": "Aberto",
+  "pending": "Pendente",
+  "reopened": "Re-Aberto",
+  "approved": "Aprovado",
+  "rejected": "Rejeitado",
   "auctions.add.title": "Novo leilão",
   "auctions.add.formTitle": "Informação do leilão",
   "auctions.edit.title": "Editar leilão",

@@ -1,4 +1,10 @@
 {
+  "no": "No",
+  "opened": "Opened",
+  "pending": "Pending",
+  "reopened": "Reopened",
+  "approved": "Approved",
+  "rejected": "Rejected",
   "auctions.add.title": "New auction",
   "auctions.add.formTitle": "Auction information",
   "auctions.edit.title": "Edit auction",
