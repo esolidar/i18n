@@ -86,5 +86,6 @@
   "not.verified": "Não validado",
   "main": "Main",
   "address": "Morada",
-  "vat": "IVA"
+  "vat": "IVA",
+  "auctions.showonesolidar": "Mostrar na Esolidar"
 }

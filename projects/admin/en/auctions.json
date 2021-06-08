@@ -86,5 +86,6 @@
   "not.verified": "Not verified",
   "main": "Main",
   "address": "Address",
-  "vat": "VAT"
+  "vat": "VAT",
+  "auctions.showonesolidar": "Show on Esolidar"
 }
