@@ -354,6 +354,7 @@
   "feed.loves.no-loves": "No loves",
   "feed.mobile.comment.title": "Comments",
   "feed.mobile.nocomments": "No comments yet",
+  "crowdfunding.create.comment": "Write a comment",
   "commentHere": "Comment here",
   "crowdfunding.comments.reply": " Reply",
   "commentHere.image": "url(https://static.esolidar.com/frontend/assets/enviar-comment.png)",
