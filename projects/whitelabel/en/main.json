@@ -890,5 +890,6 @@
   "year": "Year",
   "session.lost": "Session expired",
   "session.lost.message": "Please, login.",
-  "search": "Search"
+  "search": "Search",
+  "menu": "Menu"
 }
