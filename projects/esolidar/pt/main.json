@@ -1681,5 +1681,8 @@
   "corporate": "Corporativo",
   "book.demo": "Agendar demo",
   "user.signin.business.switch": "Entrar na área administrativa",
-  "email.password.invalid.admin": "A sua conta não pode aceder a área administrativa."
+  "email.password.invalid.admin": "A sua conta não pode aceder a área administrativa.",
+  "Notifications.head.title": "Notificações",
+  "Notifications.head.mark.all": "Marcar todas como lidas",
+  "Notifications.no.results": "Não existem notificações."
 }
