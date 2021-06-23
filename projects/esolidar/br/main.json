@@ -1684,5 +1684,7 @@
   "email.password.invalid.admin": "Sua conta não pode acessar a área administrativa.",
   "Notifications.head.title": "Notificações",
   "Notifications.head.mark.all": "Marcar todas como lidas",
-  "Notifications.no.results": "Não existem notificações."
+  "Notifications.no.results": "Não existem notificações.",
+  "add.image": "Adicionar imagem",
+  "add": "Adicionar"
 }

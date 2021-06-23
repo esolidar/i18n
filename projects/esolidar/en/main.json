@@ -1684,5 +1684,7 @@
   "email.password.invalid.admin": "Your account can't access admin area.",
   "Notifications.head.title": "Notifications",
   "Notifications.head.mark.all": "Mark all as read",
-  "Notifications.no.results": "Não existem notificações."
+  "Notifications.no.results": "Não existem notificações.",
+  "add.image": "Add image",
+  "add": "Add"
 }
