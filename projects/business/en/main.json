@@ -875,6 +875,7 @@
   "homepage.configuration.upload": "Upload",
   "homepage.configuration.back": "Back",
   "homepage.configuration.save": "Save",
+  "homepage.configuration.logo.error.image": "The image should be at least 230px by 55px.",
   "user.settings.no.slides": "There are no slides",
   "user.settings.edit.slider.no.slides": "There are no active slides",
   "slide.description": "Description",
