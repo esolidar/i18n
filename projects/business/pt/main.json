@@ -383,6 +383,7 @@
   "crowdfunding.add.campaign": "Adicionar",
   "crowdfunding.add.campaign.text": "Aqui pode criar as campanhas de crowdfunding e analisar as campanhas submetidas pelos funcionários ficando ao vosso critério a aprovação ou rejeição da mesma.",
   "crowdfunding.created.campaigns": "Campanhas criadas",
+  "crowdfunding.create.comment": "Escreva um comentário",
   "crowdfunding.list.title": "Título",
   "crowdfunding.list.goal": "Objectivo",
   "crowdfunding.list.raised": "Angariado",

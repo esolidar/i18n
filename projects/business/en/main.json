@@ -383,6 +383,7 @@
   "crowdfunding.add.campaign": "Add crowdfunding",
   "crowdfunding.add.campaign.text": "Here you can create crowdfunding campaigns and see the campaigns submitted by your employees which you can approve or reject.",
   "crowdfunding.created.campaigns": "Created campaigns",
+  "crowdfunding.create.comment": "Write a comment",
   "crowdfunding.list.title": "Title",
   "crowdfunding.list.goal": "Goal",
   "crowdfunding.list.raised": "Raised",
