@@ -474,6 +474,7 @@
   "homepage.toolsbox.charityCrowdfunding.seeAll": "See all campaigns",
   "crowdfunding.crowdfunding.institution.helps": "Support this cause",
   "crowdfunding.no.access": "This campaign does not exist!",
+  "crowdfunding.no-comments": "No comments",
   "crowdfunding-created-success": "Your campaign was successfully created.",
   "crowdfunding-created-error": "An error has occurred, please try again.",
 
