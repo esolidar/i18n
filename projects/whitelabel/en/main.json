@@ -892,5 +892,7 @@
   "session.lost": "Session expired",
   "session.lost.message": "Please, log in.",
   "search": "Search",
-  "menu": "Menu"
+  "menu": "Menu",
+  "gotIt": "Ok, got it",
+  "login.modal.validation": "Didn’t get the validation email? Click here."
 }
