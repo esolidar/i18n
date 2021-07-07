@@ -897,5 +897,6 @@
   "search": "Pesquisar",
   "menu": "Menu",
   "gotIt": "OK, entendi",
-  "login.modal.validation": "Não recebeu o e-mail de validação? Clique aqui."
+  "login.modal.validation": "Não recebeu o e-mail de validação? Clique aqui.",
+  "rememberMe": "Lembrar palavra-passe"
 }

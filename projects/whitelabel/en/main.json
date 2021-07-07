@@ -897,5 +897,6 @@
   "search": "Search",
   "menu": "Menu",
   "gotIt": "Ok, got it",
-  "login.modal.validation": "Didn’t get the validation email? Click here."
+  "login.modal.validation": "Didn’t get the validation email? Click here.",
+  "rememberMe": "Remember me"
 }

@@ -80,9 +80,9 @@
 
   "join.community.title": "Junte-se a esta comunidade",
 
-  "login.title": "Autentique-se em {value}",
+  "login.title": "Entre em {value}",
   "user.register.FBinfo": "A forma mais rápida de se cadastrar",
-  "Login.forgot.password": "Esqueceu-se da senha?",
+  "Login.forgot.password": "Esqueceu sua senha?",
   "Login.recover.password": "Recuperar",
   "Login.create.account": "Ainda não tem conta?",
   "Login.create.account.register": "Cadastre-se aqui",
@@ -897,5 +897,6 @@
   "search": "Pesquisar",
   "menu": "Menu",
   "gotIt": "OK, entendi",
-  "login.modal.validation": "Não recebeu o e-mail de validação? Clique aqui."
+  "login.modal.validation": "Não recebeu o e-mail de validação? Clique aqui.",
+  "rememberMe": "Lembrar da senha"
 }
