@@ -108,6 +108,7 @@
   "login.UNAUTHORIZED_COMMUNITY_MEMBER_STATUS_B.text": "O seu acesso a esta comunidade foi bloqueado. Para mais informações contacte o gestor.",
 
   "facebookRegister": "Continuar com Facebook",
+  "facebookLogin": "Entrar com o Facebook",
   "register.note": "<strong>Nota:</strong> Para terminar o seu registo, por favor, preencha todos os campos abaixo.",
   "error.whitelabel_code.email.error": "O email já está a ser utilizado. Por favor, escolha outro email.",
   "user.register.title": "Crie uma conta em {value}",

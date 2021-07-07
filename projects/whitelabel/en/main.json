@@ -108,6 +108,7 @@
   "login.UNAUTHORIZED_COMMUNITY_MEMBER_STATUS_B.text": "Your access to this community has been blocked. For more information contact the manager.",
 
   "facebookRegister": "Continue with Facebook",
+  "facebookLogin": "Log in with Facebook",
   "register.note": "<strong>Note:</strong> To complete your registration, please complete all fields below.",
   "error.whitelabel_code.email.error": "The email is already in use. Please choose another email.",
   "user.register.title": "Create an account on {value}",
