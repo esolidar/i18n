@@ -894,5 +894,7 @@
   "session.lost": "Sessão expirada",
   "session.lost.message": "Por favor, faça log in novamente.",
   "search": "Pesquisar",
-  "menu": "Menu"
+  "menu": "Menu",
+  "gotIt": "OK, entendi",
+  "login.modal.validation": "Não recebeu o e-mail de validação? Clique aqui."
 }
