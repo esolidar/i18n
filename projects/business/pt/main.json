@@ -811,6 +811,7 @@
   "employee_range": "Funcionários",
   "user.add.general": "Informação do utilizador",
   "user.register.error.password": "A palavra passe deve ter 6 caractéres",
+  "user.register.help.password": "A palavra passe deve ter pelo menos 6 caractéres.",
 
   "company.add.question-1": "A sua informação profissional",
   "company.add.answer-1": "Complete o perfil com os seus contactos profissionais, para que nos ajude a validar o seu perfil mais rapidamente.",

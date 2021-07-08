@@ -811,6 +811,7 @@
   "employee_range": "Employees range",
   "user.add.general": "User information",
   "user.register.error.password": "Password should have 6 characters or more",
+  "user.register.help.password": "Password must have at least 6 characters.",
 
   "company.add.question-1": "Your information within your company",
   "company.add.answer-1": "Complete your profile with your professional contacts and job position. This will allow us to better understand and validate your profile.",
