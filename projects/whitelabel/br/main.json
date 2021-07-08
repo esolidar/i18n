@@ -224,6 +224,7 @@
   "user.settings.connect.facebook.text": "Faça log in rapidamente utilizando sua conta do Facebook.",
   "user.settings.connect.facebook.turnoff": "Desligar",
   "user.settings.change.password": "Alterar senha",
+  "user.register.help.password": "A senha deve ter pelo menos 6 caractéres.",
   "user.oldPassword": "Senha antiga",
   "user.newPassword": "Nova senha",
   "user.repeatPassword": "Confirmar senha",

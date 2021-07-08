@@ -224,6 +224,7 @@
   "user.settings.connect.facebook.text": "Log in via Facebook to establish connections with buyers and sellers from around the world.",
   "user.settings.connect.facebook.turnoff": "Turn off",
   "user.settings.change.password": "Change Your Password",
+  "user.register.help.password": "Password must have at least 6 characters.",
   "user.oldPassword": "Old password",
   "user.newPassword": "New password",
   "user.repeatPassword": "Repeat password",

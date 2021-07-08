@@ -224,6 +224,7 @@
   "user.settings.connect.facebook.text": "Entre no Facebook e descubra as suas ligações de confiança com vendedores e compradores de todo o mundo.",
   "user.settings.connect.facebook.turnoff": "Desligar",
   "user.settings.change.password": "Alterar palavra-passe",
+  "user.register.help.password": "A palavra passe deve ter pelo menos 6 caractéres.",
   "user.oldPassword": "Palavra-passe antiga",
   "user.newPassword": "Nova palavra-passe",
   "user.repeatPassword": "Confirmar palavra-passe",
