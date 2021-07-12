@@ -902,5 +902,7 @@
   "menu": "Menu",
   "gotIt": "OK, entendi",
   "login.modal.validation": "Não recebeu o e-mail de validação? Clique aqui.",
-  "rememberMe": "Lembrar da senha"
+  "rememberMe": "Lembrar da senha",
+  "welcomeBack": "Bem-vindo de volta",
+  "switchAccounts.subtitle": "Você tem {number} contas associadas a este e-mail"
 }
