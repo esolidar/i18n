@@ -256,6 +256,7 @@
   "footer.copyright": "Esolidar. All rights reserved.",
   "Login.title": "Login to your esolidar Business account",
   "Login.or": "Ou",
+  "Login.rememberMe": "Remember me",
   "Login.forgot.password": "Forgot your password?",
   "Login.recover.password": "Recover",
   "Login.button": "Log in",

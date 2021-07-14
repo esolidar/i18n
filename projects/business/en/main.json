@@ -109,6 +109,7 @@
 
   "Login.title": "Login at Business",
   "Login.or": "Or",
+  "Login.rememberMe": "Remember me",
   "Login.forgot.password": "Forgot your password?",
   "Login.recover.password": "Recover",
   "Login.button": "Login",
