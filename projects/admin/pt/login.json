@@ -6,6 +6,7 @@
   "Login.title": "Entrar no backoffice da esolidar",
   "email": "Email",
   "password": "Palavra-passe",
+  "rememberMe": "Lembrar palavra-passe",
   "Login.button": "Entrar",
   "login.invalid.email": "Email ou palavra-passe inválidos",
   "login.invalid.data": "Invalid access data",

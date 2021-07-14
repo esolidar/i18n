@@ -6,6 +6,7 @@
   "Login.title": "Login to your esolidar Admin account",
   "email": "Email",
   "password": "Password",
+  "rememberMe": "Remember me",
   "Login.button": "Login",
   "login.invalid.email": "Invalid email or password.",
   "login.invalid.data": "Invalid access data",
