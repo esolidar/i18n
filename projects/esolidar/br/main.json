@@ -1135,7 +1135,7 @@
   "user.signup.title": "Inscrever com o email",
   "user.signup.subtitle": "Por favor, preencha todos os campos abaixo para fazer parte da comunidade esolidar",
   "user.signup.or": "OU",
-  "user.signup.facebookBtn": "Acessar com o facebook",
+  "user.signup.facebookBtn": "Entrar com Facebook",
   "user.continue.facebookBtn": "Continuar com Facebook",
   "user.signup.facebookBtn.span": "Apenas para utilizadores individuais",
   "success.facebook.response": "Por favor, preencha os restantes campos para terminar o seu registro",

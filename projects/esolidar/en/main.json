@@ -1135,7 +1135,7 @@
   "user.signup.title": "Sign up with your email",
   "user.signup.subtitle": "Please fill in all fields below to join the esolidar community",
   "user.signup.or": "Or",
-  "user.signup.facebookBtn": "Sign up with Facebook",
+  "user.signup.facebookBtn": "Log in with Facebook",
   "user.continue.facebookBtn": "Continue with Facebook",
   "user.signup.facebookBtn.span": "For individual users only",
   "success.facebook.response": "Please fill the remaining registration fields to finish your registration",
