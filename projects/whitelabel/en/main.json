@@ -610,7 +610,7 @@
   "institutions.list.select": "Select",
   "giftcard.modal.button.donate": "Donate",
   "giftcard.modal.select-charity": "Select a charity to donate",
-  "giftcard.modal.title": "Donate with value ",
+  "giftcard.modal.title": "Donate with value {amount}",
   "giftcard.success": "Your gift card has successful donated",
   "giftcard.modal.giftcard": "Giftcard",
   "giftcard.modal.amount": "Amount",

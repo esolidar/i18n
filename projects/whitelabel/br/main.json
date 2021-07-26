@@ -610,7 +610,7 @@
   "institutions.list.select": "Selecionar",
   "giftcard.modal.button.donate": "Doar",
   "giftcard.modal.select-charity": "Selecione a instituição",
-  "giftcard.modal.title": "Doe com o valor de ",
+  "giftcard.modal.title": "Doe com o valor de {amount}",
   "giftcard.success": "O giftcard foi doado com sucesso",
   "giftcard.modal.giftcard": "Voucher",
   "giftcard.modal.amount": "Valor",
