@@ -387,6 +387,7 @@
   "giftcard.amount": "Amount",
   "giftcard.used-at": "Used:",
   "institutions.list.select": "Select",
+  "institutions.list.selected": "Selected",
   "giftcard.modal.button.donate": "Donate",
   "giftcard.modal.select-charity": "Select a charity to donate",
   "giftcard.modal.title": "Donate with value ",
