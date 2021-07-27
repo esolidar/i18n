@@ -391,7 +391,7 @@
   "institutions.list.selected": "Selected",
   "giftcard.modal.button.donate": "Donate",
   "giftcard.modal.select-charity": "Select a charity to donate",
-  "giftcard.modal.title": "Donate with value ",
+  "giftcard.modal.title": "Donate with value {amount}",
   "giftcard.success": "Your gift card has successful donated",
   "searchVoucherTableInputPlaceholder": "Search gift card ... voucher",
   "matchdonations.title": "Match donations",
