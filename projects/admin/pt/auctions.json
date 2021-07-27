@@ -87,5 +87,7 @@
   "main": "Main",
   "address": "Morada",
   "vat": "IVA",
-  "auctions.showonesolidar": "Mostrar na Esolidar"
+  "auctions.showonesolidar": "Mostrar na Esolidar",
+  "institutions.list.select": "Selecionar",
+  "institutions.list.selected": "Selecionado"
 }

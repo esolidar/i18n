@@ -87,5 +87,7 @@
   "main": "Main",
   "address": "Address",
   "vat": "VAT",
-  "auctions.showonesolidar": "Show on Esolidar"
+  "auctions.showonesolidar": "Show on Esolidar",
+  "institutions.list.select": "Select",
+  "institutions.list.selected": "Selected"
 }
