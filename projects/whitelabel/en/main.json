@@ -607,6 +607,7 @@
   "giftcard.used": "Used",
   "giftcard.amount": "Amount",
   "giftcard.used-at": "Used:",
+  "institution": "Nonprofit",
   "institutions.list.select": "Select",
   "institutions.list.selected": "Selected",
   "giftcard.modal.button.donate": "Donate",
