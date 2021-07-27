@@ -906,5 +906,7 @@
   "login.modal.validation": "Não recebeu o e-mail de validação? Clique aqui.",
   "rememberMe": "Lembrar da senha",
   "welcomeBack": "Boas vindas",
-  "switchAccounts.subtitle": "Você tem {number} contas associadas a este email"
+  "switchAccounts.subtitle": "Você tem {number} contas associadas a este email",
+  "projects.program.detail": "Programas de aceleração apóiam projetos inovadores externos que visam solucionar problemas socioambientais.",
+  "projects.program.detail.btn": "Ver detalhes do programa"
 }
