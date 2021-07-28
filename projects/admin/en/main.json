@@ -6,7 +6,7 @@
   "countdown.hours": "HOUR",
   "countdown.min": "MIN",
   "countdown.sec": "SEC",
-  "error.boundary": "There was an error during loading",
+  "error.boundary": "Something went wrong.",
   "error.boundary.retry": "Retry",
   "error.boundary.message": "If the problem persists, please contact us at",
   "subdomain": "Subdomain",

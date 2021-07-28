@@ -6,7 +6,7 @@
   "countdown.hours": "HORA",
   "countdown.min": "MIN",
   "countdown.sec": "SEG",
-  "error.boundary": "Aconteceu um erro a carregar",
+  "error.boundary": "Alguma coisa correu mal.",
   "error.boundary.retry": "Tentar novamente",
   "error.boundary.message": "Se o problema persistir, por favor contacte-nos em ",
   "subdomain": "Subdominio",
