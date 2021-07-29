@@ -246,6 +246,9 @@
   "error.boundary": "Alguma coisa correu mal.",
   "error.boundary.retry": "Tentar novamente",
   "faqs.items.empty": "Não existe perguntas frequentes",
+  "feed.create.post.without.login": "Você deve ter uma conta para comentar. Já tem uma conta?",
+  "feed.create.post.with.login": "Compartilhe ideias, sugestões ou iniciativas com sua empresa ...",
+  "feed.create.post": "Publicar",
   "feed.options.delete-comment": "Eliminar",
   "feed.options.delete-post": "Eliminar",
   "feed.options.edit-comment": "Editar comentário",
@@ -284,6 +287,7 @@
   "open.new.tab": "Abrir novo separador",
   "payment.loader.wait": "Por favor aguarde",
   "payment.methods": "Métodos de pagamento",
+  "progressBar.raised.goal": "angariados de {value} como objetivo",
   "project.change.status.title": "Alterar estado do projecto",
   "project.comments": "Comentários",
   "project.edit": "Editar projeto",
@@ -358,9 +362,5 @@
   "user.settings.title.addContact": "Adicionar contacto",
   "user.settings.validate.phone.insert.verification.code": "Insira o seu código de validação",
   "user.settings.validate.phone.sms.message": "Irá receber um SMS com o código de validação",
-  "user.settings.verify.phone": "Validar",
-  "progressBar.raised.goal": "angariados de {value} como objetivo",
-  "feed.create.post.without.login": "Você deve ter uma conta para comentar. Já tem uma conta?",
-  "feed.create.post.with.login": "Compartilhe ideias, sugestões ou iniciativas com sua empresa ...",
-  "feed.create.post": "Publicar"
+  "user.settings.verify.phone": "Validar"
 }

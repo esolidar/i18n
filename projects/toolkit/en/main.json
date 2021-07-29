@@ -246,6 +246,9 @@
   "error.boundary": "Something went wrong.",
   "error.boundary.retry": "Retry",
   "faqs.items.empty": "There are no frequently asked questions",
+  "feed.create.post.without.login": "You must have an account to comment. Already have an account?",
+  "feed.create.post.with.login": "Share ideas, suggestions or initiatives with your company...",
+  "feed.create.post": "Post",
   "feed.options.delete-comment": "Delete",
   "feed.options.delete-post": "Delete",
   "feed.options.edit-comment": "Edit comment",
@@ -284,6 +287,7 @@
   "open.new.tab": "Open in new tab",
   "payment.loader.wait": "Please wait",
   "payment.methods": "Payment methods",
+  "progressBar.raised.goal": "raised of {value} goal",
   "project.change.status.title": "Change project status",
   "project.comments": "Comments",
   "project.edit": "Edit project",
@@ -358,9 +362,5 @@
   "user.settings.title.addContact": "Add Contact",
   "user.settings.validate.phone.insert.verification.code": "Insert your validation code",
   "user.settings.validate.phone.sms.message": "You will receive an SMS with the validation code",
-  "user.settings.verify.phone": "Verify",
-  "progressBar.raised.goal": "raised of {value} goal",
-  "feed.create.post.without.login": "You must have an account to comment. Already have an account?",
-  "feed.create.post.with.login": "Share ideas, suggestions or initiatives with your company...",
-  "feed.create.post": "Post"
+  "user.settings.verify.phone": "Verify"
 }
