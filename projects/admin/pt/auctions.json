@@ -1,5 +1,4 @@
 {
-  "no": "Não",
   "opened": "Aberto",
   "pending": "Pendente",
   "reopened": "Re-Aberto",
@@ -71,8 +70,6 @@
   "brand": "Marca",
   "private": "Privado",
   "public": "Publico",
-  "hour": "Hora",
-  "dd-mm-yyyy": "DD-MM-YYYY",
   "select.charity": "Selecionar",
   "select.category": "Selecionar uma categoria",
   "auctionShippingText": "Dê instrução sobre como o vencedor deve fazer o pagamento.",

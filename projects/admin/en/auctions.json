@@ -1,5 +1,4 @@
 {
-  "no": "No",
   "opened": "Opened",
   "pending": "Pending",
   "reopened": "Reopened",
@@ -71,8 +70,6 @@
   "brand": "Brand",
   "private": "Private",
   "public": "Public",
-  "hour": "Hour",
-  "dd-mm-yyyy": "DD-MM-YYYY",
   "select.charity": "Select charity",
   "select.category": "Select category",
   "auctionShippingText": "Give instructions about how the winner will make the payment.",

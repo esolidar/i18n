@@ -1,6 +1,5 @@
 {
   "Add": "Adicionar",
-  "cancel": "Cancelar",
   "close": "Fechar",
   "save": "Guardar",
   "all": "Todos",
@@ -14,16 +13,10 @@
   "Reject": "Rejeitar",
   "Status": "Alterar estado",
   "Sort": "Ordenar",
-  "yes": "Sim",
-  "no": "Não",
   "update": "Atualizar",
   "updateAll": "Atualizar tudo",
-  "delete": "Eliminar",
-  "selected": "selecionado",
   "Filter": "Filtrar",
-  "columns": "Colunas",
   "NONE": "Nenhum",
-  "share": "Partilhar",
   "changePicture": "Alterar imagem",
   "openEsolidar": "Abrir esolidar",
   "crop": "Recortar"
