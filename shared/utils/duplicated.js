@@ -1,6 +1,6 @@
 var readlineSync = require("readline-sync");
 
-projectList = ["Admin", "Business", "Esolidar", "WhiteLabel"];
+projectList = ["Admin", "Business", "Esolidar", "Toolkit", "WhiteLabel"];
 localeList = ["br", "en", "pt"];
 
 module.exports.printDuplicatedValues = function () {
