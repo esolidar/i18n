@@ -1,5 +1,8 @@
 {
   "error": "",
   "progressBar.raised.goal": "raised of {value} goal",
-  "remover.esta.key": ""
+  "remover.esta.key": "",
+  "feed.create.post.without.login": "You must have an account to comment. Already have an account?",
+  "feed.create.post.with.login": "Share ideas, suggestions or initiatives with your company...",
+  "feed.create.post": "Post"
 }
