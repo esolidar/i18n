@@ -358,5 +358,9 @@
   "user.settings.title.addContact": "Add Contact",
   "user.settings.validate.phone.insert.verification.code": "Insert your validation code",
   "user.settings.validate.phone.sms.message": "You will receive an SMS with the validation code",
-  "user.settings.verify.phone": "Verify"
+  "user.settings.verify.phone": "Verify",
+  "progressBar.raised.goal": "raised of {value} goal",
+  "feed.create.post.without.login": "You must have an account to comment. Already have an account?",
+  "feed.create.post.with.login": "Share ideas, suggestions or initiatives with your company...",
+  "feed.create.post": "Post"
 }
