@@ -280,7 +280,7 @@
   "my.projects.addCampaign": "Add Crowdfunding Campaign",
   "my.projects.chooseProject": "Choose project",
   "my.projects.description": "Here you have access to all the projects created by you, manage and monitor your status.",
-  "my.projects.add.description": "Create your projects to support the community or a specific cause.",
+  "my.projects.add.description": "Submit a project that promotes an innovative solution that aims to solve social and environmental issues and needs.",
   "my.crowdfunding.add.description": "Create your crowdfundings to support the community or a specific cause. This crowdfunding will be approved by the community administrator.",
   "DRAFT": "Draft",
   "PENDING": "Pending",
@@ -697,6 +697,6 @@
   "rememberMe": "Remember me",
   "welcomeBack": "Welcome back",
   "switchAccounts.subtitle": "You have {number} accounts associated with this email",
-  "projects.program.detail": "Acceleration programs support external innovative projects that aim to solve social/environmental problems.",
-  "projects.program.detail.btn": "View program details"
+  "projects.program.detail": "Projects supported by {value} that intend to help the community or a specific nonprofit.",
+  "projects.program.detail.btn": "Learn more"
 }

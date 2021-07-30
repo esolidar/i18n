@@ -280,7 +280,7 @@
   "my.projects.addCampaign": "Adicione uma campanha",
   "my.projects.chooseProject": "Escolha o projeto",
   "my.projects.description": "Gerencie e acompanhe os status de seus projetos.",
-  "my.projects.add.description": "Crie seus projetos para apoiar a comunidade ou a uma causa específica. Este projeto ficará para aprovação do administrador da comunidade.",
+  "my.projects.add.description": "Submeta um projeto que promova soluções inovadoras na resolução de problemas e necessidades sociais e ambientais.",
   "my.crowdfunding.add.description": "Crie os seus crowdfundings para apoiar a comunidade ou a uma causa específica. Este crowdfunding ficará para aprovação do administrador da comunidade.",
   "DRAFT": "Rascunho",
   "PENDING": "Pendente",
@@ -697,6 +697,6 @@
   "rememberMe": "Lembrar da senha",
   "welcomeBack": "Boas vindas",
   "switchAccounts.subtitle": "Você tem {number} contas associadas a este email",
-  "projects.program.detail": "Programas de aceleração apóiam projetos inovadores externos que visam solucionar problemas socioambientais.",
-  "projects.program.detail.btn": "Ver detalhes do programa"
+  "projects.program.detail": "Projetos apoiados por {value} que pretendem ajudar a comunidade ou uma organização social específica.",
+  "projects.program.detail.btn": "Saber mais"
 }
