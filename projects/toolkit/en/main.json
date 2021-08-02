@@ -326,5 +326,6 @@
   "user.settings.validate.phone.insert.verification.code": "Insert your validation code",
   "user.settings.validate.phone.sms.message": "You will receive an SMS with the validation code",
   "copy.link": "Copy link",
-  "copied.link": "Link copied"
+  "copied.link": "Link copied",
+  "supporting": "Supporting"
 }
