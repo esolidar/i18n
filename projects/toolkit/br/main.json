@@ -324,5 +324,7 @@
   "user.settings.regional": "Perfil",
   "user.settings.title.addContact": "Adicionar contacto",
   "user.settings.validate.phone.insert.verification.code": "Insira o seu código de validação",
-  "user.settings.validate.phone.sms.message": "Irá receber um SMS com o código de validação"
+  "user.settings.validate.phone.sms.message": "Irá receber um SMS com o código de validação",
+  "copy.link": "Copiar link",
+  "copied.link": "Link copiado"
 }
