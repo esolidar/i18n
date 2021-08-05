@@ -331,5 +331,10 @@
   "user.settings.validate.phone.sms.message": "Irá receber um SMS com o código de validação",
   "copy.link": "Copiar link",
   "copied.link": "Link copiado",
-  "supporting": "Apoia"
+  "supporting": "Apoia",
+  "day.left": "{value} dia ...",
+  "days.left": "{value} dias ...",
+  "hours.left": "{value} horas ...",
+  "mins.left": "{value} minnutos ...",
+  "min.left": "{value} minuto ..."
 }
