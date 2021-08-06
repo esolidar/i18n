@@ -336,5 +336,6 @@
   "hours.left": "Finaliza em {value} horas",
   "mins.left": "Finaliza em {value} minutos",
   "min.left": "Finaliza em {value} minuto",
-  "last.day": "Último dia"
+  "last.day": "Último dia",
+  "needs.funds": "Necessita de fundos"
 }
