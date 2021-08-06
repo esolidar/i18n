@@ -332,9 +332,9 @@
   "copy.link": "Copy link",
   "copied.link": "Link copied",
   "supporting": "Supporting",
-  "day.left": "{value} day to go",
-  "days.left": "{value} days to go",
+  "days.left": "{value} days left",
   "hours.left": "{value} hours to go",
   "mins.left": "{value} minutes to go",
-  "min.left": "{value} minute to go"
+  "min.left": "{value} minute to go",
+  "last.day": "Last day"
 }

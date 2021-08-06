@@ -332,9 +332,9 @@
   "copy.link": "Copiar link",
   "copied.link": "Link copiado",
   "supporting": "Apoia",
-  "day.left": "{value} dia ...",
-  "days.left": "{value} dias ...",
-  "hours.left": "{value} horas ...",
-  "mins.left": "{value} minnutos ...",
-  "min.left": "{value} minuto ..."
+  "days.left": "Faltam {value} dias",
+  "hours.left": "Finaliza em {value} horas",
+  "mins.left": "Finaliza em {value} minutos",
+  "min.left": "Finaliza em {value} minuto",
+  "last.day": "Último dia"
 }
