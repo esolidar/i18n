@@ -337,5 +337,6 @@
   "mins.left": "{value} minutes to go",
   "min.left": "{value} minute to go",
   "last.day": "Last day",
-  "needs.funds": "Needs funds"
+  "needs.funds": "Needs funds",
+  "go.back": "Go back"
 }
