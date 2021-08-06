@@ -336,5 +336,6 @@
   "hours.left": "{value} hours to go",
   "mins.left": "{value} minutes to go",
   "min.left": "{value} minute to go",
-  "last.day": "Last day"
+  "last.day": "Last day",
+  "needs.funds": "Needs funds"
 }
