@@ -138,6 +138,8 @@
 
   "about.see.more": "See more",
   "about.livemode.disabled": "This is a preview and can only be seen by company administrators. To activate it, go to your company settings.",
+  "about.latest.update": "Latest Update",
+  "about.latest.update.subtitle": "Check out what {value} has been up to.",
 
   "feed.post.loves": "{value, plural, one {love} other {loves}}",
   "feed.post.comments": "{value, plural, one {comment} other {comments} many {comments}}",

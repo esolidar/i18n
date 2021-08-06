@@ -138,6 +138,8 @@
 
   "about.see.more": "Ver mais",
   "about.livemode.disabled": "Esta é uma prévia e só pode ser vista pelos administradores da empresa. Para ativá-la, acesse as configurações da sua empresa.",
+  "about.latest.update": "Últimas atualizações",
+  "about.latest.update.subtitle": "Veja o que a {value} anda a fazer.",
 
   "feed.post.loves": "{value, plural, one {love} other {loves}}",
   "feed.post.comments": "{value, plural, one {comentário} other {comentários}}",
