@@ -334,6 +334,7 @@
   "supporting": "Supporting",
   "days.left": "{value} days left",
   "hours.left": "{value} hours to go",
+  "hour.left": "{value} hour to go",
   "mins.left": "{value} minutes to go",
   "min.left": "{value} minute to go",
   "last.day": "Last day",

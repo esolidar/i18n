@@ -334,8 +334,9 @@
   "supporting": "Apoia",
   "days.left": "Faltam {value} dias",
   "hours.left": "Finaliza em {value} horas",
-  "mins.left": "Finaliza em {value} minutos",
-  "min.left": "Finaliza em {value} minuto",
+  "hour.left": "Finaliza em {value} hora",
+  "mins.left": "Finaliza em {value} mins",
+  "min.left": "Finaliza em {value} min",
   "last.day": "Último dia",
   "needs.funds": "Necessita de fundos",
   "go.back": "Voltar"
