@@ -675,7 +675,7 @@
   "maxPercentage": "Porcentagem a aumentar",
   "members.Stats.active": "Activos",
   "members.Stats.invited": "Convidados",
-  "members.add.answer1": "Faça upload de um ficheiro CSV (separado por virgulas) com o email e nome dos vossos colaboradores. O ficheiro deve conter uma coluna com o “email” e uma coluna com o “name”.",
+  "members.add.answer1": "Faça upload de um ficheiro CSV (separado por ponto e vírgula) com o email e nome dos vossos colaboradores. O ficheiro deve conter uma coluna com o “email” e uma coluna com o “name”.",
   "members.add.question1": "Upload do ficheiro CSV",
   "members.add.subtitle": "Esta é a sua área de gestão dos membros que estão envolvidos na estratégia de responsabilidade social. Aqui pode adicionar ou remover membros.",
   "members.add.title": "Adicionar membros",

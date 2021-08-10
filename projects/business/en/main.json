@@ -675,7 +675,7 @@
   "maxPercentage": "Match Percentage",
   "members.Stats.active": "Active members",
   "members.Stats.invited": "Members invited",
-  "members.add.answer1": "Make upload of a CSV file (separated by comma) with email and name of your members. The file must contain one column with “email” and another with “name”.",
+  "members.add.answer1": "Make upload of a CSV file (separated by semicolon) with email and name of your members. The file must contain one column with “email” and another with “name”.",
   "members.add.question1": "Upload of a CSV",
   "members.add.subtitle": "Here you can manage which members you want to empower to be part of your social responsibility strategy. You can add new ones or remove them.",
   "members.add.title": "Add members",
