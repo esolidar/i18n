@@ -92,7 +92,7 @@
   "averageEmployeeAnnualSalary": "Salário médio anual de funcionário nível pleno",
   "back": "← Voltar",
   "background.color": "Cor de fundo",
-  "bank.account.description": "Dados bancários de {company-name} usados ​​para receber e fazer transações.",
+  "bank.account.description": "Dados bancários de {companyName} usados ​​para receber e fazer transações.",
   "bank_number": "Banco",
   "banner.button.demo": "Agendar conversa",
   "benefits": "Benefícios:",
