@@ -1,7 +1,7 @@
 {
   "name": "@esolidar/i18n",
   "description": "eSolidar i18n",
-  "version": "0.0.208",
+  "version": "0.0.209",
   "scripts": {
     "test": "jest",
     "prepare": "husky install",
