@@ -1,7 +1,6 @@
+const projectList = require("../constants/projects");
+const localeList = require("../constants/locales");
 var readlineSync = require("readline-sync");
-
-projectList = ["Admin", "Business", "Esolidar", "Toolkit", "WhiteLabel"];
-localeList = ["br", "en", "pt"];
 
 module.exports.printDuplicatedValues = function () {
   project = readlineSync.keyInSelect(projectList, "Which project?");
