@@ -1,6 +1,8 @@
 const { logDuplicated, getAllTranslationsByProject } = require("../shared/utils/tests");
 const projectList = require("../shared/constants/projects");
 
+const whiteList = ["May"];
+
 projectList.forEach(project => {
   const translations = getAllTranslationsByProject(project);
   const localesList = Object.keys(translations);
@@ -12,6 +14,7 @@ projectList.forEach(project => {
       const translationValues = Object.values(translations[locale]);
 
       translationValues.forEach(value => {
+        if (whiteList.includes(value)) return;
         if (duplicatedList.flat().includes(value)) return;
 
         const isItemDuplicated =
