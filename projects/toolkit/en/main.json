@@ -362,5 +362,7 @@
   "long.september": "September",
   "long.october": "October",
   "long.november": "November",
-  "long.december": "December"
+  "long.december": "December",
+  "switchAccounts.subtitle": "You have {number} accounts associated with this email",
+  "header.switchAccounts": "Switch accounts"
 }
