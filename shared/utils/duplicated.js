@@ -9,8 +9,11 @@ module.exports.printDuplicatedValues = function () {
   const translations = require(`../../projects/${projectList[project]}/${localeList[locale]}`);
   const duplicatedList = [];
   const translationValues = Object.values(translations);
+  const whiteList = ["May"];
 
   translationValues.forEach(translation => {
+    if (whiteList.includes(translation)) return;
+
     const numberOfRepetitions = translationValues.filter(item => translation === item).length;
     const listAlreadyContainsTranslation = duplicatedList.some(item => item.value === translation);
 
