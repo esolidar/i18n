@@ -364,5 +364,6 @@
   "long.november": "Novembro",
   "long.december": "Dezembro",
   "switchAccounts.subtitle": "Você tem {number} contas associadas a este email",
-  "header.switchAccounts": "Trocar de conta"
+  "header.switchAccounts": "Trocar de conta",
+  "login.choose.company": "Selecione a empresa"
 }

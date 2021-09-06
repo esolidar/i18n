@@ -627,7 +627,6 @@
   "login.Access.denied": "Access denied",
   "login.Access.denied.contact": "Please contact the esolidar team.",
   "login.book.demo": "Your company is not registered.",
-  "login.choose.company": "Select company",
   "login.error.facebook400": "Your user is not registered. Please contact the esolidar team.",
   "logo": "Logo",
   "logo_imageError": "Please upload an image larger than 200px per 200px.",
