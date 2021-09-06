@@ -7,6 +7,9 @@ const logEmpty = (project, key, locale) =>
 const logDuplicated = (project, value, locale) =>
   console.error(`Duplicated key in "${project}": "${value}" for locale: "${locale}"`);
 
+const logNaming = (project, value, locale) =>
+  console.error(`Naming error in "${project}": "${value}" for locale: "${locale}"`);
+
 const getAllTranslationsByProject = project => {
   return {
     br: require(`../../projects/${project}/br`),
@@ -15,4 +18,4 @@ const getAllTranslationsByProject = project => {
   };
 };
 
-module.exports = { logError, logEmpty, logDuplicated, getAllTranslationsByProject };
+module.exports = { logError, logEmpty, logDuplicated, logNaming, getAllTranslationsByProject };
