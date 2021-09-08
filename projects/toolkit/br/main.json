@@ -33,6 +33,7 @@
   "category": "Categoria",
   "ods": "ODS",
   "optional": "opcional",
+  "see.all": "Ver Todos",
   "Auctions.edit": "Editar leilão",
   "Notifications.head.mark.all": "Marcar todas como lidas",
   "Notifications.head.title": "Notificações",
@@ -362,5 +363,8 @@
   "long.september": "Setembro",
   "long.october": "Outubro",
   "long.november": "Novembro",
-  "long.december": "Dezembro"
+  "long.december": "Dezembro",
+  "switchAccounts.subtitle": "Você tem {number} contas associadas a este email",
+  "header.switchAccounts": "Trocar de conta",
+  "login.choose.company": "Selecione a empresa"
 }

@@ -33,6 +33,7 @@
   "category": "Category",
   "ods": "SDG",
   "optional": "optional",
+  "see.all": "See All",
   "Auctions.edit": "Edit auction",
   "Notifications.head.mark.all": "Mark all as read",
   "Notifications.head.title": "Notifications",
@@ -362,5 +363,8 @@
   "long.september": "September",
   "long.october": "October",
   "long.november": "November",
-  "long.december": "December"
+  "long.december": "December",
+  "switchAccounts.subtitle": "You have {number} accounts associated with this email",
+  "header.switchAccounts": "Switch accounts",
+  "login.choose.company": "Select company"
 }

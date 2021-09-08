@@ -363,7 +363,7 @@
   "requests.volunteers": "Voluntários",
   "resolve": "Resolver",
   "responsibleText": "Email ou telefone",
-  "save": "Guardar",
+  "save": "Salvar",
   "select.charity": "Selecionar",
   "selected.rows": "Tem {numSelected, number} {numSelected, plural, one {linha selecionada}other {linhas selecionadas}}",
   "startDate": "Data de inicio",
