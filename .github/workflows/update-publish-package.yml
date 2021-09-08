@@ -17,7 +17,7 @@ jobs:
           git config --global user.name "Pedro Guia"
 
       - name: Update package version
-        run: yarn version --patch
+        run: yarn version --minor
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
