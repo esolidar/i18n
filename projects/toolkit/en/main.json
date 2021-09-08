@@ -366,5 +366,9 @@
   "long.december": "December",
   "switchAccounts.subtitle": "You have {number} accounts associated with this email",
   "header.switchAccounts": "Switch accounts",
-  "login.choose.company": "Select company"
+  "login.choose.company": "Select company",
+  "toolkit.list.footer.crowdfunding": "{count, plural, =0 {# Crowdfundings} one {# Crowdfunding} other {# Crowdfundings}}",
+  "toolkit.list.footer.auction": "{count, plural, =0 {# Auctions} one {# Auction} other {# Auctions}}",
+  "toolkit.list.footer.project": "{count, plural, =0 {# Projects} one {# Project} other {# Projects}}",
+  "toolkit.list.footer.initiative": "{count, plural, =0 {# Initiatives} one {# Initiative} other {# Initiatives}}"
 }
