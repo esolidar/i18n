@@ -370,5 +370,6 @@
   "toolkit.list.footer.crowdfunding": "{count, plural, =0 {Crowdfundings} one {Crowdfunding} other {Crowdfundings}}",
   "toolkit.list.footer.auction": "{count, plural, =0 {Auctions} one {Auction} other {Auctions}}",
   "toolkit.list.footer.project": "{count, plural, =0 {Projects} one {Project} other {Projects}}",
-  "toolkit.list.footer.initiative": "Initiatives"
+  "toolkit.list.footer.initiative": "Initiatives",
+  "toolkit.organizedBy": "Organized by"
 }
