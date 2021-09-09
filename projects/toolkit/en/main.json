@@ -372,5 +372,6 @@
   "toolkit.list.footer.project": "{count, plural, =0 {Projects} one {Project} other {Projects}}",
   "toolkit.list.footer.initiative": "Initiatives",
   "toolkit.profile.picture": "Profile picture",
-  "toolkit.organizedBy": "Organized by"
+  "toolkit.organizedBy": "Organized by",
+  "toolkit.donors": "donors"
 }
