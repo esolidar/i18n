@@ -371,5 +371,6 @@
   "toolkit.list.footer.auction": "{count, plural, =0 {Auctions} one {Auction} other {Auctions}}",
   "toolkit.list.footer.project": "{count, plural, =0 {Projects} one {Project} other {Projects}}",
   "toolkit.list.footer.initiative": "Initiatives",
+  "toolkit.profile.picture": "Profile picture",
   "toolkit.organizedBy": "Organized by"
 }
