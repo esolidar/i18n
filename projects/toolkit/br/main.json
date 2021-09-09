@@ -367,9 +367,8 @@
   "switchAccounts.subtitle": "Você tem {number} contas associadas a este email",
   "header.switchAccounts": "Trocar de conta",
   "login.choose.company": "Selecione a empresa",
-  "toolkit.list.footer.crowdfunding": "{count, plural, =0 {# Crowdfundings} one {# Crowdfunding} other {# Crowdfundings}}",
-  "toolkit.list.footer.auction": "{count, plural, =0 {# Leilões} one {# Leilão} other {# Leilões}}",
-  "toolkit.list.footer.project": "{count, plural, =0 {# Projetos} one {# Projeto} other {# Projetos}}",
-  "toolkit.list.footer.initiative": "{count, plural, =0 {# Iniciativas} one {# Iniciativa} other {# Iniciativas}}",
-  "toolkit.profile.picture": "Foto de perfil"
+  "toolkit.list.footer.crowdfunding": "{count, plural, =0 {Crowdfundings} one {Crowdfunding} other {Crowdfundings}}",
+  "toolkit.list.footer.auction": "{count, plural, =0 {Leilões} one {Leilão} other {Leilões}}",
+  "toolkit.list.footer.project": "{count, plural, =0 {Projetos} one {Projeto} other {Projetos}}",
+  "toolkit.list.footer.initiative": "Iniciativas"
 }
