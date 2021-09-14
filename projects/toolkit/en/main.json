@@ -373,7 +373,7 @@
   "toolkit.list.footer.initiative": "Initiatives",
   "toolkit.profile.picture": "Profile picture",
   "toolkit.organizedBy": "Organized by",
-  "toolkit.donors": "{value} {value, plural, =0 {donors} one {donor} other {donors}}",
+  "toolkit.numberOfDonors": "{value} {value, plural, =0 {donors} one {donor} other {donors}}",
   "toolkit.days.left.detail": "Starts in {value} {value, plural, =0 {days} one {day} other {days}}",
   "toolkit.hours.left.detail": "Starts in  {value} {value, plural, =0 {hours} one {hour} other {hours}}",
   "toolkit.mins.left.detail": "Starts in  {value} {value, plural, =0 {mins} one {min} other {mins}}",
