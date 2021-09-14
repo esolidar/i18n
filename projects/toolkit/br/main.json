@@ -373,5 +373,9 @@
   "toolkit.list.footer.initiative": "Iniciativas",
   "toolkit.profile.picture": "Foto de perfil",
   "toolkit.organizedBy": "Organizado por",
-  "toolkit.donors": "doadores"
+  "toolkit.donors": "doadores",
+  "toolkit.days.left.detail": "Começa em {value} dias",
+  "toolkit.hours.left.detail": "Começa em  {value} horas",
+  "toolkit.mins.left.detail": "Começa em  {value} mins",
+  "toolkit.secs.left.detail": "Começa em  {value} segs"
 }
