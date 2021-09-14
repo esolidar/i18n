@@ -374,8 +374,8 @@
   "toolkit.profile.picture": "Foto de perfil",
   "toolkit.organizedBy": "Organizado por",
   "toolkit.donors": "doadores",
-  "toolkit.days.left.detail": "Começa em {value} dias",
-  "toolkit.hours.left.detail": "Começa em  {value} horas",
-  "toolkit.mins.left.detail": "Começa em  {value} mins",
-  "toolkit.secs.left.detail": "Começa em  {value} segs"
+  "toolkit.days.left.detail": "Começa em {value} {value, plural, =0 {dias} one {dia} other {dias}}",
+  "toolkit.hours.left.detail": "Começa em  {value} {value, plural, =0 {horas} one {hora} other {horas}}",
+  "toolkit.mins.left.detail": "Começa em  {value} {value, plural, =0 {mins} one {min} other {mins}}",
+  "toolkit.secs.left.detail": "Começa em  {value} {value, plural, =0 {segs} one {seg} other {segs}}"
 }
