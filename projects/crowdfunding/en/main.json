@@ -1,1 +1,5 @@
-{ "crowdfunding.donate": "Donate" }
+{
+  "crowdfunding.donate": "Donate",
+  "crowdfunding.seeAllCampaigns": "See all campaigns",
+  "crowdfunding.exploreMoreCampaigns": "Explore more campaigns"
+}
