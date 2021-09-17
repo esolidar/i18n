@@ -1,1 +1,10 @@
-{}
+{
+  "feed.post.loves.count": "{value, number} {value, plural, one {love} other {loves}}",
+  "feed.create.new.post.comment": "Deixe um comentário",
+  "feed.create.new.post.reply": "Deixe uma resposta",
+  "feed.post.comment": "Responder",
+  "feed.post.gallery.view.more": "+ {value}",
+  "feed.post.share": "Partilhar post",
+  "feed.post.comments.count": "{value, number} {value, plural, one {comentário} other {comentários}}",
+  "feed.post.view.replies": "See {value, number} {value, plural, one {resposta} other {respostas}}"
+}
