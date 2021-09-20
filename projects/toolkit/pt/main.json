@@ -377,5 +377,6 @@
   "toolkit.days.left.detail": "Começa em {value} {value, plural, =0 {dias} one {dia} other {dias}}",
   "toolkit.hours.left.detail": "Começa em  {value} {value, plural, =0 {horas} one {hora} other {horas}}",
   "toolkit.mins.left.detail": "Começa em  {value} {value, plural, =0 {mins} one {min} other {mins}}",
-  "toolkit.secs.left.detail": "Começa em  {value} {value, plural, =0 {segs} one {seg} other {segs}}"
+  "toolkit.secs.left.detail": "Começa em  {value} {value, plural, =0 {segs} one {seg} other {segs}}",
+  "toolkit.auction.last.bid": "Última licitação de {value}"
 }

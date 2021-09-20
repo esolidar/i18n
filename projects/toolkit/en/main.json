@@ -377,5 +377,6 @@
   "toolkit.days.left.detail": "Starts in {value} {value, plural, =0 {days} one {day} other {days}}",
   "toolkit.hours.left.detail": "Starts in  {value} {value, plural, =0 {hours} one {hour} other {hours}}",
   "toolkit.mins.left.detail": "Starts in  {value} {value, plural, =0 {mins} one {min} other {mins}}",
-  "toolkit.secs.left.detail": "Starts in  {value} {value, plural, =0 {secs} one {sec} other {secs}}"
+  "toolkit.secs.left.detail": "Starts in  {value} {value, plural, =0 {secs} one {sec} other {secs}}",
+  "toolkit.auction.last.bid": "Last bid of {value}"
 }
