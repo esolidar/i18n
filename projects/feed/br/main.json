@@ -6,5 +6,8 @@
   "feed.post.gallery.view.more": "+ {value}",
   "feed.post.share": "Partilhar post",
   "feed.post.comments.count": "{value, number} {value, plural, one {comentário} other {comentários}}",
-  "feed.post.view.replies": "See {value, number} {value, plural, one {resposta} other {respostas}}"
+  "feed.post.view.replies": "Ver {value, number} {value, plural, one {resposta} other {respostas}}",
+  "delete.comment": "Eliminar comentário",
+  "delete.comment.body": "Tem certeza que deseja deletar este comentário?",
+  "feed.post.view.more.comments": "Ver mais {value, number} {value, plural, one {comentário} other {comentários}}"
 }
