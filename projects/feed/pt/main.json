@@ -7,7 +7,8 @@
   "feed.post.share": "Partilhar post",
   "feed.post.comments.count": "{value, number} {value, plural, one {comentário} other {comentários}}",
   "feed.post.view.replies": "Ver {value, number} {value, plural, one {resposta} other {respostas}}",
-  "delete.comment": "Eliminar comentário",
-  "delete.comment.body": "Tem certeza que deseja deletar este comentário?",
-  "feed.post.view.more.comments": "Ver mais {value, number} {value, plural, one {comentário} other {comentários}}"
+  "feed.delete.comment": "Eliminar comentário",
+  "feed.delete.comment.body": "Tem certeza que deseja eliminar este comentário?",
+  "feed.feed.post.view.more.comments": "Ver mais {value, number} {value, plural, one {comentário} other {comentários}}",
+  "feed.post.view.new.post": "Ver {value, number} {value, plural, one {novo post} other {novos posts}}"
 }
