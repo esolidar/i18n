@@ -25,6 +25,7 @@
   "commentHere": "Deixe um comentário...",
   "loading": "A carregar...",
   "readmore": "Ler mais",
+  "readLess": "Ler menos",
   "columns": "Colunas",
   "institution": "Organização social",
   "noDataText": "Não existem dados a apresentar.",
@@ -378,5 +379,8 @@
   "toolkit.mins.left.detail": "Começa em  {value} {value, plural, =0 {mins} one {min} other {mins}}",
   "toolkit.secs.left.detail": "Começa em  {value} {value, plural, =0 {segs} one {seg} other {segs}}",
   "toolkit.auction.last.bid": "Última licitação de {value}",
-  "toolkit.private": "Privado"
+  "toolkit.private": "Privado",
+  "toolkit.create.comment": "Deixe um comentário",
+  "toolkit.view.replies": "Ver {value, number} {value, plural, one {resposta} other {respostas}}",
+  "toolkit.delete.comment.body": "Tem certeza que deseja eliminar este comentário?"
 }

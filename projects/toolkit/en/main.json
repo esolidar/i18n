@@ -25,6 +25,7 @@
   "commentHere": "Leave a comment...",
   "loading": "Loading...",
   "readmore": "Read more",
+  "readLess": "Read less",
   "columns": "Columns",
   "institution": "Nonprofit",
   "noDataText": "No data is available.",
@@ -378,5 +379,8 @@
   "toolkit.mins.left.detail": "Starts in  {value} {value, plural, =0 {mins} one {min} other {mins}}",
   "toolkit.secs.left.detail": "Starts in  {value} {value, plural, =0 {secs} one {sec} other {secs}}",
   "toolkit.auction.last.bid": "Last bid of {value}",
-  "toolkit.private": "Private"
+  "toolkit.private": "Private",
+  "toolkit.create.comment": "Leave a comment",
+  "toolkit.view.replies": "See {value, number} {value, plural, one {reply} other {replies}}",
+  "toolkit.delete.comment.body": "Are you sure you want to delete this comment?"
 }
