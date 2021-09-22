@@ -111,7 +111,6 @@
   "auction.video.placeholder": "E.x.: https://www.youtube.com/watch?v=myvideo",
   "auctionBidInterval": "Intervalo mínimo do lance",
   "auctionBidMaxInterval": "Intervalo máximo do lance",
-  "auctionPrivate": "Privado",
   "auctionPublic": "Público",
   "auctions.add.answer0": "O leilão também pode aparecer no site da comunidade esolidar.com. Para fazer isso, escolha a opção Sim no campo Mostrar na esolidar.com. Se você ativar este recurso, o leilão ficará pendente de aprovação pela equipe da esolidar. Assim que o leilão for aprovado, você receberá uma notificação/email.",
   "auctions.add.answer1": "Inclua palavras-chave que os usuários possam utilizar para pesquisa o seu item.",

@@ -111,7 +111,6 @@
   "auction.video.placeholder": "e.g. https://www.youtube.com/watch?v=myvideo",
   "auctionBidInterval": "Minimum bid interval",
   "auctionBidMaxInterval": "Maximum bid interval",
-  "auctionPrivate": "Private",
   "auctionPublic": "Public",
   "auctions.add.answer0": "The auction may also appear on the esolidar.com community website. To do this, choose the Yes option in the Show field on esolidar.com. If you activate this feature, the auction will be pending approval by the esolidar team. Once the auction is approved, you will receive a notification/email.",
   "auctions.add.answer1": "Include tags that buyers would use to search for your item.",
