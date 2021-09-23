@@ -1,1 +1,11 @@
-{}
+{
+  "auction.search": "Search auctions",
+  "auction.all": "All",
+  "auction.active": "Active",
+  "auction.ended": "Ended",
+  "auction.comming.soon": "Comming soon",
+  "auction.best.match": "Best match",
+  "auction.newly.listed": "Newly listed",
+  "auction.lowest.price.first": "Lowest price first",
+  "auction.highest.price.first": "Highest price first"
+}
