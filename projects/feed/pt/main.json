@@ -11,5 +11,7 @@
   "feed.delete.comment.body": "Tem certeza que deseja eliminar este comentário?",
   "feed.feed.post.view.more.comments": "Ver mais {value, number} {value, plural, one {comentário} other {comentários}}",
   "feed.post.view.new.post": "Ver {value, number} {value, plural, one {novo post} other {novos posts}}",
-  "feed.post.write.comment": "Escreva um comentário..."
+  "feed.post.write.comment": "Escreva um comentário...",
+  "feed.latest.updates": "Últimas atualizações",
+  "feed.latest.updates.subtitle": "Veja o que {name} tem feito."
 }
