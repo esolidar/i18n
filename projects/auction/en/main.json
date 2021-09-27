@@ -7,5 +7,6 @@
   "auction.best.match": "Best match",
   "auction.newly.listed": "Newly listed",
   "auction.lowest.price.first": "Lowest price first",
-  "auction.highest.price.first": "Highest price first"
+  "auction.highest.price.first": "Highest price first",
+  "auction.ending.soon": "Ending soon"
 }
