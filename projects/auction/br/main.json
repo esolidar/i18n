@@ -9,5 +9,7 @@
   "auction.lowest.price.first": "Preço mais baixo primeiro",
   "auction.highest.price.first": "Preço mais alto primeiro",
   "auction.ending.soon": "Quase a terminar",
-  "auction.sort.by": "Ordenar por"
+  "auction.sort.by": "Ordenar por",
+  "auctions.search.notExist": "Nenhum leilão encontrado",
+  "auctions.search.notExist.description": "Por favor, verifique a grafia ou tente termos mais genéricos."
 }
