@@ -35,8 +35,6 @@
   "auctions.filter.status": "Status do Leilão",
   "auctions.modal.error.titleOtherError": "Erro:",
   "auctions.notExist": "Ainda não há leilões disponíveis para dar lances",
-  "auctions.search.notExist": "Nenhum leilão encontrado",
-  "auctions.search.notExist.description": "Por favor, verifique a grafia ou tente termos mais genéricos.",
   "auth.login.invalid": "Email ou senha inválidos",
   "auth.login.invalid.password": "Senha inválida",
   "auth.login.notRegistered": "Este email não está registrado, por favor, registe-se",

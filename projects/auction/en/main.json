@@ -8,5 +8,8 @@
   "auction.newly.listed": "Newly listed",
   "auction.lowest.price.first": "Lowest price first",
   "auction.highest.price.first": "Highest price first",
-  "auction.ending.soon": "Ending soon"
+  "auction.ending.soon": "Ending soon",
+  "auction.sort.by": "Sort by",
+  "auction.search.not.exist": "No auctions found",
+  "auction.search.not.exist.description": "Please verify your spelling or try more generic terms"
 }

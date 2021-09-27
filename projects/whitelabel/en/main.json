@@ -34,8 +34,6 @@
   "auctions.filter.status": "Auction Status",
   "auctions.modal.error.titleOtherError": "Error:",
   "auctions.notExist": "There are no auctions yet to bid",
-  "auctions.search.notExist": "No auctions found",
-  "auctions.search.notExist.description": "Please verify your spelling or try more generic terms",
   "auth.login.invalid": "Invalid email or password",
   "auth.login.invalid.password": "Invalid password",
   "auth.login.notRegistered": "This email is not registered, please register",
