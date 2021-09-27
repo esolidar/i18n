@@ -10,6 +10,6 @@
   "auction.highest.price.first": "Highest price first",
   "auction.ending.soon": "Ending soon",
   "auction.sort.by": "Sort by",
-  "auctions.search.notExist": "No auctions found",
-  "auctions.search.notExist.description": "Please verify your spelling or try more generic terms"
+  "auction.search.not.exist": "No auctions found",
+  "auction.search.not.exist.description": "Please verify your spelling or try more generic terms"
 }

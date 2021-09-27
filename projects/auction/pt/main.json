@@ -10,6 +10,6 @@
   "auction.highest.price.first": "Preço mais alto primeiro",
   "auction.ending.soon": "Quase a terminar",
   "auction.sort.by": "Ordenar por",
-  "auctions.search.notExist": "Nenhum leilão encontrado",
-  "auctions.search.notExist.description": "Por favor verifique a ortografia ou tente termos mais genéricos."
+  "auction.search.not.exist": "Nenhum leilão encontrado",
+  "auction.search.not.exist.description": "Por favor verifique a ortografia ou tente termos mais genéricos."
 }
