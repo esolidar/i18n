@@ -8,5 +8,6 @@
   "auction.newly.listed": "Listados recentemente",
   "auction.lowest.price.first": "Preço mais baixo primeiro",
   "auction.highest.price.first": "Preço mais alto primeiro",
-  "auction.ending.soon": "Quase a terminar"
+  "auction.ending.soon": "Quase a terminar",
+  "auction.sort.by": "Ordenar por"
 }
