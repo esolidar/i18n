@@ -4,7 +4,7 @@
   "validate": "Validar",
   "description": "Descrição",
   "title": "Título",
-  "ended": "Finalizado",
+  "toolkit.ended": "Finalizado",
   "success": "Sucesso",
   "error": "Erro",
   "dd-mm-yyyy": "DD-MM-YYYY",
