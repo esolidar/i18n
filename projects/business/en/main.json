@@ -1166,5 +1166,9 @@
   "whitelabel.w3": "Please specify your preferred domain. Esolidar's team will complete the process within 24h to 48h.",
   "work_email": "Work email",
   "yes": "Yes",
-  "yyyy": "yyyy"
+  "yyyy": "yyyy",
+  "initiatives.my.initiatives": "My initiatives",
+  "initiatives.discover": "Discover",
+  "needs.header.add.document.text": "Create or support social impact initiatives",
+  "need.add": "Add need"
 }

@@ -1165,5 +1165,9 @@
   "whitelabel.w3": "Especifique seu domínio. A equipe esolidar irá concluir o processo dentro de 24h a 48h.",
   "work_email": "Email profissional",
   "yes": "Sim",
-  "yyyy": "aaaa"
+  "yyyy": "aaaa",
+  "initiatives.my.initiatives": "Minhas iniciativas",
+  "initiatives.discover": "Descobrir",
+  "needs.header.add.document.text": "Criar ou apoiar iniciativas de impacto social",
+  "need.add": "Adicionar iniciativa"
 }
