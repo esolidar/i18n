@@ -474,5 +474,6 @@
   "user.settings.whitelabelsList.error": "Ocorreu um erro.",
   "video": "Vídeo",
   "welcomeBack": "Boas-vindas",
-  "year": "Ano"
+  "year": "Ano",
+  "whitelabel.auctions.subtitle": "Apoie as organizações sociais ou as iniciativas da {value} licitando em leilões únicos, incluindo itens assinados por celebridades, experiências exclusivas e muito mais."
 }

@@ -474,5 +474,6 @@
   "user.settings.whitelabelsList.error": "An error was occoured.",
   "video": "VIDEO",
   "welcomeBack": "Welcome back",
-  "year": "Year"
+  "year": "Year",
+  "whitelabel.auctions.subtitle": "Support nonprofits or the {value} initiatives by bidding in once in a lifetime auctions including signed celebrity items, exclusive experiences and more."
 }
