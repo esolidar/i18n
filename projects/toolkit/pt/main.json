@@ -381,6 +381,7 @@
   "toolkit.auction.last.bid": "Última licitação de {value}",
   "toolkit.private": "Privado",
   "toolkit.comment.create": "Deixe um comentário",
+  "toolkit.reply.create": "Deixe uma resposta",
   "toolkit.view.replies": "Ver {value, number} {value, plural, one {resposta} other {respostas}}",
   "toolkit.view.comments": "Ver mais {value, number} {value, plural, one {comentário} other {comentários}}",
   "toolkit.delete.comment.body": "Tem certeza que deseja eliminar este comentário?",
