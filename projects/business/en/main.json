@@ -1054,7 +1054,7 @@
   "topMenu.brands": "Sub-brands",
   "topMenu.departments": "Teams",
   "topMenu.feedback": "Share your feedback",
-  "topMenu.logout": "Logout",
+  "topMenu.logout": "Log out",
   "topMenu.manageBankAccounts": "Banking information",
   "topMenu.settings": "Settings",
   "topMenu.tickets": "Tickets",
@@ -1171,5 +1171,6 @@
   "need.add": "New initiative",
   "needs.crowdfunding.header.add.document.text": "Create social impact by raising funds.",
   "needs.crowdfunding.private.add.text": "Campaigns that help support a personal cause.",
-  "new.crowdfunding": "New crowdfunding"
+  "new.crowdfunding": "New crowdfunding",
+  "business.accelerator.title": "Accelerator"
 }
