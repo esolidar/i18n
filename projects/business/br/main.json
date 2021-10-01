@@ -1,6 +1,5 @@
 {
   "crowdfunding.not.found.back": "Voltar para a lista de crowdfunding",
-
   "APPROVED": "Aprovado",
   "APPROVED_PLURAL": "Aprovados",
   "ActiveUrl.error": "Por favor use um domínio válido.",
@@ -284,7 +283,7 @@
   "crowdfunding.value.error": "Por favor insira o valor.",
   "crowdfunding.value.error.minimum_contribution": "Por favor insira um valor igual ou superior a ",
   "crowdfundingCreatedMessage": "Sua campanha foi criada com sucesso!",
-  "crowdfundingPublic.add.text": "Aqui pode criar as campanhas de crowdfunding e analisar as campanhas submetidas ficando ao vosso critério a aprovação ou rejeição da mesma.",
+  "crowdfundingPublic.add.text": "Campanhas que ajudam a apoiar uma organização sem fins lucrativos.",
   "crowdfundingPublic.add.title": "Adicionar campanha pública",
   "crowdfundingPublic.edit.title": "Editar campanha pública",
   "crowdfundingPublic.subtitle": "Crie campanhas para resolver os problemas sociais dos mesmos ou de causas sociais.",
@@ -931,7 +930,6 @@
   "requests.other.platforms": "Comunicação da iniciativa",
   "requests.requirements": "Requisitos para que seja realizada a iniciativa",
   "requests.responsible.contact": "Contato do responsável",
-  "requests.title": "Nova Iniciativa",
   "requests.visibility": "Visibilidade",
   "requests.volunteering": "Voluntariado",
   "requests.volunteering.one-time": "Uma vez",
@@ -1169,6 +1167,9 @@
   "initiatives.my.initiatives": "Minhas iniciativas",
   "initiatives.discover": "Descobrir",
   "needs.header.add.document.text": "Criar ou apoiar iniciativas de impacto social",
-  "need.add": "Adicionar iniciativa",
+  "need.add": "Nova iniciativa",
+  "needs.crowdfunding.header.add.document.text": "Crie impacto social angariando fundos.",
+  "needs.crowdfunding.private.add.text": "Campanhas que ajudam a apoiar uma causa pessoal.",
+  "new.crowdfunding": "Novo crowdfunding",
   "business.accelerator.title": "Aceleradora"
 }

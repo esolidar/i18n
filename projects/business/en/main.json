@@ -1,7 +1,6 @@
 {
   "crowdfunding.not.found.back": "Back to crowdfunding list",
   "projects.list.no-results-search": "No projects were found that meet the criteria defined in the search. Try again with other filter options.",
-
   "APPROVED": "Approved",
   "APPROVED_PLURAL": "Approved(s)",
   "ActiveUrl.error": "Please use a valid domain.",
@@ -285,7 +284,7 @@
   "crowdfunding.value.error": "Please enter a value.",
   "crowdfunding.value.error.minimum_contribution": "Please enter an amount equal or greater than ",
   "crowdfundingCreatedMessage": "You successfully created your campaign!",
-  "crowdfundingPublic.add.text": "Here you can create crowdfunding campaigns and see the campaigns submitted, which you can approve or reject.",
+  "crowdfundingPublic.add.text": "Campaigns that help support a nonprofit.",
   "crowdfundingPublic.add.title": "Add public crowdfunding campaign",
   "crowdfundingPublic.edit.title": "Edit public crowdfunding campaign",
   "crowdfundingPublic.subtitle": "Create campaigns and easily fund the causes that are close to you, whether personal or promoted by a nonprofit",
@@ -932,7 +931,6 @@
   "requests.other.platforms": "Other platforms",
   "requests.requirements": "Requirements",
   "requests.responsible.contact": "Responsible in charge",
-  "requests.title": "New initiative",
   "requests.visibility": "Visibility",
   "requests.volunteering": "Volunteering",
   "requests.volunteering.one-time": "One time",
@@ -1170,6 +1168,9 @@
   "initiatives.my.initiatives": "My initiatives",
   "initiatives.discover": "Discover",
   "needs.header.add.document.text": "Create or support social impact initiatives",
-  "need.add": "Add need",
+  "need.add": "New initiative",
+  "needs.crowdfunding.header.add.document.text": "Create social impact by raising funds.",
+  "needs.crowdfunding.private.add.text": "Campaigns that help support a personal cause.",
+  "new.crowdfunding": "New crowdfunding",
   "business.accelerator.title": "Accelerator"
 }
