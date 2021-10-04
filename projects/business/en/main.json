@@ -463,8 +463,8 @@
   "giftcards.detail.modal.table.spent": "Spent",
   "giftcards.detail.modal.table.user": "User",
   "giftcards.detail.modal.title": "<b>{value}</b>{br}Here you can see the complete listing of the employees who used the voucher and which nonprofit each one supported.",
-  "giftcards.list.created": "Created",
-  "giftcards.list.expires": "Expires",
+  "giftcards.list.created": "Created at",
+  "giftcards.list.expires": "Expires at",
   "giftcards.list.percent": "Percent",
   "giftcards.list.timezone": "Timezone",
   "giftcards.list.total-spent": "Total spent",
@@ -1173,5 +1173,6 @@
   "business.donations.subtitle": "When activating match donations, your company matches your employees' donations at a certain percentage (e.g. 5%, 10%, etc).",
   "business.donations.payments": "Manage payments",
   "business.donations.search": "Search for donations",
-  "business.donations.payments.subtitle": "Manage all the payments of donations to nonprofits related to vouchers and match your employees' donations."
+  "business.donations.payments.subtitle": "Manage all the payments of donations to nonprofits related to vouchers and match your employees' donations.",
+  "business.value.user": "Value/User"
 }
