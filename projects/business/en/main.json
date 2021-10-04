@@ -762,7 +762,6 @@
   "payments.pending.total.to.be.payed": "Total to be paid",
   "payments.select.charities.subtitle": "Select which nonprofits you would like to pay regarding pending donations related to vouchers and match your employees' donations.",
   "payments.select.charities.title": "Select nonprofits",
-  "payments.subtitle": "Manage all the payments of donations to nonprofits related to vouchers and match your employees' donations.",
   "payments.total.giftcard": "Total voucher",
   "payments.total.match": "Total match",
   "payments.total.pending.text": "Confirm and proceed to pending payments",
@@ -1171,5 +1170,6 @@
   "needs.crowdfunding.header.add.document.text": "Create social impact by raising funds.",
   "needs.crowdfunding.private.add.text": "Campaigns that help support a personal cause.",
   "new.crowdfunding": "New crowdfunding",
-  "business.accelerator.title": "Accelerator"
+  "business.accelerator.title": "Accelerator",
+  "business.donations.subtitle": "When activating match donations, your company matches your employees' donations at a certain percentage (e.g. 5%, 10%, etc)."
 }

@@ -760,7 +760,6 @@
   "payments.pending.total.to.be.payed": "Total por pagar",
   "payments.select.charities.subtitle": "Selecione as organizações sociais as quais quer proceder ao pagamento das doações pendentes associadas aos vouchers e match donation usados pelos seus funcionários.",
   "payments.select.charities.title": "Selecionar organizações sociais",
-  "payments.subtitle": "Aqui pode gerenciar todos os pagamentos a organizações sociais, sejam relacionados com o match donation ou vouchers utilizados pelos seus funcionários.",
   "payments.total.giftcard": "Total vouchers",
   "payments.total.match": "Total de multiplicação",
   "payments.total.pending.text": "Confirme e prossiga aos pagamentos pendentes",
@@ -1170,5 +1169,6 @@
   "needs.crowdfunding.header.add.document.text": "Crie impacto social angariando fundos.",
   "needs.crowdfunding.private.add.text": "Campanhas que ajudam a apoiar uma causa pessoal.",
   "new.crowdfunding": "Novo crowdfunding",
-  "business.accelerator.title": "Aceleradora"
+  "business.accelerator.title": "Aceleradora",
+  "business.donations.subtitle": "Ao ativar o match donations, sua empresa é capaz de igualar as doações de seus funcionários em uma determinada percentagem (ex.: 5%, 10%, ...)."
 }

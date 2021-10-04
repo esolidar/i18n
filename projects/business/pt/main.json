@@ -761,7 +761,6 @@
   "payments.pending.total.to.be.payed": "Total por pagar",
   "payments.select.charities.subtitle": "Selecione as organizações sociais as quais quer proceder ao pagamento das doações pendentes associados aos vouchers e multiplicador de doações usados pelos seus funcionários.",
   "payments.select.charities.title": "Selecionar organizações sociais",
-  "payments.subtitle": "Aqui pode gerir todos pagamentos a organizações sociais, sejam relacionados com multiplicador de doações ou vouchers utilizados pelos seus funcionários.",
   "payments.total.giftcard": "Total vouchers",
   "payments.total.match": "Total de multiplicação",
   "payments.total.pending.text": "Confirme e proceda aos pagamentos pendentes",
@@ -1170,5 +1169,6 @@
   "needs.crowdfunding.header.add.document.text": "Crie impacto social angariando fundos.",
   "needs.crowdfunding.private.add.text": "Campanhas que ajudam a apoiar uma causa pessoal.",
   "new.crowdfunding": "Novo crowdfunding",
-  "business.accelerator.title": "Aceleradora"
+  "business.accelerator.title": "Aceleradora",
+  "business.donations.subtitle": "Ao ativar a multiplicação de doações, a sua empresa iguala as doações dos seus funcionários numa determinada percentagem  (ex: 5%, 10%, ...)."
 }
