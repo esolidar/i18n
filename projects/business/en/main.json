@@ -1172,5 +1172,6 @@
   "business.accelerator.title": "Accelerator",
   "business.donations.subtitle": "When activating match donations, your company matches your employees' donations at a certain percentage (e.g. 5%, 10%, etc).",
   "business.donations.payments": "Manage payments",
-  "business.donations.search": "Search for donations"
+  "business.donations.search": "Search for donations",
+  "business.donations.payments.subtitle": "Manage all the payments of donations to nonprofits related to vouchers and match your employees' donations."
 }

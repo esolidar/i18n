@@ -1171,5 +1171,6 @@
   "business.accelerator.title": "Aceleradora",
   "business.donations.subtitle": "Ao ativar a multiplicação de doações, a sua empresa iguala as doações dos seus funcionários numa determinada percentagem  (ex: 5%, 10%, ...).",
   "business.donations.payments": "Gerir pagamentos",
-  "business.donations.search": "Pesquisar por doações"
+  "business.donations.search": "Pesquisar por doações",
+  "business.donations.payments.subtitle": "Aqui pode gerir todos pagamentos a organizações sociais, sejam relacionados com multiplicador de doações ou vouchers utilizados pelos seus funcionários."
 }

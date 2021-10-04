@@ -1171,5 +1171,6 @@
   "business.accelerator.title": "Aceleradora",
   "business.donations.subtitle": "Ao ativar o match donations, sua empresa é capaz de igualar as doações de seus funcionários em uma determinada percentagem (ex.: 5%, 10%, ...).",
   "business.donations.payments": "Gerenciar pagamentos",
-  "business.donations.search": "Pesquisar por doações"
+  "business.donations.search": "Pesquisar por doações",
+  "business.donations.payments.subtitle": "Aqui pode gerenciar todos os pagamentos a organizações sociais, sejam relacionados com o match donation ou vouchers utilizados pelos seus funcionários."
 }
