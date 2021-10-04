@@ -750,11 +750,10 @@
   "payments.charities.benefited": "Nonprofits supported",
   "payments.employees.involved": "Employees benefited",
   "payments.file-format": "File format",
-  "payments.history": "History",
+  "payments.history": "Payment history",
   "payments.modal.process": "Process",
   "payments.ongoing.nodata": "There are payments available.",
   "payments.ongoing.on-payment-since": "On payment since",
-  "payments.ongoing.payments": "Due payments",
   "payments.ongoing.proceed.payment": "Proceed payments",
   "payments.ongoing.process.payment": "Process payment",
   "payments.order.payment": "Order payment",
@@ -1171,5 +1170,7 @@
   "needs.crowdfunding.private.add.text": "Campaigns that help support a personal cause.",
   "new.crowdfunding": "New crowdfunding",
   "business.accelerator.title": "Accelerator",
-  "business.donations.subtitle": "When activating match donations, your company matches your employees' donations at a certain percentage (e.g. 5%, 10%, etc)."
+  "business.donations.subtitle": "When activating match donations, your company matches your employees' donations at a certain percentage (e.g. 5%, 10%, etc).",
+  "business.donations.payments": "Manage payments",
+  "business.donations.search": "Search for donations"
 }

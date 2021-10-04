@@ -752,7 +752,6 @@
   "payments.modal.process": "Processar",
   "payments.ongoing.nodata": "Não existem pagamentos a apresentar.",
   "payments.ongoing.on-payment-since": "Em pagamento",
-  "payments.ongoing.payments": "Pagamentos em falta",
   "payments.ongoing.proceed.payment": "Avançar com pagamento",
   "payments.ongoing.process.payment": "Processar pagamento",
   "payments.order.payment": "Ordem de pagamento",
@@ -1170,5 +1169,7 @@
   "needs.crowdfunding.private.add.text": "Campanhas que ajudam a apoiar uma causa pessoal.",
   "new.crowdfunding": "Novo crowdfunding",
   "business.accelerator.title": "Aceleradora",
-  "business.donations.subtitle": "Ao ativar o match donations, sua empresa é capaz de igualar as doações de seus funcionários em uma determinada percentagem (ex.: 5%, 10%, ...)."
+  "business.donations.subtitle": "Ao ativar o match donations, sua empresa é capaz de igualar as doações de seus funcionários em uma determinada percentagem (ex.: 5%, 10%, ...).",
+  "business.donations.payments": "Gerenciar pagamentos",
+  "business.donations.search": "Pesquisar por doações"
 }
