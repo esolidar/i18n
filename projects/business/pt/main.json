@@ -28,7 +28,7 @@
   "Emploees.add.title": "Adicionar funcionários",
   "Emploees.invite.button": "Convidar funcionários",
   "Emploees.invite.text": "Esta é a sua área de gestão dos funcionários que estão envolvidos na estratégia de responsabilidade social. Aqui pode adicionar ou remover funcionários.",
-  "Emploees.subtitle": "Pessoas que trabalham na {value}.",
+  "Emploees.subtitle": "Convide a sua equipe para fazer parte do vosso programa de responsabilidade social.",
   "Emploees.subtitle.message": "Ao efetuar o upload dos seus funcionários, irá partilhar com a esolidar os seus emails, pelo que garanta que apenas carrega os emails profissionais dos mesmos e que está a fazê-lo antecipadamente em conformidade com o Reg. 679/2016.",
   "Employees.invite.link": "Pode convidar os seus funcionários a participarem na comunidade da vossa empresa partilhando com eles este endereço. Atenção, quem se inscrever através deste endereço ficará associado à vossa empresa como funcionário.",
   "GivingDonationsList.match_donation": "Multiplicação de doações",
@@ -1189,5 +1189,7 @@
   "import.large.teams.text.fill": "Preencha o modelo com as informações de seus funcionários",
   "import.large.teams.text.upload": "Faça upload do ficheiro atualizado",
   "drag.and.drop.file": "Arraste e solte ou envie um ficheiro",
-  "employee": "Funcionário"
+  "employee": "Funcionário",
+  "small.community": "Pequena comunidade",
+  "large.community": "Grande comunidade"
 }

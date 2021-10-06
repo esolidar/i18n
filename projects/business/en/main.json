@@ -28,7 +28,7 @@
   "Emploees.add.title": "Add employees",
   "Emploees.invite.button": "Invite employees",
   "Emploees.invite.text": "Here you can manage which employees you want to empower to be part of your social responsibility strategy. You can add new ones or remove them.",
-  "Emploees.subtitle": "People who work at {value}.",
+  "Emploees.subtitle": "Invite your team to make part of your social responsibility program.",
   "Emploees.subtitle.message": "When uploading your employees, you will share their emails with esolidar, so please make sure you only upload business emails and you are doing it in accordance with Reg. 679/2016.",
   "Employees.invite.link": "You can invite your employees to participate in your company community by sharing this link with them. Remember that anyone who joins through this link will be associated with your company as an employee.",
   "GivingDonationsList.match_donation": "Match donation",
@@ -1190,5 +1190,7 @@
   "import.large.teams.text.fill": "Fill in the template with your employees information",
   "import.large.teams.text.upload": "Upload the updated file",
   "drag.and.drop.file": "Drag and drop or upload a file",
-  "employee": "Employee"
+  "employee": "Employee",
+  "small.community": "Small community",
+  "large.community": "Large community"
 }
