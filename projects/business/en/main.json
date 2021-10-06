@@ -467,7 +467,7 @@
   "giftcards.list.expires": "Expires at",
   "giftcards.list.percent": "Percent",
   "giftcards.list.timezone": "Timezone",
-  "giftcards.list.total-spent": "Total spent",
+  "giftcards.list.total-spent": "Total spent %",
   "giftcards.number.charities": "Number of nonprofits",
   "giftcards.seedetails": "Details",
   "giftcards.total.issued": "Total issued in vouchers",
