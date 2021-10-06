@@ -647,7 +647,7 @@
   "matchdonation.total.match": "Total of match",
   "matchdonations.title": "Match donations",
   "max.options.required": "Maximum number of responses",
-  "maxPerEmployee": "Max Per Employee",
+  "maxPerEmployee": "Maximum Per Employee",
   "maxPerYear": "Maximum Per Year",
   "maxPerYearInvalid": "The maximum donated annually must be greater than 0.",
   "maxPercentage": "Match Percentage",
@@ -1174,5 +1174,6 @@
   "business.donations.payments": "Manage payments",
   "business.donations.search": "Search for donations",
   "business.donations.payments.subtitle": "Manage all the payments of donations to nonprofits related to vouchers and match your employees' donations.",
-  "business.value.user": "Value/User"
+  "business.value.user": "Value/User",
+  "business.beneficiary": "Beneficiary"
 }

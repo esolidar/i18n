@@ -1173,5 +1173,6 @@
   "business.donations.payments": "Gerenciar pagamentos",
   "business.donations.search": "Pesquisar por doações",
   "business.donations.payments.subtitle": "Aqui pode gerenciar todos os pagamentos a organizações sociais, sejam relacionados com o match donation ou vouchers utilizados pelos seus funcionários.",
-  "business.value.user": "Valor/Usuário"
+  "business.value.user": "Valor/Usuário",
+  "business.beneficiary": "Beneficiário "
 }

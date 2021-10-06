@@ -1173,5 +1173,6 @@
   "business.donations.payments": "Gerir pagamentos",
   "business.donations.search": "Pesquisar por doações",
   "business.donations.payments.subtitle": "Aqui pode gerir todos pagamentos a organizações sociais, sejam relacionados com multiplicador de doações ou vouchers utilizados pelos seus funcionários.",
-  "business.value.user": "Valor/Utilizador"
+  "business.value.user": "Valor/Utilizador",
+  "business.beneficiary": "Beneficiário "
 }
