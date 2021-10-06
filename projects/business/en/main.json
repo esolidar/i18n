@@ -648,7 +648,7 @@
   "matchdonations.title": "Match donations",
   "max.options.required": "Maximum number of responses",
   "maxPerEmployee": "Max Per Employee",
-  "maxPerYear": "Max Per Year (Spent {currency}{spentValue})",
+  "maxPerYear": "Maximum Per Year",
   "maxPerYearInvalid": "The maximum donated annually must be greater than 0.",
   "maxPercentage": "Match Percentage",
   "members.Stats.active": "Active members",

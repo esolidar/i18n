@@ -647,7 +647,7 @@
   "matchdonations.title": "Multiplicar doações",
   "max.options.required": "Número máximo de respostas",
   "maxPerEmployee": "Máximo por funcionário",
-  "maxPerYear": "Máximo por Ano (Gasto {currency}{spentValue})",
+  "maxPerYear": "Máximo por Ano",
   "maxPerYearInvalid": "O máximo doado anualmente deverá ser maior que 0.",
   "maxPercentage": "Percentagem a aumentar",
   "members.Stats.active": "Ativos",
