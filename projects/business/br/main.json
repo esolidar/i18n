@@ -1189,5 +1189,7 @@
   "import.large.teams.text.fill": "Preencha o modelo com as informações de seus funcionários",
   "import.large.teams.text.upload": "Faça upload do arquivo atualizado",
   "drag.and.drop.file": "Arraste e solte ou envie um arquivo",
-  "employee": "Funcionário"
+  "employee": "Funcionário",
+  "small.community": "Pequena comunidade",
+  "large.community": "Grande comunidade"
 }
