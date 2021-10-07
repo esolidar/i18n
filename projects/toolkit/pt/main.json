@@ -385,5 +385,6 @@
   "toolkit.view.replies": "Ver {value, number} {value, plural, one {resposta} other {respostas}}",
   "toolkit.view.comments": "Ver mais comentários",
   "toolkit.delete.comment.body": "Tem certeza que deseja eliminar este comentário?",
-  "toolkit.comment.write": "Escreva um comentário..."
+  "toolkit.comment.write": "Escreva um comentário...",
+  "toolkit.auctions.modal.success.newBid": "Licitou com sucesso!"
 }
