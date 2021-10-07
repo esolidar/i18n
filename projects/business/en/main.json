@@ -1192,5 +1192,7 @@
   "drag.and.drop.file": "Drag and drop or upload a file",
   "employee": "Employee",
   "small.community": "Small community",
-  "large.community": "Large community"
+  "large.community": "Large community",
+  "select-all": "Select all",
+  "selected-count": "{emailsToImport} of {importedUsers} selected"
 }
