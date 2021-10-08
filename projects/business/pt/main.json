@@ -1193,5 +1193,6 @@
   "small.community": "Pequena comunidade",
   "large.community": "Grande comunidade",
   "select-all": "Selecionar todos",
-  "selected-count": "{emailsToImport} de {importedUsers} selecionados"
+  "selected-count": "{emailsToImport} de {importedUsers} selecionados",
+  "business.here": "aqui"
 }
