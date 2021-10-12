@@ -15,5 +15,6 @@
   "feed.latest.updates": "Últimas atualizações",
   "feed.latest.updates.subtitle": "Veja o que {name} tem feito.",
   "feed.post.create.public": "Público",
-  "feed.infoPublicPost": "A sua publicação será visível por todos."
+  "feed.infoPublicPost": "A sua publicação será visível por todos.",
+  "feed.no-posts": "Ainda sem publicações"
 }
