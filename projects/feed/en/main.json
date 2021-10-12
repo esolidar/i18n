@@ -13,5 +13,7 @@
   "feed.post.view.new.post": "View {value, number} {value, plural, one {new post} other {new posts}}",
   "feed.post.write.comment": "Write a comment...",
   "feed.latest.updates": "Latest updates",
-  "feed.latest.updates.subtitle": "Check out what {name} has been up to."
+  "feed.latest.updates.subtitle": "Check out what {name} has been up to.",
+  "feed.post.create.public": "Public",
+  "feed.infoPublicPost": "Your post will be visible to everyone."
 }
