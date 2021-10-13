@@ -859,7 +859,7 @@
   "projects.config.update.regulations.description": "Contextualize the community of what projects are and their regulations. Here you can include all the information necessary for the community to know what projects are, the rules for submitting them and their regulations.",
   "projects.config.update.search.page.text": "Update \"Search page text\"",
   "projects.configure.categories": "Please create categories before proceeding.",
-  "projects.configure.form": "Please configure projects before proceeding.",
+  "projects.configure.form": "Please configure projects before proceeding ",
   "projects.crowdfunding.list": "Campaigns supporting this project",
   "projects.documents.add": "Here you can add files that will be available to your project.",
   "projects.list": "Projects",

@@ -858,7 +858,7 @@
   "projects.config.update.regulations.description": "Contextualize a comunidade do que são os projetos e o seu regulamento. Aqui pode incluir todas as informações necessárias para que a comunidade saiba o que são projetos, as regras para submetê-los e o seu regulamento.",
   "projects.config.update.search.page.text": "Editar \"Página de pesquisa\"",
   "projects.configure.categories": "Por favor crie categorias antes de proceder.",
-  "projects.configure.form": "Por favor configure os projetos antes de proceder.",
+  "projects.configure.form": "Por favor configure os projetos antes de proceder ",
   "projects.crowdfunding.list": "Campanhas que ajudam este projeto",
   "projects.documents.add": "Efetue o upload de documentos importantes e permita que os mesmos estejam sempre disponíveis para consulta e download.",
   "projects.list": "Projetos",
