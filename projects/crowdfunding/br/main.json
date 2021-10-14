@@ -11,5 +11,7 @@
   "crowdfunding.donateModal.title": "Confirme a doação de {currency}{value}",
   "crowdfunding.error.paymentMethod": "Escolha o método de pagamento",
   "crowdfunding.please.wait": "Por favor, aguarde",
-  "crowdfunding.message": "Mensagem"
+  "crowdfunding.message": "Mensagem",
+  "crowdfunding.donate.success": "A sua doação foi realizada com sucesso",
+  "crowdfunding.donate.error": "Ocorreu um erro ao realizar a sua doação. Por favor, tente novamente."
 }
