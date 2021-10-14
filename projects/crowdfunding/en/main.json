@@ -1,5 +1,15 @@
 {
   "crowdfunding.donate": "Donate",
   "crowdfunding.seeAllCampaigns": "See all campaigns",
-  "crowdfunding.exploreMoreCampaigns": "Explore more campaigns"
+  "crowdfunding.exploreMoreCampaigns": "Explore more campaigns",
+  "crowdfunding.paymentMethod": "Payment method",
+  "crowdfunding.paymentMethod.givin": "Givin directly",
+  "crowdfunding.paymentMethod.iban": "Bank transfer",
+  "crowdfunding.paymentMethod.iban.info": "Please make a bank transfer to IBAN: {value}",
+  "crowdfunding.paymentMethod.sibs_cc": "Credit Card",
+  "crowdfunding.paymentMethod.anonymous": "Make an anonymous donation.",
+  "crowdfunding.donateModal.title": "Confirm donation of {currency}{value}",
+  "crowdfunding.error.paymentMethod": "You should select payment method",
+  "crowdfunding.please.wait": "Please wait",
+  "crowdfunding.message": "Leave a message"
 }

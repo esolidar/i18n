@@ -1,5 +1,15 @@
 {
   "crowdfunding.donate": "Doar",
   "crowdfunding.seeAllCampaigns": "Ver todas as campanhas",
-  "crowdfunding.exploreMoreCampaigns": "Explorar mais campanhas"
+  "crowdfunding.exploreMoreCampaigns": "Explorar mais campanhas",
+  "crowdfunding.paymentMethod": "Payment method",
+  "crowdfunding.paymentMethod.givin": "Em mão",
+  "crowdfunding.paymentMethod.iban": "Transferência bancária",
+  "crowdfunding.paymentMethod.iban.info": "Por favor faça a transferência bancária para o IBAN: {value}",
+  "crowdfunding.paymentMethod.sibs_cc": "Cartão de Crédito",
+  "crowdfunding.paymentMethod.anonymous": "Contribuir anonimamente",
+  "crowdfunding.donateModal.title": "Confirme o donativo de {currency}{value}",
+  "crowdfunding.error.paymentMethod": "Escolha o método de pagamento",
+  "crowdfunding.please.wait": "Por favor, aguarde",
+  "crowdfunding.message": "Mensagem"
 }
