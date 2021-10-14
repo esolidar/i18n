@@ -2,7 +2,7 @@
   "crowdfunding.donate": "Doar",
   "crowdfunding.seeAllCampaigns": "Ver todas as campanhas",
   "crowdfunding.exploreMoreCampaigns": "Explorar mais campanhas",
-  "crowdfunding.paymentMethod": "Payment method",
+  "crowdfunding.paymentMethod": "Método de pagamento",
   "crowdfunding.paymentMethod.givin": "Em mão",
   "crowdfunding.paymentMethod.iban": "Transferência bancária",
   "crowdfunding.paymentMethod.iban.info": "Por favor faça a transferência bancária para o IBAN: {value}",
