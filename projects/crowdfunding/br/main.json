@@ -8,7 +8,7 @@
   "crowdfunding.paymentMethod.iban.info": "Por favor faça a transferência bancária para o IBAN: {value}",
   "crowdfunding.paymentMethod.sibs_cc": "Cartão de Crédito",
   "crowdfunding.paymentMethod.anonymous": "Fazer contribuição como anônimo",
-  "crowdfunding.donateModal.title": "Confirme a doação de {currency}{value}",
+  "crowdfunding.donateModal.title": "Confirme a doação de {value}",
   "crowdfunding.error.paymentMethod": "Escolha o método de pagamento",
   "crowdfunding.please.wait": "Por favor, aguarde",
   "crowdfunding.message": "Mensagem",
