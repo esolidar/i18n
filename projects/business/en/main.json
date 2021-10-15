@@ -1193,5 +1193,6 @@
   "large.community": "Large community",
   "select-all": "Select all",
   "selected-count": "{emailsToImport} of {importedUsers} selected",
-  "business.here": "here"
+  "business.here": "here",
+  "documents.header.add.department": "Add document"
 }
