@@ -386,5 +386,10 @@
   "toolkit.view.comments": "View more comments",
   "toolkit.delete.comment.body": "Are you sure you want to delete this comment?",
   "toolkit.comment.write": "Write a comment...",
-  "toolkit.auctions.modal.success.newBid": "You successfully bid!"
+  "toolkit.auctions.modal.success.newBid": "You successfully bid!",
+  "user.setUpPasswordModal.title": "You need to configure a password",
+  "user.setUpPasswordModal.text.1": "We noted that you only use Facebook to access your account, and as such have no password configured.",
+  "user.setUpPasswordModal.text.2": "The esolidar team is working hard to make our platform a safer place, and from now on, passwords will be mandatory for all accounts.",
+  "user.setUpPasswordModal.text.3": "Please configure a password.",
+  "user.setUpPasswordModal.button": "Configure password"
 }

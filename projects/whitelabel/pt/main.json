@@ -476,10 +476,5 @@
   "welcomeBack": "Boas-vindas",
   "year": "Ano",
   "whitelabel.auctions.subtitle": "Apoie as organizações sociais ou as iniciativas da {value} licitando em leilões únicos, incluindo itens assinados por celebridades, experiências exclusivas e muito mais.",
-  "whitelabel.select.department": "Selecione a sua equipa",
-  "user.setUpPasswordModal.title": "Necessita criar uma palavra-passe",
-  "user.setUpPasswordModal.text.1": "Reparamos que usa apenas o login do Facebook para entrar na sua conta e que, por isso, não possui uma palavra-passe configurada.",
-  "user.setUpPasswordModal.text.2": "A equipa da esolidar está a trabalhar arduamente para tornar a plataforma num lugar mais seguro, e a partir de agora, as palavras-passes serão obrigatórias para todas as contas.",
-  "user.setUpPasswordModal.text.3": "Por favor, configure uma palavra-passe.",
-  "user.setUpPasswordModal.button": "Configurar palavra-passe"
+  "whitelabel.select.department": "Selecione a sua equipa"
 }
