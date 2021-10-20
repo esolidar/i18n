@@ -398,5 +398,14 @@
   "user.createPassword.confirm.new.password": "Confirmar nova palavra-passe",
   "user.recoverPassword.title": "Criar uma nova palavra-passea",
   "user.recoverPassword.subtitle": "Por favor, utilize uma palavra-passe diferente da anterior. É uma forma de manter a sua conta mais segura.",
-  "user.recoverPassword.update": "Atualizar palavra-passe"
+  "user.recoverPassword.update": "Atualizar palavra-passe",
+
+  "user.setPassword.set.subtitle1": "Não se preocupe, nós estamos aqui para o ajudar!",
+  "user.setPassword.set.subtitle2": "Introduza o email que usou ao registar a sua conta com Facebook, e enviaremos instruções para configurar a sua palavra-passe.",
+  "user.setPassword.set.email": "Email",
+  "user.setPassword.set.send": "Enviar instruções",
+
+  "user.setPassword.reset.title": "Redefinir palavra-passe",
+  "user.setPassword.reset.subtitle1": "Não se preocupe, acontece a todos.",
+  "user.setPassword.reset.subtitle2": "Insira o email que usou quando se registou para receber instruções e redefinir a sua palavra-passe."
 }
