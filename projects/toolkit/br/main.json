@@ -395,5 +395,8 @@
   "user.createPassword.title": "Criar sua senha",
   "user.createPassword.subtitle": "Crie uma senha para sua conta em {company}",
   "user.createPassword.new.password": "Nova senha",
-  "user.createPassword.confirm.new.password": "Confirmar nova senha"
+  "user.createPassword.confirm.new.password": "Confirmar nova senha",
+  "user.recoverPassword.title": "Criar uma nova senha",
+  "user.recoverPassword.subtitle": "Por favor, utilize uma senha diferente da anterior. Assim, conseguimos manter sua conta mais segura. ",
+  "user.recoverPassword.update": "Atualizar senha"
 }

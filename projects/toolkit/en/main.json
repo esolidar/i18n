@@ -395,5 +395,8 @@
   "user.createPassword.title": "Create your password",
   "user.createPassword.subtitle": "Create a password for your {company} account",
   "user.createPassword.new.password": "New password",
-  "user.createPassword.confirm.new.password": "Confirm new password"
+  "user.createPassword.confirm.new.password": "Confirm new password",
+  "user.recoverPassword.title": "Create new password",
+  "user.recoverPassword.subtitle": "Please use a different password than your previous one. This helps to keep your account more secure.",
+  "user.recoverPassword.update": "Update password"
 }

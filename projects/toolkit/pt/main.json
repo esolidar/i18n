@@ -395,5 +395,8 @@
   "user.createPassword.title": "Criar a sua palavra-passe",
   "user.createPassword.subtitle": "Crie uma palavra-passe para a sua conta {company}",
   "user.createPassword.new.password": "Nova palavra-passe",
-  "user.createPassword.confirm.new.password": "Confirmar nova palavra-passe"
+  "user.createPassword.confirm.new.password": "Confirmar nova palavra-passe",
+  "user.recoverPassword.title": "Criar uma nova palavra-passea",
+  "user.recoverPassword.subtitle": "Por favor, utilize uma palavra-passe diferente da anterior. É uma forma de manter a sua conta mais segura.",
+  "user.recoverPassword.update": "Atualizar palavra-passe"
 }
