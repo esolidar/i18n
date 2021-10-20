@@ -391,5 +391,9 @@
   "user.setUpPasswordModal.text.1": "We noted that you only use Facebook to access your account, and as such have no password configured.",
   "user.setUpPasswordModal.text.2": "The esolidar team is working hard to make our platform a safer place, and from now on, passwords will be mandatory for all accounts.",
   "user.setUpPasswordModal.text.3": "Please configure a password.",
-  "user.setUpPasswordModal.button": "Configure password"
+  "user.setUpPasswordModal.button": "Configure password",
+  "user.createPassword.title": "Create your password",
+  "user.createPassword.subtitle": "Create a password for your {company} account",
+  "user.createPassword.new.password": "New password",
+  "user.createPassword.confirm.new.password": "Confirm new password"
 }

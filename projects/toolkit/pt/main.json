@@ -391,5 +391,9 @@
   "user.setUpPasswordModal.text.1": "Reparamos que usa apenas o login do Facebook para entrar na sua conta e que, por isso, não possui uma palavra-passe configurada.",
   "user.setUpPasswordModal.text.2": "A equipa da esolidar está a trabalhar arduamente para tornar a plataforma num lugar mais seguro, e a partir de agora, as palavras-passes serão obrigatórias para todas as contas.",
   "user.setUpPasswordModal.text.3": "Por favor, configure uma palavra-passe.",
-  "user.setUpPasswordModal.button": "Configurar palavra-passe"
+  "user.setUpPasswordModal.button": "Configurar palavra-passe",
+  "user.createPassword.title": "Criar a sua palavra-passe",
+  "user.createPassword.subtitle": "Crie uma palavra-passe para a sua conta {company}",
+  "user.createPassword.new.password": "Nova palavra-passe",
+  "user.createPassword.confirm.new.password": "Confirmar nova palavra-passe"
 }

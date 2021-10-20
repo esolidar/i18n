@@ -391,5 +391,9 @@
   "user.setUpPasswordModal.text.1": "Notamos que você usa apenas o Facebook para acessar sua conta e que, por isso, não possui uma senha configurada.",
   "user.setUpPasswordModal.text.2": "A equipe da esolidar está trabalhando arduamente para tornar a plataforma um lugar mais seguro, e a partir de agora, as senhas serão obrigatórias para todas as contas.",
   "user.setUpPasswordModal.text.3": "Por favor, configure sua senha.",
-  "user.setUpPasswordModal.button": "Configurar senha"
+  "user.setUpPasswordModal.button": "Configurar senha",
+  "user.createPassword.title": "Criar sua senha",
+  "user.createPassword.subtitle": "Crie uma senha para sua conta em {company}",
+  "user.createPassword.new.password": "Nova senha",
+  "user.createPassword.confirm.new.password": "Confirmar nova senha"
 }
