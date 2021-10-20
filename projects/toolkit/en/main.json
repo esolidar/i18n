@@ -407,5 +407,8 @@
 
   "user.setPassword.reset.title": "Reset password",
   "user.setPassword.reset.subtitle1": "Don’t worry, it happens to everyone.",
-  "user.setPassword.reset.subtitle2": "Enter the email address you used when registering and we’ll send instructions to reset your password."
+  "user.setPassword.reset.subtitle2": "Enter the email address you used when registering and we’ll send instructions to reset your password.",
+
+  "user.register.error.Min_6": "Password should have 6 characters or more",
+  "user.register.error.password.match": "Passwords must match"
 }

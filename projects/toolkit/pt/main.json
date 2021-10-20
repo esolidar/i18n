@@ -407,5 +407,8 @@
 
   "user.setPassword.reset.title": "Redefinir palavra-passe",
   "user.setPassword.reset.subtitle1": "Não se preocupe, acontece a todos.",
-  "user.setPassword.reset.subtitle2": "Insira o email que usou quando se registou para receber instruções e redefinir a sua palavra-passe."
+  "user.setPassword.reset.subtitle2": "Insira o email que usou quando se registou para receber instruções e redefinir a sua palavra-passe.",
+
+  "user.register.error.Min_6": "A palavra-passe deve ter no minimo 6 caracteres",
+  "user.register.error.password.match": "As palavras-passes devem corresponder"
 }

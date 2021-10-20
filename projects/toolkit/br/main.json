@@ -407,5 +407,8 @@
 
   "user.setPassword.reset.title": "Redefinir senha",
   "user.setPassword.reset.subtitle1": "Não se preocupe, isso acontece!",
-  "user.setPassword.reset.subtitle2": "Insira o endereço de email que você usou para se cadastrar e enviaremos as instruções para redefinir sua senha."
+  "user.setPassword.reset.subtitle2": "Insira o endereço de email que você usou para se cadastrar e enviaremos as instruções para redefinir sua senha.",
+
+  "user.register.error.Min_6": "A senha deve ter no minimo 6 caracteres",
+  "user.register.error.password.match": "As senhas não coincidem"
 }
