@@ -1194,5 +1194,9 @@
   "select-all": "Select all",
   "selected-count": "{emailsToImport} of {importedUsers} selected",
   "business.here": "here",
-  "documents.header.add.department": "Add document"
+  "documents.header.add.department": "Add document",
+  "business.account.settings": "Account settings",
+  "business.company.information": "Company information",
+  "business.profile.icon": "Profile icon",
+  "business.contact.information": "Contact information"
 }
