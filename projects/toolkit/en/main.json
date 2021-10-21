@@ -410,5 +410,11 @@
   "user.setPassword.reset.subtitle2": "Enter the email address you used when registering and we’ll send instructions to reset your password.",
 
   "user.register.error.Min_6": "Password should have 6 characters or more",
-  "user.register.error.password.match": "Passwords must match"
+  "user.register.error.password.match": "Passwords must match",
+
+  "user.checkEmail.title": "Check your mailbox",
+  "user.checkEmail.subtitle1": "We sent an email to {email}.",
+  "user.checkEmail.subtitle2": "Open the email and follow the instructions to configure your password.",
+  "user.checkEmail.change.email": "Change the email address",
+  "user.checkEmail.resend": "Did not receive the email?"
 }
