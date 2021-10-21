@@ -677,6 +677,7 @@
   "menu.survey": "Pesquisas",
   "menu.dashboard": "Painel",
   "menu.user.settings.authentication": "Autenticação",
+  "menu.user.settings.preferences": "Preferências",
   "menu.user.settings.notifications": "Notificações",
   "menu.user.settings.personal.settings": "Dados Pessoais",
   "message.noemployees": "Selecione pelo menos 1 funcionário",

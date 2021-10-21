@@ -679,6 +679,7 @@
   "menu.survey": "Surveys",
   "menu.dashboard": "Dashboard",
   "menu.user.settings.authentication": "Authentication",
+  "menu.user.settings.preferences": "Preferences",
   "menu.user.settings.notifications": "Notifications",
   "menu.user.settings.personal.settings": "Personal settings",
   "message.noemployees": "Select at least one employee.",
