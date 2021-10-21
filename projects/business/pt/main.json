@@ -196,7 +196,6 @@
   "company_id": "Número de identificação da empresa",
   "completed": "Finalizado",
   "confirm": "Confirmar",
-  "confirm_password": "Confirmar palavra-passe",
   "contributionsPerChariry.list.noresults": "Não existem organizações sociais para mostrar",
   "contributionsPerChariry.list.title": "Contribuições por organização social",
   "copied": "Copiado",
@@ -1197,5 +1196,6 @@
   "business.account.settings": "Definições de conta",
   "business.company.information": "Informação da empresa",
   "business.profile.icon": "Ícone do perfil",
-  "business.contact.information": "Informação do contacto"
+  "business.contact.information": "Informação do contacto",
+  "business.privacy.security": "Privacidade e Segurança"
 }

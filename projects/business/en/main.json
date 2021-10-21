@@ -195,7 +195,6 @@
   "company_id": "Company ID",
   "completed": "Completed",
   "confirm": "Confirm",
-  "confirm_password": "Confirm password",
   "contributionsPerChariry.list.noresults": "No nonprofits were found.",
   "contributionsPerChariry.list.title": "Contributions per nonprofit",
   "copied": "Copied",
@@ -720,7 +719,7 @@
   "page.not.found": "Page was not found.",
   "paragraph": "Paragraph",
   "password": "Password",
-  "password_confirmation": "Repeat your password",
+  "password_confirmation": "Confirm password",
   "payed": "Payed",
   "payment.agree.error": "You must accept esolidar's Privacy Policy and Terms and Conditions.",
   "payment.cardNumberInvalidLabel": "The card value is not valid.",
@@ -1198,5 +1197,6 @@
   "business.account.settings": "Account settings",
   "business.company.information": "Company information",
   "business.profile.icon": "Profile icon",
-  "business.contact.information": "Contact information"
+  "business.contact.information": "Contact information",
+  "business.privacy.security": "Privacy & Security"
 }
