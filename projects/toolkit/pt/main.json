@@ -399,22 +399,24 @@
   "user.recoverPassword.title": "Criar uma nova palavra-passea",
   "user.recoverPassword.subtitle": "Por favor, utilize uma palavra-passe diferente da anterior. É uma forma de manter a sua conta mais segura.",
   "user.recoverPassword.update": "Atualizar palavra-passe",
-
   "user.setPassword.set.subtitle1": "Não se preocupe, nós estamos aqui para o ajudar!",
   "user.setPassword.set.subtitle2": "Introduza o email que usou ao registar a sua conta com Facebook, e enviaremos instruções para configurar a sua palavra-passe.",
   "user.setPassword.set.email": "Email",
   "user.setPassword.set.send": "Enviar instruções",
-
   "user.setPassword.reset.title": "Redefinir palavra-passe",
   "user.setPassword.reset.subtitle1": "Não se preocupe, acontece a todos.",
   "user.setPassword.reset.subtitle2": "Insira o email que usou quando se registou para receber instruções e redefinir a sua palavra-passe.",
-
   "user.register.error.Min_6": "A palavra-passe deve ter no minimo 6 caracteres",
   "user.register.error.password.match": "As palavras-passes devem corresponder",
-
   "user.checkEmail.title": "Verifique o seu email",
   "user.checkEmail.subtitle1": "Enviamos um email para {email}.",
   "user.checkEmail.subtitle2": "Abra o email e siga as instruções para redefinir a sua palavra-passe.",
   "user.checkEmail.change.email": "Alterar endereço de email",
-  "user.checkEmail.resend": "Não recebeu o email?"
+  "user.checkEmail.resend": "Não recebeu o email?",
+  "user.didNotReceiveEmailModal.text.1": "Espere um pouco - o email demora um pouco para chegar, então seja paciente 😉",
+  "user.didNotReceiveEmailModal.text.2": "Verifique as pastas da sua caixa de correio, como spam e lixo electrónico.",
+  "user.didNotReceiveEmailModal.text.3": "Verifique se introduziu o endereço de email correcto. Caso contrário, peça para alterar {a}",
+  "user.didNotReceiveEmailModal.text.3.a": "endereço de email",
+  "user.didNotReceiveEmailModal.text.4": "Reenvie o email. Clique em {a} e peça para enviar novamente as instruções.",
+  "user.didNotReceiveEmailModal.footer": "Se nenhuma das soluções apresentada funcionou, entre em contacto com a nossa equipa de suporte por chat ou por email através de {email}."
 }

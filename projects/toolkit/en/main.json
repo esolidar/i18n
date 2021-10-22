@@ -399,22 +399,24 @@
   "user.recoverPassword.title": "Create new password",
   "user.recoverPassword.subtitle": "Please use a different password than your previous one. This helps to keep your account more secure.",
   "user.recoverPassword.update": "Update password",
-
   "user.setPassword.set.subtitle1": "Don't worry, we got you!",
   "user.setPassword.set.subtitle2": "Enter the email address you used when registering with your Facebook account, and we'll send instructions to configure your password.",
   "user.setPassword.set.email": "Email",
   "user.setPassword.set.send": "Send instructions",
-
   "user.setPassword.reset.title": "Reset password",
   "user.setPassword.reset.subtitle1": "Don’t worry, it happens to everyone.",
   "user.setPassword.reset.subtitle2": "Enter the email address you used when registering and we’ll send instructions to reset your password.",
-
   "user.register.error.Min_6": "Password should have 6 characters or more",
   "user.register.error.password.match": "Passwords must match",
-
   "user.checkEmail.title": "Check your mailbox",
   "user.checkEmail.subtitle1": "We sent an email to {email}.",
   "user.checkEmail.subtitle2": "Open the email and follow the instructions to configure your password.",
   "user.checkEmail.change.email": "Change the email address",
-  "user.checkEmail.resend": "Did not receive the email?"
+  "user.checkEmail.resend": "Did not receive the email?",
+  "user.didNotReceiveEmailModal.text.1": "Wait a little bit - the email takes some time to get there, so be patient 😉",
+  "user.didNotReceiveEmailModal.text.2": "Check your mailbox folders, such as spam and junk.",
+  "user.didNotReceiveEmailModal.text.3": "Make sure you’ve entered the correct email address. If not, ask to {a}",
+  "user.didNotReceiveEmailModal.text.3.a": "change the email address",
+  "user.didNotReceiveEmailModal.text.4": "Resend the email. Click on {a} and ask to send the instructions again.",
+  "user.didNotReceiveEmailModal.footer": "If none of those solutions worked, please get in touch with our support team directly through our chat or at {email}."
 }
