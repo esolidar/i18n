@@ -1201,5 +1201,6 @@
   "business.contact.information": "Contact information",
   "business.privacy.security": "Privacy & Security",
   "business.amount.raised": "Amount raised",
-  "business.bidders": "Bidders"
+  "business.bidders": "Bidders",
+  "business.updated.password.success": "Your password was successfully changed! Please login again."
 }

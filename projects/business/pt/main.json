@@ -1200,5 +1200,6 @@
   "business.contact.information": "Informação do contacto",
   "business.privacy.security": "Privacidade e Segurança",
   "business.amount.raised": "Valor arrecadado",
-  "business.bidders": "Licitantes"
+  "business.bidders": "Licitantes",
+  "business.updated.password.success": "A sua password foi alterada com sucesso! Deverá autenticar-se de novo."
 }
