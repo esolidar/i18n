@@ -417,6 +417,7 @@
   "user.didNotReceiveEmailModal.text.2": "Verifique as pastas da sua caixa de correio, como spam e lixo eletrônico.",
   "user.didNotReceiveEmailModal.text.3": "Verifique se você inseriu o endereço de email correto. Caso contrário, peça para alterar {a}",
   "user.didNotReceiveEmailModal.text.3.a": "endereço de email",
-  "user.didNotReceiveEmailModal.text.4": "Reenvie o email. Clique em {a} e peça para enviar novamente as instruções.",
+  "user.didNotReceiveEmailModal.text.4": "Reenvie o email. Clique em {a} e siga as instruções.",
+  "user.didNotReceiveEmailModal.text.4.a": "reenviar email",
   "user.didNotReceiveEmailModal.footer": "Se nenhuma dessas soluções funcionou, entre em contato com nossa equipe de suporte diretamente por meio de nosso chat ou em {email}."
 }
