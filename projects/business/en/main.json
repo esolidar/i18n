@@ -5,7 +5,7 @@
   "APPROVED_PLURAL": "Approved(s)",
   "ActiveUrl.error": "Please use a valid domain.",
   "After_start_date": "The end date must come after the start date.",
-  "Auctions.Stats.compared": "growth last quarter",
+  "Auctions.Stats.compared": "growth from last quarter",
   "Auctions.Stats.people": "people",
   "Auctions.add": "Add auction",
   "Auctions.addAuction": "New auction",
@@ -1199,5 +1199,7 @@
   "business.company.information": "Company information",
   "business.profile.icon": "Profile icon",
   "business.contact.information": "Contact information",
-  "business.privacy.security": "Privacy & Security"
+  "business.privacy.security": "Privacy & Security",
+  "business.amount.raised": "Amount raised",
+  "business.bidders": "Bidders"
 }

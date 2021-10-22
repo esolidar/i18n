@@ -1198,5 +1198,7 @@
   "business.company.information": "Informação da empresa",
   "business.profile.icon": "Ícone do perfil",
   "business.contact.information": "Informação do contacto",
-  "business.privacy.security": "Privacidade e Segurança"
+  "business.privacy.security": "Privacidade e Segurança",
+  "business.amount.raised": "Valor arrecadado",
+  "business.bidders": "Licitantes"
 }
