@@ -927,5 +927,9 @@
   "work_email": "Email profissional",
   "year": "Ano",
   "yes": "Sim",
-  "yyyy": "aaaa"
+  "yyyy": "aaaa",
+  "esolidar.setPassword.success.title": "Configurou a palavra-passe com sucesso!",
+  "esolidar.setPassword.success.subtitle": "Bom trabalho! A sua palavra-passe foi criada e funciona perfeitamente.",
+  "esolidar.changePassword.success.title": "Palavra-passe atualizada",
+  "esolidar.changePassword.success.subtitle": "Já pode usar a sua nova palavra-passe quando iniciar uma nova sessão."
 }
