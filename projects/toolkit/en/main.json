@@ -419,5 +419,9 @@
   "user.didNotReceiveEmailModal.text.3.a": "change the email address",
   "user.didNotReceiveEmailModal.text.4": "Resend the email. Click on {a} and follow the instructions.",
   "user.didNotReceiveEmailModal.text.4.a": "resend email",
-  "user.didNotReceiveEmailModal.footer": "If none of those solutions worked, please get in touch with our support team directly through our chat or at {email}."
+  "user.didNotReceiveEmailModal.footer": "If none of those solutions worked, please get in touch with our support team directly through our chat or at {email}.",
+  "user.codeExpiredModal.title": "Configuration email expired",
+  "user.codeExpiredModal.text.1": "We're sorry, but your configuration email has expired.",
+  "user.codeExpiredModal.text.2": "For safety reasons, the email is valid only for 30 minutes.",
+  "user.codeExpiredModal.button": "Please resend the email."
 }

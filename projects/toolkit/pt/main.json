@@ -419,5 +419,9 @@
   "user.didNotReceiveEmailModal.text.3.a": "endereço de email",
   "user.didNotReceiveEmailModal.text.4": "Reenvie o email. Clique em {a} e siga as instruções.",
   "user.didNotReceiveEmailModal.text.4.a": "reenviar email",
-  "user.didNotReceiveEmailModal.footer": "Se nenhuma das soluções apresentada funcionou, entre em contacto com a nossa equipa de suporte por chat ou por email através de {email}."
+  "user.didNotReceiveEmailModal.footer": "Se nenhuma das soluções apresentada funcionou, entre em contacto com a nossa equipa de suporte por chat ou por email através de {email}.",
+  "user.codeExpiredModal.title": "Email de configuração expirado",
+  "user.codeExpiredModal.text.1": "Lamentamos, mas o email de configuração expirou.",
+  "user.codeExpiredModal.text.2": "Por razões de segurança, o email é válido apenas por 30 minutos.",
+  "user.codeExpiredModal.button": "Por favor, reenvie o email."
 }
