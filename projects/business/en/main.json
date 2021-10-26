@@ -1208,5 +1208,7 @@
   "business.newsletter.settings": "Receive news and updates by email on instances you follow, such as nonprofits, auctions, ...",
   "business.notifications.settings": "Receive email for your activity, such as volunteering initiatives, submited projects, ...",
   "business.unsaved.modal.title": "Unsaved changes",
-  "business.unsaved.modal.body": "By leaving without saving, you'll permanently lose the changes you made."
+  "business.unsaved.modal.body": "By leaving without saving, you'll permanently lose the changes you made.",
+  "business.auction.last.active": "Last active",
+  "business.auction.list.description": "Create social impact by selling items that often leverage your institutional relationships with celebrities and influencers"
 }
