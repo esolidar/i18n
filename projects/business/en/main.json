@@ -1206,5 +1206,7 @@
   "business.emails.preferences": "Emails Preferences",
   "business.regional.settings": "Regional settings",
   "business.newsletter.settings": "Receive news and updates by email on instances you follow, such as nonprofits, auctions, ...",
-  "business.notifications.settings": "Receive email for your activity, such as volunteering initiatives, submited projects, ..."
+  "business.notifications.settings": "Receive email for your activity, such as volunteering initiatives, submited projects, ...",
+  "business.unsaved.modal.title": "Unsaved changes",
+  "business.unsaved.modal.body": "By leaving without saving, you'll permanently lose the changes you made."
 }
