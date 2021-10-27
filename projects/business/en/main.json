@@ -1211,5 +1211,6 @@
   "business.unsaved.modal.body": "By leaving without saving, you'll permanently lose the changes you made.",
   "business.auction.last.active": "Last active",
   "business.auction.list.description": "Create social impact by selling items that often leverage your institutional relationships with celebrities and influencers",
-  "business.unsaved.modal.discard": "Discard"
+  "business.unsaved.modal.discard": "Discard",
+  "user.register.error.password.length": "Password should have 6 characters or more"
 }

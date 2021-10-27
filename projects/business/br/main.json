@@ -1210,5 +1210,6 @@
   "business.unsaved.modal.body": "Ao sair sem salvar, você perderá permanentemente suas alterações.",
   "business.auction.last.active": "Ativo pela última vez",
   "business.auction.list.description": "Crie impacto social vendendo itens que podem alavancar suas relações institucionais com celebridades e influenciadores",
-  "business.unsaved.modal.discard": "Descartar"
+  "business.unsaved.modal.discard": "Descartar",
+  "user.register.error.password.length": "A senha deve conter 6 caratéres ou mais"
 }
