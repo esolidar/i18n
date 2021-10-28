@@ -1219,5 +1219,6 @@
   "business.current.bid": "Lance atual",
   "business.user": "Usuário",
   "business.phone": "Tel.: ",
-  "business.at": "às"
+  "business.at": "às",
+  "business.validation.numbers": "Por favor use apenas números."
 }

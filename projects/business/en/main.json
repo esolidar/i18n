@@ -1220,5 +1220,6 @@
   "business.current.bid": "Current bid",
   "business.user": "User",
   "business.phone": "Tel. ",
-  "business.at": "at"
+  "business.at": "at",
+  "business.validation.numbers": "Please use only numeric characters."
 }
