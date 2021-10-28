@@ -1221,5 +1221,6 @@
   "business.user": "User",
   "business.phone": "Tel. ",
   "business.at": "at",
-  "business.validation.numbers": "Please use only numeric characters."
+  "business.validation.numbers": "Please use only numeric characters.",
+  "business.billing.information": "Billing Information"
 }

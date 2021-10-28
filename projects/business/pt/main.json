@@ -1220,5 +1220,6 @@
   "business.user": "Utilizador",
   "business.phone": "Tel. ",
   "business.at": "às",
-  "business.validation.numbers": "Por favor use apenas números."
+  "business.validation.numbers": "Por favor use apenas números.",
+  "business.billing.information": "Informações de pagamento"
 }
