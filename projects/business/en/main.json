@@ -457,7 +457,6 @@
   "giftcardName": "Voucher name",
   "giftcards.detail.modal.table.charity-name": "Nonprofit name",
   "giftcards.detail.modal.table.spent": "Spent",
-  "giftcards.detail.modal.table.user": "User",
   "giftcards.detail.modal.title": "<b>{value}</b>{br}Here you can see the complete listing of the employees who used the voucher and which nonprofit each one supported.",
   "giftcards.list.created": "Created at",
   "giftcards.list.expires": "Expires at",
@@ -1212,5 +1211,14 @@
   "business.auction.last.active": "Last active",
   "business.auction.list.description": "Create social impact by selling items that often leverage your institutional relationships with celebrities and influencers",
   "business.unsaved.modal.discard": "Discard",
-  "user.register.error.password.length": "Password should have 6 characters or more"
+  "user.register.error.password.length": "Password should have 6 characters or more",
+  "business.see.more": "See more",
+  "business.see.less": "See less",
+  "business.bid": "Bid",
+  "business.total.bids": "Bids ({value})",
+  "business.winning.bid": "Winning bid",
+  "business.current.bid": "Current bid",
+  "business.user": "User",
+  "business.phone": "Tel. ",
+  "business.at": "at"
 }

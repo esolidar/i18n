@@ -456,7 +456,6 @@
   "giftcardName": "Nome do voucher",
   "giftcards.detail.modal.table.charity-name": "Nome da organização social",
   "giftcards.detail.modal.table.spent": "Gasto",
-  "giftcards.detail.modal.table.user": "Utilizador",
   "giftcards.detail.modal.title": "<b>{value}</b>{br}Aqui pode ver a listagem completa dos utilizadores que utilizaram o voucher e qual a organização social apoiada.",
   "giftcards.list.created": "Criado em",
   "giftcards.list.expires": "Expira em",
@@ -1211,5 +1210,14 @@
   "business.auction.last.active": "Ativo pela última vez",
   "business.auction.list.description": "Crie impacto social através da venda de itens que alavancam as suas relações institucionais com celebridades ou influencers",
   "business.unsaved.modal.discard": "Descartar",
-  "user.register.error.password.length": "A palavra-passe deve conter 6 caratéres ou mais"
+  "user.register.error.password.length": "A palavra-passe deve conter 6 caratéres ou mais",
+  "business.see.more": "Ver mais",
+  "business.see.less": "ver menos",
+  "business.bid": "Licitação",
+  "business.total.bids": "Licitações ({value})",
+  "business.winning.bid": "Licitação vendedora",
+  "business.current.bid": "Licitação atual",
+  "business.user": "Utilizador",
+  "business.phone": "Tel. ",
+  "business.at": "às"
 }
