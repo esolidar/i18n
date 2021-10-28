@@ -764,7 +764,7 @@
   "person_name": "Nome do promotor",
   "phone": "Telemóvel",
   "phoneError": "O telefone deverá ser um número telemóvel valido. Verifique o número indicativo",
-  "phoneFormat": "+351 912 345 678",
+  "phoneFormat": "351 912 345 678",
   "place": "Introduza a localização",
   "please.wait": "Por favor, aguarde...",
   "policy.paragraph1": "A presente Política de Privacidade respeita à plataforma online esolidar, ferramenta propriedade da Webankor, SA. e gerida por esta empresa.",

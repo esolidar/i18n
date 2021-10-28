@@ -765,7 +765,7 @@
   "person_name": "Person name",
   "phone": "Phone",
   "phoneError": "The phone must be a valid phone number. Verify the indicative number",
-  "phoneFormat": "+44 07400 123456",
+  "phoneFormat": "44 07400 123456",
   "place": "Write a place",
   "please.wait": "Please wait",
   "policy.paragraph1": "This Privacy Policy regards the online platform esolidar owned by WebankorSA. and managed by this company.",
