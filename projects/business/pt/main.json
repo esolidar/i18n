@@ -378,7 +378,7 @@
   "feed.options.share-with": "Partilhar em:",
   "feed.other-companies": "Outras empresas",
   "feed.post.comment.new": "Partilha ideias, sugestões ou iniciativas com a tua empresa aqui...",
-  "feed.post.comments": "{value, number} {value, plural, one {comentário} other {comentários}}",
+  "feed.post.comments": "{value, number} {value, plural, one {Comentário} other {Comentários}}",
   "feed.post.create.as-company": "Como empresa",
   "feed.post.readmore": "Ler mais",
   "feed.seemore.comments": "Ver mais comentários",

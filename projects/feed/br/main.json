@@ -5,7 +5,7 @@
   "feed.post.comment": "Responder",
   "feed.post.gallery.view.more": "+ {value}",
   "feed.post.share": "Partilhar post",
-  "feed.post.comments.count": "{value, number} {value, plural, one {comentário} other {comentários}}",
+  "feed.post.comments.count": "{value, number} {value, plural, one {Comentário} other {Comentários}}",
   "feed.post.view.replies": "Ver {value, number} {value, plural, one {resposta} other {respostas}}",
   "feed.delete.comment": "Eliminar comentário",
   "feed.delete.comment.body": "Tem certeza que deseja deletar este comentário?",

@@ -183,7 +183,7 @@
   "feed.options.copy-link-post.success": "O link foi copiado com sucesso",
   "feed.options.share-post": "Partilhar post",
   "feed.options.share-with": "Partilhar em:",
-  "feed.post.comments": "{value, plural, one {comentário} other {comentários}}",
+  "feed.post.comments": "{value, plural, one {Comentário} other {Comentários}}",
   "feed.post.loves": "{value, plural, one {Like} other {Likes}}",
   "feed.post.mobile.back": "Voltar ao mural",
   "feed.seemore.comments": "Ver mais comentários",

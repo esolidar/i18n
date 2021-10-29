@@ -300,7 +300,7 @@
   "feed.options.edit-post": "Editar post",
   "feed.options.edit-response": "Editar resposta",
   "feed.post.comment.new": "Compartilhe ideias, sugestões ou iniciativas com a sua empresa aqui...",
-  "feed.post.comments": "{value, number} {value, plural, one {comentário} other {comentários}}",
+  "feed.post.comments": "{value, number} {value, plural, one {Comentário} other {Comentários}}",
   "feed.post.create.as-company": "Como empresa",
   "feed.post.create.new": "Publicar",
   "feed.post.create.public": "Público",
