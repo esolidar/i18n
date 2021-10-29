@@ -423,5 +423,7 @@
   "user.codeExpiredModal.title": "Email de configuração expirado",
   "user.codeExpiredModal.text.1": "Lamentamos, mas seu email de configuração expirou.",
   "user.codeExpiredModal.text.2": "Por razões de segurança, o email é válido apenas por 30 minutos.",
-  "user.codeExpiredModal.button": "Por favor, reenvie o email."
+  "user.codeExpiredModal.button": "Por favor, reenvie o email.",
+  "toolkit.prev": "Ant",
+  "toolkit.next": "Próx"
 }

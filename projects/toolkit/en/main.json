@@ -423,5 +423,7 @@
   "user.codeExpiredModal.title": "Configuration email expired",
   "user.codeExpiredModal.text.1": "We're sorry, but your configuration email has expired.",
   "user.codeExpiredModal.text.2": "For safety reasons, the email is valid only for 30 minutes.",
-  "user.codeExpiredModal.button": "Please resend the email."
+  "user.codeExpiredModal.button": "Please resend the email.",
+  "toolkit.prev": "Prev",
+  "toolkit.next": "Next"
 }
