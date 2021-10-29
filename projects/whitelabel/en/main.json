@@ -184,7 +184,7 @@
   "feed.options.share-post": "Share post",
   "feed.options.share-with": "Share with ...",
   "feed.post.comments": "{value, plural, one {comment} other {comments} many {comments}}",
-  "feed.post.loves": "{value, plural, one {love} other {loves}}",
+  "feed.post.loves": "{value, plural, one {like} other {likes}}",
   "feed.post.mobile.back": "Back to feed",
   "feed.seemore.comments": "See more comments",
   "feed.seemore.responses": "See {value} replies",

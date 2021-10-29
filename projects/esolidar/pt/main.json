@@ -309,7 +309,7 @@
   "feed.seemore.comments": "Ver mais comentários",
   "feed.seemore.responses": "Ver {value} respostas",
   "feed.socket.new.posts": "{value} novos posts",
-  "feedpost.loves": "{value, number} {value, plural, one {love} other {loves}}",
+  "feedpost.loves": "{value, number} {value, plural, one {like} other {likes}}",
   "firstName": "Primeiro Nome",
   "footer.copyright": "Esolidar. Todos os direitos reservados.",
   "footer.menu.blog": "Blog",

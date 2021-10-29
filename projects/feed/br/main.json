@@ -1,5 +1,5 @@
 {
-  "feed.post.loves.count": "{value, number} {value, plural, one {love} other {loves}}",
+  "feed.post.loves.count": "{value, number} {value, plural, one {like} other {likes}}",
   "feed.create.new.post.comment": "Deixe um comentário",
   "feed.create.new.post.reply": "Deixe uma resposta",
   "feed.post.comment": "Responder",

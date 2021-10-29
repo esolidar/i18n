@@ -385,7 +385,7 @@
   "feed.seemore.comments": "See more comments",
   "feed.seemore.responses": "See {value} replies",
   "feed.socket.new.posts": "{value} new posts",
-  "feedpost.loves": "{value, number} {value, plural, one {love} other {loves}}",
+  "feedpost.loves": "{value, number} {value, plural, one {like} other {likes}}",
   "field.mandatory.question": "Is this a mandatory question?",
   "field.not.editable": "This field is not editable!",
   "field.private": "Is this field private?",

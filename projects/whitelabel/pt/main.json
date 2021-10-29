@@ -184,7 +184,7 @@
   "feed.options.share-post": "Partilhar post",
   "feed.options.share-with": "Partilhar em:",
   "feed.post.comments": "{value, plural, one {comentário} other {comentários}}",
-  "feed.post.loves": "{value, plural, one {love} other {loves}}",
+  "feed.post.loves": "{value, plural, one {like} other {likes}}",
   "feed.post.mobile.back": "Voltar ao mural",
   "feed.seemore.comments": "Ver mais comentários",
   "feed.seemore.responses": "Ver {value} respostas",
