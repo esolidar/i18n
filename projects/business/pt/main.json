@@ -373,7 +373,7 @@
   "feed.my-company": "A minha empresa",
   "feed.new.like": "Novo 'gosto' na publicação",
   "feed.options.copy-link-post.success": "O link foi copiado com sucesso!",
-  "feed.options.highlight-post": "Marcar no topo da página",
+  "feed.options.highlight-post": "Destacar",
   "feed.options.remove.highlight-post": "Desmarcar do topo da página",
   "feed.options.share-with": "Partilhar em:",
   "feed.other-companies": "Outras empresas",
@@ -460,7 +460,7 @@
   "giftcards.list.total-spent": "Total gasto %",
   "giftcards.number.charities": "Número de organizações sociais",
   "giftcards.seedetails": "Detalhes",
-  "giftcards.total.issued": "Total gerado em vouchers",
+  "giftcards.total.issued": "Total emitido",
   "given_directly_info": "Descreva",
   "google_analytics": "Google analytics",
   "h3": "Subtítulo",
@@ -948,7 +948,7 @@
   "secondaryColor": "Cor rodapé",
   "see-details": "Ver detalhes",
   "beneficiary": "Beneficiário",
-  "selectCategory": "Selecione a categoria",
+  "selectCategory": "Selecione uma categoria",
   "selectCountry": "Selecione o país",
   "selectCurrency": "Selecione a moeda",
   "selected-all": "Selecionar todos ({value})",
@@ -1215,5 +1215,7 @@
   "business.phone": "Tel. ",
   "business.at": "às",
   "business.validation.numbers": "Por favor use apenas números.",
-  "business.billing.information": "Informações de faturação"
+  "business.billing.information": "Informações de faturação",
+  "business.general.details": "Detalhes gerais",
+  "business.nonprofits": "Organizações sociais"
 }
