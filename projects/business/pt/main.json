@@ -446,7 +446,7 @@
   "giftcard.add.members.label": "<b>{value} membros</b> selecionados.",
   "giftcard.add.membersAnswer1": "Deve dar um título e uma pequena descrição ao voucher que está a criar. Não se esqueça de colocar a data limite para que os seus membros saibam até quando podem usá-lo.",
   "giftcard.add.question1": "Adicione um voucher",
-  "giftcard.payments.agree": "Eu concordo que {value} irá efetuar os pagamentos",
+  "giftcard.payments.agree": "Eu concordo que {company} irá efetuar os pagamentos",
   "giftcard.payments.agree-text": "Assim que os vouchers forem usados, a empresa se compromete a administrar os pagamentos às organizações sociais no menu “Pagamentos”. Os pagamentos devem ser feitos por transferência bancária.",
   "giftcard.total.employees": "{value} Pessoas",
   "giftcard.total.members": "{value} Membros",
