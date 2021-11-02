@@ -425,5 +425,6 @@
   "user.codeExpiredModal.text.2": "Por razões de segurança, o email é válido apenas por 30 minutos.",
   "user.codeExpiredModal.button": "Por favor, reenvie o email.",
   "toolkit.prev": "Ant",
-  "toolkit.next": "Próx"
+  "toolkit.next": "Próx",
+  "business.changes.saved": "Alterações salvas"
 }

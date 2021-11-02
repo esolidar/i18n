@@ -425,5 +425,6 @@
   "user.codeExpiredModal.text.2": "For safety reasons, the email is valid only for 30 minutes.",
   "user.codeExpiredModal.button": "Please resend the email.",
   "toolkit.prev": "Prev",
-  "toolkit.next": "Next"
+  "toolkit.next": "Next",
+  "business.changes.saved": "Changes saved"
 }
