@@ -426,5 +426,6 @@
   "user.codeExpiredModal.button": "Please resend the email.",
   "toolkit.prev": "Prev",
   "toolkit.next": "Next",
+  "draft": "Draft",
   "business.changes.saved": "Changes saved"
 }
