@@ -430,5 +430,6 @@
   "business.changes.saved": "Alterações salvas",
   "paginator.not-done-yet": "Ainda não feito",
   "paginator.current.step": "Passo atual",
-  "paginator.done": "Feito"
+  "paginator.done": "Feito",
+  "paginator.steps": "Passo {currentPage} de {totalPages}"
 }
