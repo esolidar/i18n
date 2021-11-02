@@ -427,5 +427,8 @@
   "toolkit.prev": "Ant",
   "toolkit.next": "Próx",
   "draft": "Rascunho",
-  "business.changes.saved": "Alterações salvas"
+  "business.changes.saved": "Alterações salvas",
+  "paginator.not-done-yet": "Ainda não feito",
+  "paginator.current.step": "Passo atual",
+  "paginator.done": "Feito"
 }
