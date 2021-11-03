@@ -1209,5 +1209,6 @@
   "business.unsaved.modal.title": "Alterações por salvar",
   "business.unsaved.modal.body": "Ao sair sem salvar, perderá permanentemente as alterações efetuadas.",
   "business.auction.last.active": "Ativo pela última vez",
-  "business.auction.list.description": "Crie impacto social através da venda de itens que alavancam as suas relações institucionais com celebridades ou influencers"
+  "business.auction.list.description": "Crie impacto social através da venda de itens que alavancam as suas relações institucionais com celebridades ou influencers",
+  "business.unavailable": "Indisponível"
 }
