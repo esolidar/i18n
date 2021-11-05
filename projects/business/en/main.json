@@ -1195,7 +1195,7 @@
   "business.privacy.security": "Privacy & Security",
   "business.amount.raised": "Amount raised",
   "business.bidders": "Bidders",
-  "business.updated.password.success": "Your password was successfully changed! Please login again.",
+  "business.updated.password.success": "Your password was successfully changed!",
   "business.emails.preferences": "Emails Preferences",
   "business.regional.settings": "Regional settings",
   "business.newsletter.settings": "Receive news and updates by email on instances you follow, such as nonprofits, auctions, ...",
