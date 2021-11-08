@@ -476,5 +476,6 @@
   "welcomeBack": "Welcome back",
   "year": "Year",
   "whitelabel.auctions.subtitle": "Support nonprofits or the {value} initiatives by bidding in once in a lifetime auctions including signed celebrity items, exclusive experiences and more.",
-  "whitelabel.select.department": "Select your team"
+  "whitelabel.select.department": "Select your team",
+  "whitelabel.configure.password.help": "The configuration email will only be valid for the next 30 minutes"
 }
