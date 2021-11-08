@@ -1218,5 +1218,6 @@
   "business.billing.information": "Billing Information",
   "business.general.details": "General details",
   "business.nonprofits": "Nonprofits",
-  "business.unavailable": "Unavailable"
+  "business.unavailable": "Unavailable",
+  "feed.post.create.public": "Public"
 }

@@ -1217,5 +1217,6 @@
   "business.billing.information": "Informações de cobrança",
   "business.general.details": "Detalhes gerais",
   "business.nonprofits": "Organizações sociais",
-  "business.unavailable": "Indisponível"
+  "business.unavailable": "Indisponível",
+  "feed.post.create.public": "Público"
 }
