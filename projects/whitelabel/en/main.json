@@ -453,7 +453,7 @@
   "user.settings.connect.facebook.turnoff": "Turn off",
   "user.settings.create.password": "Create password",
   "user.settings.deactivate.account": "Deactivate esolidar Account",
-  "user.settings.deactivate.account-btn": "Deactivate my account",
+  "user.settings.deactivate.account-btn": "Delete my account",
   "user.settings.deactivate.account-message": "Delete your account from {value} permanently?",
   "user.settings.deactivate.account.modal.text": "<b>Attention:</b> All bids will remain active until the end of the auction, as well as your deals.",
   "user.settings.deactivate.accounts": "Deactivate accounts",

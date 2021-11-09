@@ -454,7 +454,7 @@
   "user.settings.connect.facebook.turnoff": "Desligar",
   "user.settings.create.password": "Criar senha",
   "user.settings.deactivate.account": "Desativar conta esolidar",
-  "user.settings.deactivate.account-btn": "Desativar a minha conta",
+  "user.settings.deactivate.account-btn": "Eliminar a minha conta",
   "user.settings.deactivate.account-message": "Excluir sua conta {value} permanentemente?",
   "user.settings.deactivate.account.modal.text": "<b>Atenção:</b> Todas as licitações permanecerão ativos até o final do leilão, bem como os seus negócios.",
   "user.settings.deactivate.accounts": "Desativar contas",
