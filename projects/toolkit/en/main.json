@@ -323,7 +323,7 @@
   "user.settings.choose.file": "Choose file",
   "user.settings.phone.errorCode": "Please enter a valid code.",
   "user.settings.phone.errorNumber": "Please enter a phone number.",
-  "user.settings.phone.message": "You should validate your phone number, so we can contact you when one of your items is sold or you win an auction. This information is also necessary to validate the identity of active users in auctions, purchases, and sales, as well as any irregular supervenient circumstance.",
+  "user.settings.phone.message": "Enter your phone number to validate your identity and be notified of auctions, purchases, and others, including any irregular circumstance.",
   "user.settings.regional": "Profile",
   "user.settings.title.addContact": "Add Contact",
   "user.settings.validate.phone.insert.verification.code": "Insert your validation code",

@@ -323,7 +323,7 @@
   "user.settings.choose.file": "Escolher ficheiro",
   "user.settings.phone.errorCode": "Por favor insira um código válido.",
   "user.settings.phone.errorNumber": "Por favor insira um contato válido.",
-  "user.settings.phone.message": "É necessário efetuar a validação do seu número de telefone para que possamos entrar em contato consigo quando um dos seus artigos é vendido ou quando vence um leilão. É necessário, também, para validar a identidade dos utilizadores ativos nos leilões, nas compras e vendas ou para qualquer ocorrência irregular superveniente.",
+  "user.settings.phone.message": "Insira seu telefone para validar sua identidade e ser alertado de leilões, compras e outros, incluindo qualquer circunstância irregular.",
   "user.settings.regional": "Perfil",
   "user.settings.title.addContact": "Adicionar contato",
   "user.settings.validate.phone.insert.verification.code": "Insira o seu código de validação",

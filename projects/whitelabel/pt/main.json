@@ -454,7 +454,7 @@
   "user.settings.create.password": "Criar palavra-passe",
   "user.settings.deactivate.account": "Desativar conta esolidar",
   "user.settings.deactivate.account-btn": "Desativar a minha conta",
-  "user.settings.deactivate.account-message": "Atenção! Ao desativar a sua conta, todos os seus produtos à venda deixarão de o estar.",
+  "user.settings.deactivate.account-message": "Eliminar a conta {value} permanentemente?",
   "user.settings.deactivate.account.modal.text": "<b>Atenção:</b> Todas as licitações permanecerão ativos até o final do leilão, bem como os seus negócios.",
   "user.settings.deactivate.accounts": "Desativar contas",
   "user.settings.deactivate.whitelabel": "Desativar",
@@ -462,7 +462,7 @@
   "user.settings.locale.message": "A sua localidade é pública no seu perfil.",
   "user.settings.location": "Enviar as minhas compras para esta morada",
   "user.settings.newsletter": "Irá receber notificações da esolidar, via email, sobre os novos acontecimentos das instituições que segue, sobre os leilões solidários de celebridades que gosta e acompanha, entre outras. Se desejar, poderá alterar as preferências de notificação, em qualquer altura.",
-  "user.settings.nif.message": "O número de identificação fiscal é necessário para que as organizações possam emitir o recibo do seu donativo.",
+  "user.settings.nif.message": "Introduza o seu NIF para receber recibos de doações.",
   "user.settings.notifications.newsletter": "Newsletter",
   "user.settings.notifications1": "Irá receber notificações por email da esolidar (de compras/vendas, licitações em leilões, entre outros) por forma a melhorar a sua experiência no site. Se desejar, poderá, em qualquer altura, alterar as preferências de notificação que recebe por email.",
   "user.settings.notifications2": "Caso desligue esta opção, deverá ter em atenção que as notificações de licitações e compras/vendas serão da sua inteira responsabilidade já que passará a recebê-las apenas no website.",
@@ -478,5 +478,8 @@
   "whitelabel.auctions.subtitle": "Apoie as organizações sociais ou as iniciativas da {value} licitando em leilões únicos, incluindo itens assinados por celebridades, experiências exclusivas e muito mais.",
   "whitelabel.select.department": "Selecione a sua equipa",
   "whitelabel.configure.password.help": "O email de configuração só será válido durante os próximos 30 minutos",
-  "whitelabel.facebook.configure.password": "Entrava com Facebook?"
+  "whitelabel.facebook.configure.password": "Entrava com Facebook?",
+  "whitelabel.account.settings": "Definições de conta",
+  "whitelabel.personal.information": "Informações pessoais",
+  "whitelabel.gender.private": "Seus dados serão privados e usados apenas para análise de dados."
 }
