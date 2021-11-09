@@ -445,7 +445,7 @@
   "user.resendEmailVerification.error": "The email is already validated",
   "user.resendEmailVerification.sussess": "A verification code has been sent to your email. Please open the email and follow the instructions.",
   "user.settings.add.password": "You can either access your account with your Facebook profile or registered email ({value}) address.",
-  "user.settings.address.message": "When you make a purchase or win an auction the seller will receive your address so that he can send you the product.",
+  "user.settings.address.message": "Enter your address to receive items acquired from auctions and others.",
   "user.settings.birthday.message": "We use this data to ensure that you are of legal age. We will never share this information with other users.",
   "user.settings.change.password": "Change Your Password",
   "user.settings.connect.facebook": "Connect With Facebook",

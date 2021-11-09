@@ -445,7 +445,7 @@
   "user.resendEmailVerification.error": "O email já está validado",
   "user.resendEmailVerification.sussess": "Um código de verificação foi enviado para o seu e-mail. Abra o e-mail e siga as instruções.",
   "user.settings.add.password": "Você pode entrar na sua conta com o seu perfil do Facebook ou endereço de e-mail registado.",
-  "user.settings.address.message": "A sua morada será cedida ao vendedor após efetuar uma compra para que este possa enviar-lhe o produto ou item do leilão.",
+  "user.settings.address.message": "Introduza o seu endereço para receber itens adquiridos em leilões e outros.",
   "user.settings.birthday.message": "Usamos este dado apenas para garantir que é maior de idade e nunca partilhamos esta informação com outros utilizadores.",
   "user.settings.change.password": "Alterar palavra-passe",
   "user.settings.connect.facebook": "Ligar com Facebook",
