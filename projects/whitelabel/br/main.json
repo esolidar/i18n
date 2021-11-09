@@ -478,5 +478,6 @@
   "year": "Ano",
   "whitelabel.auctions.subtitle": "Apóie as organizações sociais ou as iniciativas da {value} dando lances em leilões únicos, incluindo itens assinados por celebridades, experiências exclusivas e muito mais.",
   "whitelabel.select.department": "Selecione a sua equipe",
-  "whitelabel.configure.password.help": "O email de configuração só será válido durante os próximos 30 minutos"
+  "whitelabel.configure.password.help": "O email de configuração só será válido durante os próximos 30 minutos",
+  "whitelabel.facebook.configure.password": "Entrava com Facebook?"
 }
