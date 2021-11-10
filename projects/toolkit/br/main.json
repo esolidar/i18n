@@ -428,8 +428,10 @@
   "toolkit.next": "Próximo",
   "draft": "Rascunho",
   "business.changes.saved": "Alterações salvas",
-  "paginator.not-done-yet": "Ainda não feito",
-  "paginator.current.step": "Passo atual",
+  "paginator.not-done-yet": "Por fazer",
+  "paginator.current.step": "Etapa atual",
   "paginator.done": "Feito",
-  "paginator.steps": "Passo {currentPage} de {totalPages}"
+  "paginator.steps": "Etapa {currentPage} de {totalPages}",
+  "dropzonebox.text": "Arraste e solte ou {a} para carregar um arquivo",
+  "dropzonebox.a": "selecione"
 }
