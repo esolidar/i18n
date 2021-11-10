@@ -482,5 +482,6 @@
   "whitelabel.facebook.configure.password": "Entrava com Facebook?",
   "whitelabel.account.settings": "Definições de conta",
   "whitelabel.personal.information": "Informações pessoais",
-  "whitelabel.gender.private": "Isto será privado e usado apenas para análise de dados."
+  "whitelabel.gender.private": "Isto será privado e usado apenas para análise de dados.",
+  "whitelabel.contact.information": "Informações de contato"
 }
