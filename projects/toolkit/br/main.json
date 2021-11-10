@@ -433,5 +433,6 @@
   "paginator.done": "Feito",
   "paginator.steps": "Etapa {currentPage} de {totalPages}",
   "dropzonebox.text": "Arraste e solte ou {a} para carregar um arquivo",
-  "dropzonebox.a": "selecione"
+  "dropzonebox.a": "selecione",
+  "toolkit.phone.number": "Número de telefone"
 }

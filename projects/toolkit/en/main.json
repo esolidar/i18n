@@ -433,5 +433,6 @@
   "paginator.done": "Done",
   "paginator.steps": "Step {currentPage} of {totalPages}",
   "dropzonebox.text": "Drag & drop or {a} to upload a file",
-  "dropzonebox.a": "browse"
+  "dropzonebox.a": "browse",
+  "toolkit.phone.number": "Phone number"
 }
