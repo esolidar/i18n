@@ -478,7 +478,7 @@
   "whitelabel.auctions.subtitle": "Support nonprofits or the {value} initiatives by bidding in once in a lifetime auctions including signed celebrity items, exclusive experiences and more.",
   "whitelabel.select.department": "Select your team",
   "whitelabel.configure.password.help": "The configuration email will only be valid for the next 30 minutes",
-  "whitelabel.facebook.configure.password": "Used to log in with Facebook?",
+  "whitelabel.facebook.configure.password": "Used to login with Facebook?",
   "whitelabel.account.settings": "Account settings",
   "whitelabel.personal.information": "Personal information",
   "whitelabel.gender.private": "This will be private and only used for data analysis.",
