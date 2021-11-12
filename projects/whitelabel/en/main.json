@@ -482,5 +482,6 @@
   "whitelabel.account.settings": "Account settings",
   "whitelabel.personal.information": "Personal information",
   "whitelabel.gender.private": "This will be private and only used for data analysis.",
-  "whitelabel.contact.information": "Contact information"
+  "whitelabel.contact.information": "Contact information",
+  "whitelabel.select.gender": "Select gender"
 }
