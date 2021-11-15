@@ -483,5 +483,6 @@
   "whitelabel.personal.information": "Personal information",
   "whitelabel.gender.private": "This will be private and only used for data analysis.",
   "whitelabel.contact.information": "Contact information",
-  "whitelabel.select.gender": "Select gender"
+  "whitelabel.select.gender": "Select gender",
+  "whitelabel.company.information": "Company information"
 }

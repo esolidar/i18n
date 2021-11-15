@@ -483,5 +483,6 @@
   "whitelabel.personal.information": "Informações pessoais",
   "whitelabel.gender.private": "Seus dados serão privados e usados apenas para análise de dados.",
   "whitelabel.contact.information": "Informações de contato",
-  "whitelabel.select.gender": "Selecione o genero"
+  "whitelabel.select.gender": "Selecione o genero",
+  "whitelabel.company.information": "Informações da Empresa"
 }
