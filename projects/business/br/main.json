@@ -1257,5 +1257,6 @@
   "business.accelerator.categories.filter.all": "Todos",
   "business.accelerator.categories.filter.environment": "Ambiente",
   "business.accelerator.categories.filter.social": "Social",
-  "business.accelerator.categories.filter.governance": "Governança"
+  "business.accelerator.categories.filter.governance": "Governança",
+  "create": "Criar"
 }

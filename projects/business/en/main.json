@@ -1258,5 +1258,6 @@
   "business.accelerator.categories.filter.all": "All",
   "business.accelerator.categories.filter.environment": "Environment",
   "business.accelerator.categories.filter.social": "Social",
-  "business.accelerator.categories.filter.governance": "Governance"
+  "business.accelerator.categories.filter.governance": "Governance",
+  "create": "Create"
 }
