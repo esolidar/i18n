@@ -485,5 +485,6 @@
   "whitelabel.contact.information": "Contact information",
   "whitelabel.select.gender": "Select gender",
   "whitelabel.company.information": "Company information",
-  "whitelabel.phone.number": "Phone number"
+  "whitelabel.phone.number": "Phone number",
+  "whitelabel.delete.account": "Delete account"
 }
