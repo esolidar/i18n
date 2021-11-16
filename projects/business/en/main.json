@@ -1259,5 +1259,7 @@
   "business.accelerator.categories.filter.environment": "Environment",
   "business.accelerator.categories.filter.social": "Social",
   "business.accelerator.categories.filter.governance": "Governance",
-  "create": "Create"
+  "create": "Create",
+  "business.accelerator.categories.delete.title": "Delete category",
+  "business.accelerator.categories.delete.body": "If you delete the category, you won’t be able to recover the data you manually entered"
 }

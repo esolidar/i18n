@@ -1258,5 +1258,7 @@
   "business.accelerator.categories.filter.environment": "Ambiente",
   "business.accelerator.categories.filter.social": "Social",
   "business.accelerator.categories.filter.governance": "Governança",
-  "create": "Criar"
+  "create": "Criar",
+  "business.accelerator.categories.delete.title": "Eliminar categoria",
+  "business.accelerator.categories.delete.body": "Se eliminar a categoria, não será possível recuperar os dados inseridos manualmente"
 }
