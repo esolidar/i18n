@@ -486,5 +486,10 @@
   "whitelabel.select.gender": "Select gender",
   "whitelabel.company.information": "Company information",
   "whitelabel.phone.number": "Phone number",
-  "whitelabel.delete.account": "Delete account"
+  "whitelabel.delete.account": "Delete account",
+  "menu.user.settings.preferences": "Preferences",
+  "whitelabel.emails.preferences": "Emails Preferences",
+  "whitelabel.newsletter.settings": "Receive news and updates by email on instances you follow, such as nonprofits, auctions, ...",
+  "whitelabel.notifications.settings": "Receive email for your activity, such as volunteering initiatives, submited projects, ...",
+  "whitelabel.regional.settings": "Regional settings"
 }
