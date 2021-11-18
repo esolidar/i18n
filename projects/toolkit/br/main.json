@@ -434,5 +434,7 @@
   "paginator.steps": "Etapa {currentPage} de {totalPages}",
   "dropzonebox.text": "Arraste e solte ou {a} para carregar um arquivo",
   "dropzonebox.a": "selecione",
-  "toolkit.phone.number": "Número de telefone"
+  "toolkit.phone.number": "Número de telefone",
+  "toolkit.select.noOptions": "Não há opções",
+  "toolkit.select.placeholder": "Selecione uma opção"
 }

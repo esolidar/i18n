@@ -434,5 +434,7 @@
   "paginator.steps": "Step {currentPage} of {totalPages}",
   "dropzonebox.text": "Drag & drop or {a} to upload a file",
   "dropzonebox.a": "browse",
-  "toolkit.phone.number": "Phone number"
+  "toolkit.phone.number": "Phone number",
+  "toolkit.select.noOptions": "There are no options",
+  "toolkit.select.placeholder": "Select an option"
 }
