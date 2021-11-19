@@ -492,5 +492,6 @@
   "whitelabel.newsletter.settings": "Receive news and updates by email on instances you follow, such as nonprofits, auctions, ...",
   "whitelabel.notifications.settings": "Receive email for your activity, such as volunteering initiatives, submited projects, ...",
   "whitelabel.regional.settings": "Regional settings",
-  "whitelabel.invalid.email": "Type in a valid email address"
+  "whitelabel.invalid.email": "Type in a valid email address",
+  "whitelabel.privacy.security": "Privacy & Security"
 }

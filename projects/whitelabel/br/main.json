@@ -493,5 +493,6 @@
   "whitelabel.newsletter.settings": "Receba notícias e atualizações por e-mail sobre as instâncias que você segue, como organizações sem fins lucrativos, leilões, ...",
   "whitelabel.notifications.settings": "Receba e-mail para a sua atividade, como iniciativas de voluntariado, projetos submetidos, ...",
   "whitelabel.regional.settings": "Configurações regionais",
-  "whitelabel.invalid.email": "Insira um email válido"
+  "whitelabel.invalid.email": "Insira um email válido",
+  "whitelabel.privacy.security": "Privacidade e Segurança"
 }
