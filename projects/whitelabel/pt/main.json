@@ -493,5 +493,8 @@
   "whitelabel.notifications.settings": "Receba e-mail para a sua atividade, como iniciativas de voluntariado, projetos submetidos, ...",
   "whitelabel.regional.settings": "Configurações regionais",
   "whitelabel.invalid.email": "Insira um email válido",
-  "whitelabel.privacy.security": "Privacidade e Segurança"
+  "whitelabel.privacy.security": "Privacidade e Segurança",
+  "whitelabel.settings.paypal.account": "Conta PayPal",
+  "whitelabel.paypal_mail.message": "Os pagamentos irão para a sua conta de PayPal. O PayPal é um serviço externo de pagamentos que assegura a proteção dos seus dados.{br}{br}Para mais informações, clique aqui: <a>paypal.com</a>",
+  "whitelabel.billing.information": "Informações de faturação"
 }
