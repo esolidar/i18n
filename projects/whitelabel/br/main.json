@@ -497,5 +497,6 @@
   "whitelabel.privacy.security": "Privacidade e Segurança",
   "whitelabel.settings.paypal.account": "Conta PayPal",
   "whitelabel.paypal_mail.message": "Os pagamentos irão para a sua conta de PayPal. O PayPal é um serviço externo de pagamentos que assegura a proteção dos seus dados.{br}{br}Para mais informações, clique aqui: <a>paypal.com</a>",
-  "whitelabel.billing.information": "Informações de cobrança"
+  "whitelabel.billing.information": "Informações de cobrança",
+  "whitelabel.billing.methods": "Métodos de cobrança"
 }
