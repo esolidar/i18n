@@ -1260,5 +1260,6 @@
   "business.accelerator.categories.filter.governance": "Governança",
   "create": "Criar",
   "business.accelerator.categories.delete.title": "Excluir categoria",
-  "business.accelerator.categories.delete.body": "Se excluir a categoria, não será possível recuperar os dados que você inseriu manualmente"
+  "business.accelerator.categories.delete.body": "Se excluir a categoria, não será possível recuperar os dados que você inseriu manualmente",
+  "business.accelerator.entre.title": "Insira um título"
 }

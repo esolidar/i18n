@@ -1261,5 +1261,6 @@
   "business.accelerator.categories.filter.governance": "Governance",
   "create": "Create",
   "business.accelerator.categories.delete.title": "Delete category",
-  "business.accelerator.categories.delete.body": "If you delete the category, you won’t be able to recover the data you manually entered"
+  "business.accelerator.categories.delete.body": "If you delete the category, you won’t be able to recover the data you manually entered",
+  "business.accelerator.entre.title": "Enter a title"
 }
