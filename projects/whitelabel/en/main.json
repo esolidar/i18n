@@ -246,7 +246,7 @@
   "login.UNAUTHORIZED_STATUS_P.text": "Your account is not valid yet! Please check your email to confirm your account.",
   "login.modal.validation": "Didn’t get the validation email? Click here.",
   "login.title": "Log in to {value}",
-  "logout": "Logout",
+  "logout": "Log out",
   "male": "Male",
   "member.created.success": "Please check your email to validate your account.",
   "menu": "Menu",
