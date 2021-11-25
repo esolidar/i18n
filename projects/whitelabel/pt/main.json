@@ -499,6 +499,6 @@
   "whitelabel.billing.information": "Informações de faturação",
   "whitelabel.billing.methods": "Métodos de pagamento ",
   "menu.settings": "Definições",
-  "whitelabel.accept.terms": "Concordo com os <a class=\"/accept-terms p-0 link\" target=\"/_blank\" href=\"/{terms}\" style=\"/color: {color}\">Termos e condições</a> e <a class=\"/accept-terms p-0 link\" target=\"/_blank\" href=\"/{privacy}\" style=\"/color: {color}\">Política de Privacidade</a> da esolidar e declaro ter mais de 18 anos de idade.",
+  "whitelabel.accept.terms": "Concordo com os {terms} e {privacy} da esolidar e declaro ter mais de 18 anos de idade.",
   "whitelabel.invalid.date": "Data inválida"
 }
