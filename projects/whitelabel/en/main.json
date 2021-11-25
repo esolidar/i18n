@@ -499,6 +499,7 @@
   "whitelabel.billing.information": "Billing Information",
   "whitelabel.billing.methods": "Billing methods",
   "menu.settings": "Settings",
+  "whitelabel.accept.terms": "I agree to esolidar’s {terms} and {privacy} and that I'm at least 18 years old.",
   "whitelabel.invalid.date": "Invalid date",
   "whitelabel.invalid.field.no.space": "This field cannot have spaces"
 }

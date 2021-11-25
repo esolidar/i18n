@@ -500,6 +500,7 @@
   "whitelabel.billing.information": "Informações de cobrança",
   "whitelabel.billing.methods": "Métodos de cobrança",
   "menu.settings": "Definições",
+  "whitelabel.accept.terms": "Concordo com os {terms} e {privacy} da esolidar e declaro ter mais de 18 anos de idade.",
   "whitelabel.invalid.date": "Data inválida",
   "whitelabel.invalid.field.no.space": "Este campo não pode ter espaços"
 }

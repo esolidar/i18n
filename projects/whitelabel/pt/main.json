@@ -60,7 +60,7 @@
   "code": "Insira o código de segurança",
   "company.add.age": "Confirmo que tenho 18 anos ou mais.",
   "company.add.age.register": "da esolidar e declaro ter mais de 18 anos de idade.",
-  "company.add.agree": "Concordo com os",
+  "company.add.agree": "Concordo com os {value}",
   "company.add.and": "e",
   "company.add.newsletter": "Aceito receber novidades da esolidar, ocasionalmente. Pode cancelar a sua subscrição quando quiser.",
   "completed": "Finalizado",
@@ -499,6 +499,7 @@
   "whitelabel.billing.information": "Informações de faturação",
   "whitelabel.billing.methods": "Métodos de pagamento ",
   "menu.settings": "Definições",
+  "whitelabel.accept.terms": "Concordo com os {terms} e {privacy} da esolidar e declaro ter mais de 18 anos de idade.",
   "whitelabel.invalid.date": "Data inválida",
   "whitelabel.invalid.field.no.space": "Este campo não pode ter espaços"
 }
