@@ -497,5 +497,6 @@
   "whitelabel.settings.paypal.account": "PayPal account",
   "whitelabel.paypal_mail.message": "Payments will go to your PayPal account. PayPal is an external payment service that ensures the protection of your data.{br}{br}For more information, click here: <a>paypal.com</a>",
   "whitelabel.billing.information": "Billing Information",
-  "whitelabel.billing.methods": "Billing methods"
+  "whitelabel.billing.methods": "Billing methods",
+  "menu.settings": "Settings"
 }
