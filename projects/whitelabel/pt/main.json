@@ -499,5 +499,6 @@
   "whitelabel.billing.information": "Informações de faturação",
   "whitelabel.billing.methods": "Métodos de pagamento ",
   "menu.settings": "Definições",
-  "whitelabel.invalid.date": "Data inválida"
+  "whitelabel.invalid.date": "Data inválida",
+  "whitelabel.invalid.field.no.space": "Este campo não pode ter espaços"
 }

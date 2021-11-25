@@ -499,5 +499,6 @@
   "whitelabel.billing.information": "Billing Information",
   "whitelabel.billing.methods": "Billing methods",
   "menu.settings": "Settings",
-  "whitelabel.invalid.date": "Invalid date"
+  "whitelabel.invalid.date": "Invalid date",
+  "whitelabel.invalid.field.no.space": "This field cannot have spaces"
 }
