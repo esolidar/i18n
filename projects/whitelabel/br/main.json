@@ -499,5 +499,6 @@
   "whitelabel.paypal_mail.message": "Os pagamentos irão para a sua conta de PayPal. O PayPal é um serviço externo de pagamentos que assegura a proteção dos seus dados.{br}{br}Para mais informações, clique aqui: <a>paypal.com</a>",
   "whitelabel.billing.information": "Informações de cobrança",
   "whitelabel.billing.methods": "Métodos de cobrança",
-  "menu.settings": "Definições"
+  "menu.settings": "Definições",
+  "whitelabel.accept.terms": "Concordo com os <a class='accept-terms p-0 link' target='_blank' href='{terms}' style='color: {color}'>Termos e condições</a> e <a class='accept-terms p-0 link' target='_blank' href='{privacy}' style='color: {color}'>Política de Privacidade</a> da esolidar e declaro ter mais de 18 anos de idade."
 }

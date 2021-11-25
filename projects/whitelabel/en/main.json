@@ -498,5 +498,6 @@
   "whitelabel.paypal_mail.message": "Payments will go to your PayPal account. PayPal is an external payment service that ensures the protection of your data.{br}{br}For more information, click here: <a>paypal.com</a>",
   "whitelabel.billing.information": "Billing Information",
   "whitelabel.billing.methods": "Billing methods",
-  "menu.settings": "Settings"
+  "menu.settings": "Settings",
+  "whitelabel.accept.terms": "I agree to esolidar’s <a class='accept-terms p-0 link' target='_blank' href='{terms}' style='color: {color}'>Terms and Conditions</a> and <a class='accept-terms p-0 link' target='_blank' href='{privacy}' style='color: {color}'>Privacy Policy</a> and that I'm at least 18 years old."
 }
