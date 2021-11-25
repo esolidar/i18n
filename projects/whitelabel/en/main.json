@@ -499,5 +499,6 @@
   "whitelabel.billing.information": "Billing Information",
   "whitelabel.billing.methods": "Billing methods",
   "menu.settings": "Settings",
-  "whitelabel.accept.terms": "I agree to esolidar’s <a class='accept-terms p-0 link' target='_blank' href='{terms}' style='color: {color}'>Terms and Conditions</a> and <a class='accept-terms p-0 link' target='_blank' href='{privacy}' style='color: {color}'>Privacy Policy</a> and that I'm at least 18 years old."
+  "whitelabel.accept.terms": "I agree to esolidar’s <a class='accept-terms p-0 link' target='_blank' href='{terms}' style='color: {color}'>Terms and Conditions</a> and <a class='accept-terms p-0 link' target='_blank' href='{privacy}' style='color: {color}'>Privacy Policy</a> and that I'm at least 18 years old.",
+  "whitelabel.invalid.date": "Invalid date"
 }
