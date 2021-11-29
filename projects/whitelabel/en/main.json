@@ -507,5 +507,6 @@
   "whitelabel.donations.title": "Donations",
   "whitelabel.invalid.nif": "Invalid TIN",
   "whitelabel.history": "History",
-  "whitelabel.match.donations": "Support a cause dear to your heart by donating directly to a nonprofit from the esolidar's Community"
+  "whitelabel.match.donations": "Support a cause dear to your heart by donating directly to a nonprofit from the esolidar's Community",
+  "whitelabel.terms.policy": "Terms & Policy"
 }

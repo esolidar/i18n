@@ -508,5 +508,6 @@
   "whitelabel.donations.title": "Doações",
   "whitelabel.invalid.nif": "CPF/CNPJ inválido",
   "whitelabel.history": "Histórico",
-  "whitelabel.match.donations": "Apoie uma causa de seu interesse doando diretamente a uma organização social da comunidade esolidar"
+  "whitelabel.match.donations": "Apoie uma causa de seu interesse doando diretamente a uma organização social da comunidade esolidar",
+  "whitelabel.terms.policy": "Termos e Política"
 }
