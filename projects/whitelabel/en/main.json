@@ -502,5 +502,6 @@
   "whitelabel.accept.terms": "I agree to esolidar’s {terms} and {privacy} and that I'm at least 18 years old.",
   "whitelabel.invalid.date": "Invalid date",
   "whitelabel.invalid.field.no.space": "This field cannot have spaces",
-  "whitelabel.invalid.nif": "Invalid TIN"
+  "whitelabel.invalid.nif": "Invalid TIN",
+  "whitelabel.terms.policy": "Terms & Policy"
 }
