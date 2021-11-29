@@ -216,10 +216,10 @@
   "giftcard.success": "O giftcard foi doado com sucesso",
   "giftcard.title": "Vouchers Solidários",
   "giftcard.unused": "Disponível",
-  "giftcard.unused.title": "Veja os vouchers solidários que a sua empresa lhe disponibilizou. Pode utilizar o voucher para apoiar uma causa social à sua escolha.",
+  "giftcard.unused.title": "Use os vouchers que oferecidos por {companyName} para ajudar um beneficiário de sua escolha",
   "giftcard.used": "Usado",
   "giftcard.used.expired": "Vouchers utilizados e expirados",
-  "giftcard.used.title": "Aqui encontra todos os giftcards dados pela sua empresa que já foram gastos por você ou que já expiraram a data de utilização.",
+  "giftcard.used.title": "Veja seus vouchers que foram gastos ou expirados",
   "given_directly_info": "Descreva",
   "gotIt": "OK, entendi",
   "header.auctions": "Leilões",
@@ -385,7 +385,7 @@
   "search.campaign.status.all": "Todos",
   "search.campaign.title": "Pesquisar por título",
   "searchDocuments": "Pesquise por título ou descrição",
-  "searchVoucherTableInputPlaceholder": "Procurar voucher",
+  "searchVoucherTableInputPlaceholder": "Procurar vouchers",
   "selectCountry": "Selecione o país",
   "session.lost": "Sessão expirada",
   "session.lost.message": "Por favor, faça log in novamente.",
@@ -505,5 +505,8 @@
   "whitelabel.invalid.field.no.space": "Este campo não pode ter espaços",
   "whitelabel.header.needs": "Necessidades",
   "whitelabel.accelarator.title": "Aceleradora",
-  "whitelabel.donations.title": "Doações"
+  "whitelabel.donations.title": "Doações",
+  "whitelabel.invalid.nif": "CPF/CNPJ inválido",
+  "whitelabel.history": "Histórico",
+  "whitelabel.match.donations": "Apoie uma causa de seu interesse doando diretamente a uma organização social da comunidade esolidar"
 }

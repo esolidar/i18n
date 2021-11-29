@@ -215,10 +215,10 @@
   "giftcard.success": "Your gift card has successful donated",
   "giftcard.title": "Giftcards",
   "giftcard.unused": "Available",
-  "giftcard.unused.title": "See the giftcards that your company gave to you. You can use it to support a charity of your choice.",
+  "giftcard.unused.title": "Use the vouchers {companyName} gave you to help a beneficiary of your choice",
   "giftcard.used": "Used",
   "giftcard.used.expired": "Used / Expired",
-  "giftcard.used.title": "Here you can find all giftcards given by your company that have already been spent or the date limit to use it has expired.",
+  "giftcard.used.title": "See the vouchers that have been spent or expired",
   "given_directly_info": "Describe",
   "gotIt": "Ok, got it",
   "header.auctions": "Auctions",
@@ -384,7 +384,7 @@
   "search.campaign.status.all": "All",
   "search.campaign.title": "Search by title",
   "searchDocuments": "Search by title or description",
-  "searchVoucherTableInputPlaceholder": "Search gift card",
+  "searchVoucherTableInputPlaceholder": "Search for vouchers",
   "selectCountry": "Select country",
   "session.lost": "Session expired",
   "session.lost.message": "Please, log in.",
@@ -504,5 +504,8 @@
   "whitelabel.invalid.field.no.space": "This field cannot have spaces",
   "whitelabel.header.needs": "Needs",
   "whitelabel.accelarator.title": "Accelerator",
-  "whitelabel.donations.title": "Donations"
+  "whitelabel.donations.title": "Donations",
+  "whitelabel.invalid.nif": "Invalid TIN",
+  "whitelabel.history": "History",
+  "whitelabel.match.donations": "Support a cause dear to your heart by donating directly to a nonprofit from the esolidar's Community"
 }
