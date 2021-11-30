@@ -130,7 +130,7 @@
   "crowdfunding.payment.method.stripe": "stripe",
   "crowdfunding.payment.method.utrust": "Utrust (Bitcoin and Ethereum)",
   "crowdfunding.private": "Private crowdfunding",
-  "crowdfunding.public": "Public crowdfunding",
+  "crowdfunding.public": "Public campaigns",
   "crowdfunding.reward": "Reward to employee",
   "crowdfunding.reward.anonymous": "Make this name not visible",
   "crowdfunding.reward.contributions": "A reward will be given to the employee with most contributions",
@@ -512,5 +512,6 @@
   "whitelabel.needs.crowdfunding.description": "Create social impact by raising funds.",
   "whitelabel.needs.auction.description": "Create social impact by selling items that often leverage your institutional relationships with celebrities and influencers.",
   "whitelabel.needs.crowdfunding.public.description": "Campaigns that help support a nonprofit.",
-  "whitelabel.needs.crowdfunding.private.description": "Campaigns that help support a personal cause."
+  "whitelabel.needs.crowdfunding.private.description": "Campaigns that help support a personal cause.",
+  "whitelabel.total": " ({value})"
 }
