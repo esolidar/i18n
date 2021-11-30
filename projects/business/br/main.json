@@ -1302,7 +1302,7 @@
   "business.accelerator.appForm.form.card.keep.private": "Privado",
   "business.accelerator.appForm.form.card.keep.private.description": "Visível apenas para admins da Acme Inc",
   "business.accelerator.appForm.form.card.keep.public": "Público",
-  "business.accelerator.appForm.form.card.keep.public.desciption": "Visível publicamente na página de detalhes do projeto",
+  "business.accelerator.appForm.form.card.keep.public.description": "Visível publicamente na página de detalhes do projeto",
   "business.accelerator.appForm.form.card.public": "This will be publicly visible",
   "business.accelerator.appForm.form.card.required": "Obrigatório",
   "business.accelerator.appForm.form.card.question": "Questão",
