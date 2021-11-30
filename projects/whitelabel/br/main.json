@@ -514,5 +514,5 @@
   "whitelabel.needs.auction.description": "Crie impacto social vendendo itens que podem alavancar suas relações institucionais com celebridades e influenciadores.",
   "whitelabel.needs.crowdfunding.public.description": "Campanhas que ajudam a apoiar uma organização sem fins lucrativos.",
   "whitelabel.needs.crowdfunding.private.description": "Campanhas que ajudam a apoiar uma causa pessoal.",
-  "whitelabel.total": " ({value})"
+  "whitelabel.total": "({value})"
 }
