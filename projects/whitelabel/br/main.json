@@ -509,5 +509,7 @@
   "whitelabel.invalid.nif": "CPF/CNPJ inválido",
   "whitelabel.history": "Histórico",
   "whitelabel.match.donations": "Apoie uma causa de seu interesse doando diretamente a uma organização social da comunidade esolidar",
-  "whitelabel.terms.policy": "Termos e Política"
+  "whitelabel.terms.policy": "Termos e Política",
+  "whitelabel.needs.crowdfunding.description": "Crie impacto social angariando fundos.",
+  "whitelabel.needs.auction.description": "Crie impacto social vendendo itens que podem alavancar suas relações institucionais com celebridades e influenciadores."
 }
