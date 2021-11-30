@@ -510,5 +510,7 @@
   "whitelabel.match.donations": "Apoie uma causa do seu interesse doando diretamente a uma organização social da comunidade esolidar",
   "whitelabel.terms.policy": "Termos e Política",
   "whitelabel.needs.crowdfunding.description": "Crie impacto social angariando fundos.",
-  "whitelabel.needs.auction.description": "Crie impacto social através da venda de itens que alavancam as suas relações institucionais com celebridades ou influencers."
+  "whitelabel.needs.auction.description": "Crie impacto social através da venda de itens que alavancam as suas relações institucionais com celebridades ou influencers.",
+  "whitelabel.needs.crowdfunding.public.description": "Campanhas que ajudam a apoiar uma organização sem fins lucrativos.",
+  "whitelabel.needs.crowdfunding.private.description": "Campanhas que ajudam a apoiar uma causa pessoal."
 }
