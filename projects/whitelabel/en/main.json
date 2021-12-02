@@ -129,7 +129,7 @@
   "crowdfunding.payment.method.sibs_multibanco": "Multibanco",
   "crowdfunding.payment.method.stripe": "stripe",
   "crowdfunding.payment.method.utrust": "Utrust (Bitcoin and Ethereum)",
-  "crowdfunding.private": "Private crowdfunding",
+  "crowdfunding.private": "Private campaigns",
   "crowdfunding.public": "Public campaigns",
   "crowdfunding.reward": "Reward to employee",
   "crowdfunding.reward.anonymous": "Make this name not visible",
