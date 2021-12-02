@@ -1,5 +1,5 @@
-const { logDuplicated, getAllTranslationsByProject } = require("../shared/utils/tests");
-const projectList = require("../shared/constants/projects");
+const { logDuplicated, getAllTranslationsByProject } = require("./tests");
+const projectList = require("../constants/projects");
 
 const whiteList = ["May"];
 
