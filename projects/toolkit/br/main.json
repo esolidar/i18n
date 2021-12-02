@@ -436,5 +436,6 @@
   "dropzonebox.a": "selecione",
   "toolkit.phone.number": "Número de telefone",
   "toolkit.select.noOptions": "Não há opções",
-  "toolkit.select.placeholder": "Selecione uma opção"
+  "toolkit.select.placeholder": "Selecione uma opção",
+  "select-all": "Selecionar todos"
 }
