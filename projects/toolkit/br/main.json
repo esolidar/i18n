@@ -438,5 +438,6 @@
   "toolkit.select.noOptions": "Não há opções",
   "toolkit.select.placeholder": "Selecione uma opção",
   "select-all": "Selecionar todos",
-  "auctionPrivate": "Privado"
+  "auctionPrivate": "Privado",
+  "toolkit.results": "Resultados"
 }
