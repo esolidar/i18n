@@ -439,5 +439,8 @@
   "toolkit.select.placeholder": "Selecione uma opção",
   "select-all": "Selecionar todos",
   "auctionPrivate": "Privado",
-  "toolkit.results": "Resultados"
+  "toolkit.results": "Resultados",
+  "toolkit.beneficiary": "Beneficiário",
+  "toolkit.spentOn": "Utilizado em",
+  "toolkit.status": "Estado"
 }
