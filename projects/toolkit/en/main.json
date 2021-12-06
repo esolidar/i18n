@@ -47,7 +47,6 @@
   "auction.add.project.member": "We will notify the author of the project by email that you have created an auction to help raise funds.",
   "auction.add.submit.text": "The auction will be submitted but will not be available until our team approves it. We will contact you soon.",
   "auction.add.subtitle": "Auctions are an easy way to raise funds",
-  "auction.beneficiary": "Beneficiary",
   "auction.beneficiary.help": "Select the beneficiary that this auction will support.",
   "auction.brand": "Sub-brand",
   "auction.button.bid": "Bid",
@@ -476,5 +475,11 @@
   "ods-16": "Peace, justice and strong institutions",
   "ods-16-description": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
   "ods-17": "Partnerships for the goals",
-  "ods-17-description": "Strengthen the means of implementation and revitalize the global partnership for sustainable development"
+  "ods-17-description": "Strengthen the means of implementation and revitalize the global partnership for sustainable development",
+  "toolkit.value": "Value",
+  "toolkit.cause": "Cause",
+  "toolkit.history": "History",
+  "toolkit.search.vouchers": "Search for vouchers",
+  "toolkit.voucher": "voucher",
+  "toolkit.spent": "Spent"
 }

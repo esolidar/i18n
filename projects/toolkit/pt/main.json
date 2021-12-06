@@ -47,7 +47,6 @@
   "auction.add.project.member": "Notificaremos a pessoa que criou o projeto por email informando que criou o leilão.",
   "auction.add.submit.text": "O leilão foi criado e está pendente de aprovação. Entraremos em contacto brevemente.",
   "auction.add.subtitle": "Leilões são uma forma de angariar fundos para a sua organização",
-  "auction.beneficiary": "Beneficiário",
   "auction.beneficiary.help": "Selecione a entidade beneficiada com o leilão.",
   "auction.brand": "Sub-marca",
   "auction.button.bid": "Licitar",
@@ -476,5 +475,11 @@
   "ods-16": "Paz, justiça e instituições eficazes",
   "ods-16-description": "Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir instituições eficazes, responsáveis e inclusivas a todos os níveis",
   "ods-17": "Parcerias para a implementação dos objetivos",
-  "ods-17-description": "Reforçar os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável"
+  "ods-17-description": "Reforçar os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável",
+  "toolkit.value": "Valor",
+  "toolkit.cause": "Causa",
+  "toolkit.history": "Histórico",
+  "toolkit.search.vouchers": "Pesquisar vouchers",
+  "toolkit.voucher": "voucher",
+  "toolkit.spent": "Utilizado"
 }
