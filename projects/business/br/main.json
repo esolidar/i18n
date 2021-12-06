@@ -1314,5 +1314,23 @@
   "business.accelerator.appForm.form.card.long-answer": "Resposta longa",
   "business.accelerator.appForm.form.card.section": "Seção",
   "business.accelerator.appForm.form.card.file-uploader": "File uploader",
-  "business.accelerator.appForm.form.card.file-uploader.help": "Each file uploader question can accept up to X files smaller than 5 Mb"
+  "business.accelerator.appForm.form.card.file-uploader.help": "Each file uploader question can accept up to X files smaller than 5 Mb",
+
+  "business.accelerator.archived.programs": "Programas arquivados",
+  "business.accelerator.archive": "Arquivar",
+  "business.accelerator.program.details": "Detalhes do programa",
+  "published": "Publicado",
+  "duplicate": "Duplicar",
+  "new": "Novo",
+  "filter": "Filtros",
+  "business.accelerator.program.list.description": "Projetos submetidos para aceleração dentro da {value}",
+  "business.accelerator.program.submit.project": "Criar programa",
+  "business.accelerator.program.all.projects": "Todos os projetos",
+  "business.accelerator.program.my.projects": "Meus projetos",
+  "categories": "Categorias",
+  "all.sdg": "Todos Odss",
+  "learn.more": "Saiba mais",
+  "sdg.description.1": "Objetivos de Desenvolvimento Sustentável  (ODS)",
+  "sdg.description": "Objetivos de Desenvolvimento Sustentável ",
+  "sdg.description.text": "Os Objetivos de Desenvolvimento Sustentável ou ODS são um conjunto de 17 objetivos projetados para ser um \"modelo para alcançar um futuro melhor e mais sustentável para todos\""
 }

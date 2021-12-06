@@ -1315,5 +1315,22 @@
   "business.accelerator.appForm.form.card.long-answer": "Long answer",
   "business.accelerator.appForm.form.card.section": "Section",
   "business.accelerator.appForm.form.card.file-uploader": "File uploader",
-  "business.accelerator.appForm.form.card.file-uploader.help": "Each file uploader question can accept up to X files smaller than 5 Mb"
+  "business.accelerator.appForm.form.card.file-uploader.help": "Each file uploader question can accept up to X files smaller than 5 Mb",
+  "business.accelerator.archived.programs": "Archived programs",
+  "business.accelerator.archive": "Archive",
+  "business.accelerator.program.details": "Program details",
+  "published": "Published",
+  "duplicate": "Duplicate",
+  "new": "New",
+  "filter": "Filter",
+  "business.accelerator.program.list.description": "Projects submitted for acceleration within {value}",
+  "business.accelerator.program.submit.project": "Submit project",
+  "business.accelerator.program.all.projects": "All projects",
+  "business.accelerator.program.my.projects": "My projects",
+  "categories": "Categories",
+  "all.sdg": "All SDGs",
+  "learn.more": "Learn more",
+  "sdg.description.1": "Sustainable Development Goals (SDG)",
+  "sdg.description": "Sustainable Development Goals",
+  "sdg.description.text": "The Sustainable Development Goals or SDGs are a collection of 17 goals designed to be a \"blueprint to achieve a better and more sustainable future for all\""
 }
