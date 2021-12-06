@@ -1332,5 +1332,12 @@
   "learn.more": "Saiba mais",
   "sdg.description.1": "Objetivos de Desenvolvimento Sustentável  (ODS)",
   "sdg.description": "Objetivos de Desenvolvimento Sustentável ",
-  "sdg.description.text": "Os Objetivos de Desenvolvimento Sustentável ou ODS são um conjunto de 17 objetivos projetados para ser um \"modelo para alcançar um futuro melhor e mais sustentável para todos\""
+  "sdg.description.text": "Os Objetivos de Desenvolvimento Sustentável ou ODS são um conjunto de 17 objetivos projetados para ser um \"modelo para alcançar um futuro melhor e mais sustentável para todos\"",
+  "business.accelerator.program.skills.interests.text": "Especifique as competências necessárias dos candidatos e as áreas de interesse que a aceleradora pretende oferecer. Estas seleções ajudarão a encontrar os melhores projetos para a aceleradora.",
+  "business.accelerator.program.hard.skills": "Competências técnicas",
+  "business.accelerator.program.hard.skills.description": "Selecione as competências profissionais ou áreas nas quais os candidatos são experientes ou tem certificações",
+  "business.accelerator.program.soft.skills": "Competências interpessoais",
+  "business.accelerator.program.soft.skills.description": "Selecione as competências interpessoais ou sociais que os candidatos necessitam  ter",
+  "business.accelerator.program.interests": "Interesses",
+  "business.accelerator.program.interests.description": "Selecione  até 3 áreas de interesse nas quais deseja aceitar projetos"
 }
