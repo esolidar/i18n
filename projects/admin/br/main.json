@@ -425,5 +425,6 @@
   "whitelabel.accept.members": "Permitir o registo de membros sem convite?",
   "whitelabel.facebook.share.image": "Facebook partilhar imagem",
   "whitelabel.keywords": "Keywords (Max. 8)",
-  "whitelabel.logo": "Logo"
+  "whitelabel.logo": "Logo",
+  "admin.display.name": "Nome para exibição"
 }

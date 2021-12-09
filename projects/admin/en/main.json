@@ -425,5 +425,6 @@
   "whitelabel.accept.members": "Allow member registration without invite?",
   "whitelabel.facebook.share.image": "Facebook share image",
   "whitelabel.keywords": "Keywords (Max. 8)",
-  "whitelabel.logo": "Logo"
+  "whitelabel.logo": "Logo",
+  "admin.display.name": "Display Name"
 }
