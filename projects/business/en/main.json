@@ -1339,5 +1339,6 @@
   "business.accelerator.program.soft.skills": "Soft skills",
   "business.accelerator.program.soft.skills.description": "Select the interpersonal or social abilities that the candidates need to have",
   "business.accelerator.program.interests": "Interests",
-  "business.accelerator.program.interests.description": "Select up to 3 areas of interest in which you want to accept projects"
+  "business.accelerator.program.interests.description": "Select up to 3 areas of interest in which you want to accept projects",
+  "business.display.name": "Display name"
 }

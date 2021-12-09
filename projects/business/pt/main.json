@@ -1339,5 +1339,6 @@
   "business.accelerator.program.soft.skills": "Competências interpessoais",
   "business.accelerator.program.soft.skills.description": "Selecione as competências interpessoais ou sociais que os candidatos necessitam  ter",
   "business.accelerator.program.interests": "Interesses",
-  "business.accelerator.program.interests.description": "Selecione  até 3 áreas de interesse nas quais deseja aceitar projetos"
+  "business.accelerator.program.interests.description": "Selecione  até 3 áreas de interesse nas quais deseja aceitar projetos",
+  "business.display.name": "Nome para exibição"
 }
