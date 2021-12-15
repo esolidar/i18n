@@ -426,5 +426,6 @@
   "whitelabel.facebook.share.image": "Facebook share image",
   "whitelabel.keywords": "Keywords (Max. 8)",
   "whitelabel.logo": "Logo",
-  "admin.display.name": "Display Name"
+  "admin.display.name": "Display Name",
+  "admin.display.name.minimum.characteres": "Must have at least 3 characters"
 }
