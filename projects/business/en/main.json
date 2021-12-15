@@ -1269,7 +1269,7 @@
   "business.accelerator.appForm.drop-first": "Drag & drop here to add your first question",
   "business.accelerator.appForm.drop-another": "Drag & drop to add another question",
   "business.accelerator.appForm.preview": "Preview",
-  "business.accelerator.appForm.preview.private": "Visibl only to {companyName}'s admins",
+  "business.accelerator.appForm.preview.private": "Visible only to {companyName}'s admins",
   "business.accelerator.appForm.tools.title": "Tools",
   "business.accelerator.appForm.tools.help": "Drag or click to add a question",
   "business.accelerator.appForm.form.title": "Title",
