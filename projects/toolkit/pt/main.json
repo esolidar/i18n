@@ -498,5 +498,6 @@
   "toolkit.accelerator.appForm.form.video.help": "Introduza um link para um vídeo do Youtube ou Vimeo",
   "toolkit.accelerator.appForm.form.categories": "Categorias",
   "toolkit.accelerator.appForm.form.categories.help.preview": "Selecione as áreas ou temas na qual categoriza o seu projeto",
-  "toolkit.accelerator.appForm.form.sdgs": "Objetivos de Desenvolvimento Sustentável"
+  "toolkit.accelerator.appForm.form.sdgs": "Objetivos de Desenvolvimento Sustentável",
+  "invalid.url": "URL inválido"
 }
