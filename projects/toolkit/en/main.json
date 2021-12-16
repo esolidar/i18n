@@ -482,5 +482,13 @@
   "toolkit.history": "History",
   "toolkit.search.vouchers": "Search for vouchers",
   "toolkit.voucher": "voucher",
-  "toolkit.spent": "Spent"
+  "toolkit.spent": "Spent",
+  "toolkit.status.all": "All status",
+  "toolkit.status.new": "New",
+  "toolkit.status.draft": "Draft",
+  "toolkit.status.on-hold": "On hold",
+  "toolkit.status.reviewed": "Reviewed",
+  "toolkit.status.rejected": "Rejected",
+  "toolkit.status.approved": "Approved",
+  "toolkit.status.archived": "Archived"
 }
