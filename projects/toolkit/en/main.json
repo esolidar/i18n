@@ -491,5 +491,12 @@
   "toolkit.status.rejected": "Rejected",
   "toolkit.status.approved": "Approved",
   "toolkit.status.archived": "Archived",
-  "field.required.exact": "Must select {value} options"
+  "field.required.exact": "Must select {value} options",
+  "toolkit.accelerator.appForm.form.title": "Title",
+  "toolkit.accelerator.appForm.form.description": "Description",
+  "toolkit.accelerator.appForm.form.video": "Video",
+  "toolkit.accelerator.appForm.form.video.help": "Specify the link for a Youtube or Vimeo video",
+  "toolkit.accelerator.appForm.form.categories": "Categories",
+  "toolkit.accelerator.appForm.form.categories.help.preview": "Select the areas or themes in which you categorize your project",
+  "toolkit.accelerator.appForm.form.sdgs": "Sustainable Development Goals"
 }
