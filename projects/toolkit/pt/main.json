@@ -490,5 +490,6 @@
   "toolkit.status.reviewed": "Revisto",
   "toolkit.status.rejected": "Rejeitado",
   "toolkit.status.approved": "Aprovado",
-  "toolkit.status.archived": "Arquivado"
+  "toolkit.status.archived": "Arquivado",
+  "field.required.exact": "Deve selecionar {value} opções"
 }
