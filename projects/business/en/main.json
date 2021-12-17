@@ -1361,5 +1361,6 @@
   "business.accelerator.program.interests": "Interests",
   "business.accelerator.program.interests.description": "Select up to 3 areas of interest in which you want to accept projects",
   "business.display.name": "Display name",
-  "business.display.name.minimum.characteres": "Must have at least 3 characters"
+  "business.display.name.minimum.characteres": "Must have at least 3 characters",
+  "untitled": "Untitled"
 }
