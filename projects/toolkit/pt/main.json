@@ -482,5 +482,22 @@
   "toolkit.history": "Histórico",
   "toolkit.search.vouchers": "Pesquisar vouchers",
   "toolkit.voucher": "voucher",
-  "toolkit.spent": "Utilizado"
+  "toolkit.spent": "Utilizado",
+  "toolkit.status.all": "Todos os estados",
+  "toolkit.status.new": "Novo",
+  "toolkit.status.draft": "Rascunho",
+  "toolkit.status.on-hold": "Suspenso",
+  "toolkit.status.reviewed": "Revisto",
+  "toolkit.status.rejected": "Rejeitado",
+  "toolkit.status.approved": "Aprovado",
+  "toolkit.status.archived": "Arquivado",
+  "field.required.exact": "Deve selecionar {value} opções",
+  "toolkit.accelerator.appForm.form.title": "Título",
+  "toolkit.accelerator.appForm.form.description": "Descrição",
+  "toolkit.accelerator.appForm.form.video": "Vídeo",
+  "toolkit.accelerator.appForm.form.video.help": "Introduza um link para um vídeo do Youtube ou Vimeo",
+  "toolkit.accelerator.appForm.form.categories": "Categorias",
+  "toolkit.accelerator.appForm.form.categories.help.preview": "Selecione as áreas ou temas na qual categoriza o seu projeto",
+  "toolkit.accelerator.appForm.form.sdgs": "Objetivos de Desenvolvimento Sustentável",
+  "invalid.url": "URL inválido"
 }
