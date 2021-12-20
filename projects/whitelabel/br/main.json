@@ -516,5 +516,14 @@
   "whitelabel.hard.skills": "Habilidades técnicas",
   "whitelabel.soft.skills": "Habilidades interpessoais",
   "whitelabel.interests": "Interesses",
-  "whitelabel.personalization": "Personalização"
+  "whitelabel.personalization": "Personalização",
+  "whitelabel.accelerator.application.not.started": "O período de inscrição ainda não iniciou",
+  "whitelabel.accelerator.application.not.started.help": "Iniciaremos a aceitar inscrições a partir de {value}. Fique atento!",
+  "whitelabel.accelerator.program": "Qual é o formato do programa?",
+  "whitelabel.accelerator.apply": "Quem pode participar?",
+  "whitelabel.accelerator.where": "Onde vai acontecer?",
+  "whitelabel.accelerator.what.looking.for": "Quem estamos procurando?",
+  "whitelabel.accelerator.up.for.challenge": "Pronto para este desafio?",
+  "whitelabel.accelerator.up.for.challenge.helper": "Envie seu projeto e esteja pronto para disparar sua ideia ao sucesso!",
+  "whitelabel.accelerator.open.until": "As inscrições estão abertas até {value}"
 }
