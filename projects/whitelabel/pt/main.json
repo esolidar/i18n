@@ -524,5 +524,7 @@
   "whitelabel.accelerator.what.looking.for": "Quem estamos a procurar?",
   "whitelabel.accelerator.up.for.challenge": "Pronto para este desafio?",
   "whitelabel.accelerator.up.for.challenge.helper": "Envie seu projeto e esteja pronto para disparar sua ideia ao sucesso!",
-  "whitelabel.accelerator.open.until": "As inscrições estão abertas até {value}"
+  "whitelabel.accelerator.open.until": "As inscrições estão abertas até {value}",
+  "whitelabel.accelerator.closed": "As inscrições estão fechadas",
+  "whitelabel.accelerator.closed.helper": "Já não aceitamos inscrições para este programa. Fique atento para os nossos programas futuros!"
 }
