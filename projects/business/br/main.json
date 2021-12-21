@@ -1363,7 +1363,7 @@
   "business.display.name.minimum.characteres": "Deve ter no mínimo 3 caracteres",
   "untitled": "Sem título",
   "business.accelerator.archive.program": "Arquivar programa",
-  "business.accelerator.archive.text": "<b>{value} projetos ainda</b> estão decorrendo neste programa.",
+  "business.accelerator.archive.text": "<b>{value} projetos</b> ainda estão decorrendo neste programa.",
   "business.accelerator.archive.text.2": "Explique por que você está tomando esta decisão para informar os membros sobre sua motivação.",
   "business.accelerator.archive.question": "Por que você está arquivando o programa?",
   "business.accelerator.config.title": "Excluir programa",
