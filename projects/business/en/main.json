@@ -1362,5 +1362,9 @@
   "business.accelerator.program.interests.description": "Select up to 3 areas of interest in which you want to accept projects",
   "business.display.name": "Display name",
   "business.display.name.minimum.characteres": "Must have at least 3 characters",
-  "untitled": "Untitled"
+  "untitled": "Untitled",
+  "business.accelerator.archive.program": "Archive program",
+  "business.accelerator.archive.text": "<b>{value} projects</b> are still running within this program.",
+  "business.accelerator.archive.text.2": "Please explain why you are making this decision to inform the members of your motivation.",
+  "business.accelerator.archive.question": "Why are you archiving the program?"
 }
