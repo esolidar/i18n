@@ -1366,5 +1366,7 @@
   "business.accelerator.archive.program": "Archive program",
   "business.accelerator.archive.text": "<b>{value} projects</b> are still running within this program.",
   "business.accelerator.archive.text.2": "Please explain why you are making this decision to inform the members of your motivation.",
-  "business.accelerator.archive.question": "Why are you archiving the program?"
+  "business.accelerator.archive.question": "Why are you archiving the program?",
+  "business.accelerator.config.title": "Delete program",
+  "business.accelerator.config.delete.body": "By deleting the program, you won't be able to recover the program's information, such as the application form,  description, and others"
 }

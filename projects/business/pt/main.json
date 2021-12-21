@@ -1365,5 +1365,7 @@
   "business.accelerator.archive.program": "Arquivar programa",
   "business.accelerator.archive.text": "<b>{value} projetos ainda</b> ainda estão a decorrer no programa. ",
   "business.accelerator.archive.text.2": "Explique porquê tomou essa decisão para informar os membros sobre a sua motivação.",
-  "business.accelerator.archive.question": "Porquê arquiva o programa?"
+  "business.accelerator.archive.question": "Porquê arquiva o programa?",
+  "business.accelerator.config.title": "Eliminar programa",
+  "business.accelerator.config.delete.body": "Ao eliminar o programa, não poderá recuperar os dados do programa, como o formulário de inscrição, a descrição e outros"
 }
