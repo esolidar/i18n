@@ -504,5 +504,6 @@
   "toolkit.accelerator.application.not.started.help": "Iniciaremos a aceitar inscrições a partir de {value}. Fique atento!",
   "toolkit.accelerator.open.until": "As inscrições estão abertas até {value}",
   "toolkit.accelerator.closed": "As inscrições estão fechadas",
-  "toolkit.accelerator.closed.helper": "Já não aceitamos inscrições para este programa. Fique atento para os nossos programas futuros!"
+  "toolkit.accelerator.closed.helper": "Já não aceitamos inscrições para este programa. Fique atento para os nossos programas futuros!",
+  "toolkit.projects.submit": "Submeter projeto"
 }
