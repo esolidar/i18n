@@ -499,5 +499,10 @@
   "toolkit.accelerator.appForm.form.categories": "Categories",
   "toolkit.accelerator.appForm.form.categories.help.preview": "Select the areas or themes in which you categorize your project",
   "toolkit.accelerator.appForm.form.sdgs": "Sustainable Development Goals",
-  "invalid.url": "Invalid URL"
+  "invalid.url": "Invalid URL",
+  "toolkit.accelerator.application.not.started": "Application period hasn't started yet",
+  "toolkit.accelerator.application.not.started.help": "We will start accepting applications on the {value}. Stay tuned!",
+  "toolkit.accelerator.open.until": "Applications are open until {value}",
+  "toolkit.accelerator.closed": "Applications are now closed",
+  "toolkit.accelerator.closed.helper": "We are no longer accepting applications for our program. Stay tuned for our future programs!"
 }

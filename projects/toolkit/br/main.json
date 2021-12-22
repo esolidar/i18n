@@ -499,5 +499,10 @@
   "toolkit.accelerator.appForm.form.categories": "Categorias",
   "toolkit.accelerator.appForm.form.categories.help.preview": "Selecione as áreas ou temas em que você categoriza seu projeto",
   "toolkit.accelerator.appForm.form.sdgs": "Objetivos de Desenvolvimento Sustentável",
-  "invalid.url": "URL inválido"
+  "invalid.url": "URL inválido",
+  "toolkit.accelerator.application.not.started": "O período de inscrição ainda não iniciou",
+  "toolkit.accelerator.application.not.started.help": "Iniciaremos a aceitar inscrições a partir de {value}. Fique atento!",
+  "toolkit.accelerator.closed": "As inscrições já fecharam",
+  "toolkit.accelerator.closed.helper": "Não estamos mais aceitando inscrições para nosso programa. Fique atento para nossos programas futuros!",
+  "toolkit.accelerator.open.until": "As inscrições estão abertas até {value}"
 }
