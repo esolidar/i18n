@@ -1321,7 +1321,7 @@
   "business.accelerator.appForm.form.card.multi-choice": "Escolha múltipla ",
   "business.accelerator.appForm.form.card.short-answer": "Resposta curta",
   "business.accelerator.appForm.form.card.long-answer": "Resposta longa",
-  "business.accelerator.appForm.form.card.section": "Seção",
+  "business.accelerator.appForm.form.card.section": "Secção",
   "business.accelerator.appForm.form.card.file-uploader": "Upload de arquivos",
   "business.accelerator.appForm.form.card.file-uploader.help": "Cada pergunta do tipo upload de arquivos pode aceitar até 5 arquivos menores que 5 MB",
   "business.accelerator.appForm.form.card.file-uploader.help.preview": "{initialDot}Selecione até 5 arquivos menores que 5 MB{finalDot}",
@@ -1367,5 +1367,7 @@
   "business.accelerator.archive.text.2": "Explique por que você está tomando esta decisão para informar os membros sobre sua motivação.",
   "business.accelerator.archive.question": "Por que você está arquivando o programa?",
   "business.accelerator.config.title": "Excluir programa",
-  "business.accelerator.config.delete.body": "Ao excluir o programa, você não poderá recuperar os dados do programa, como o formulário de inscrição, a descrição e outros"
+  "business.accelerator.config.delete.body": "Ao excluir o programa, você não poderá recuperar os dados do programa, como o formulário de inscrição, a descrição e outros",
+  "success.published.title": "Você configurou com sucesso o seu programa acelerador!",
+  "success.published": "Agora você está pronto para receber e revisar propostas de projetos"
 }

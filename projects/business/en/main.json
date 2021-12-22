@@ -1368,5 +1368,7 @@
   "business.accelerator.archive.text.2": "Please explain why you are making this decision to inform the members of your motivation.",
   "business.accelerator.archive.question": "Why are you archiving the program?",
   "business.accelerator.config.title": "Delete program",
-  "business.accelerator.config.delete.body": "By deleting the program, you won't be able to recover the program's information, such as the application form,  description, and others"
+  "business.accelerator.config.delete.body": "By deleting the program, you won't be able to recover the program's information, such as the application form,  description, and others",
+  "success.published.title": "You successfully set up your accelerator program!",
+  "success.published": "You're now ready to receive and review project proposals"
 }
