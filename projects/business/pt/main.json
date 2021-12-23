@@ -1370,6 +1370,6 @@
   "business.accelerator.archive.question": "Porquê arquiva o programa?",
   "business.accelerator.config.title": "Eliminar programa",
   "business.accelerator.config.delete.body": "Ao eliminar o programa, não poderá recuperar os dados do programa, como o formulário de inscrição, a descrição e outros",
-  "success.published.title": "Você configurou com sucesso o seu programa acelerador!",
-  "success.published": "Agora você está pronto para receber e rever as propostas de projetos"
+  "success.published.title": "Configurou o programa de aceleração com sucesso!",
+  "success.published": "Já pode para receber e avaliar propostas de projetos"
 }
