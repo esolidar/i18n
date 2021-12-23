@@ -505,5 +505,7 @@
   "toolkit.accelerator.closed": "As inscrições já fecharam",
   "toolkit.accelerator.closed.helper": "Não estamos mais aceitando inscrições para nosso programa. Fique atento para nossos programas futuros!",
   "toolkit.accelerator.open.until": "As inscrições estão abertas até {value}",
-  "toolkit.projects.submit": "Submeter projeto"
+  "toolkit.projects.submit": "Submeter projeto",
+  "rotate.lef": "Esquerda",
+  "rotate.right": "Direita"
 }

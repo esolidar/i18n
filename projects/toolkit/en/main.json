@@ -505,5 +505,7 @@
   "toolkit.accelerator.open.until": "Applications are open until {value}",
   "toolkit.accelerator.closed": "Applications are now closed",
   "toolkit.accelerator.closed.helper": "We are no longer accepting applications for our program. Stay tuned for our future programs!",
-  "toolkit.projects.submit": "Submit Project"
+  "toolkit.projects.submit": "Submit Project",
+  "rotate.lef": "Left",
+  "rotate.right": "Right"
 }
