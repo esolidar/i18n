@@ -1374,5 +1374,6 @@
   "success.published.title": "You successfully set up your accelerator program!",
   "success.published": "You're now ready to receive and review project proposals",
   "project.error.notExist": "Sorry, an error occurred while processing your search",
-  "project.error.notExist.description": "Please try again in a few minutes"
+  "project.error.notExist.description": "Please try again in a few minutes",
+  "business.site.configuration": "Site configuration"
 }

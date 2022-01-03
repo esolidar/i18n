@@ -1373,5 +1373,6 @@
   "success.published.title": "Você configurou seu programa de aceleração com sucesso!",
   "success.published": "Agora você está pronto para receber e revisar propostas de projetos",
   "project.error.notExist": "Desculpe, algo deu errado na pesquisa",
-  "project.error.notExist.description": "Por favor, tente novamente em alguns minutos"
+  "project.error.notExist.description": "Por favor, tente novamente em alguns minutos",
+  "business.site.configuration": "Configuração do site"
 }
