@@ -1374,5 +1374,7 @@
   "success.published": "Já pode receber e avaliar propostas de projetos",
   "project.error.notExist": "Desculpe, um erro ocorreu ao processar a pesquisa",
   "project.error.notExist.description": "Por favor, tente novamente em alguns minutos",
-  "business.site.configuration": "Configuração do site"
+  "business.site.configuration": "Configuração do site",
+  "business.floor": "Chão, porta, etc",
+  "business.additional.address": "Informações adicionais de endereço"
 }

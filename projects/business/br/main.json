@@ -1374,5 +1374,7 @@
   "success.published": "Agora você está pronto para receber e revisar propostas de projetos",
   "project.error.notExist": "Desculpe, algo deu errado na pesquisa",
   "project.error.notExist.description": "Por favor, tente novamente em alguns minutos",
-  "business.site.configuration": "Configuração do site"
+  "business.site.configuration": "Configuração do site",
+  "business.floor": "Chão, porta, etc",
+  "business.additional.address": "Informações adicionais de endereço"
 }

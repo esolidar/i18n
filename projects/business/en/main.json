@@ -1375,5 +1375,7 @@
   "success.published": "You're now ready to receive and review project proposals",
   "project.error.notExist": "Sorry, an error occurred while processing your search",
   "project.error.notExist.description": "Please try again in a few minutes",
-  "business.site.configuration": "Site configuration"
+  "business.site.configuration": "Site configuration",
+  "business.floor": "Floor, door, etc",
+  "business.additional.address": "Additional address information"
 }
