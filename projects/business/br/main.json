@@ -1375,6 +1375,6 @@
   "project.error.notExist": "Desculpe, algo deu errado na pesquisa",
   "project.error.notExist.description": "Por favor, tente novamente em alguns minutos",
   "business.site.configuration": "Configuração do site",
-  "business.floor": "Andar, porta, etc",
-  "business.additional.address": "Informações adicionais de endereço"
+  "business.floor": "Piso, porta, etc",
+  "business.additional.address": "Informações adicionais do endereço"
 }
