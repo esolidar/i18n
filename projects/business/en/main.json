@@ -1246,7 +1246,7 @@
   "business.accelerator.categories.emptyState.title": "You don’t have any categories",
   "business.accelerator.categories.emptyState.subtitle": "Keep everything easy to find and well organized into themes or areas",
   "business.accelerator.categories.add": "Add categories",
-  "business.accelerator.categories.edit": "Edit categories",
+  "business.accelerator.categories.edit": "Edit category",
   "business.accelerator.categories.create": "Create a category",
   "business.accelerator.categories.new": "New category",
   "business.accelerator.categories.count": "{value, number} {value, plural, one {category} other {categories}}",
