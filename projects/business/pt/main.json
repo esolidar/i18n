@@ -1376,5 +1376,7 @@
   "project.error.notExist.description": "Por favor, tente novamente em alguns minutos",
   "business.site.configuration": "Configuração do site",
   "business.floor": "Piso, porta, etc",
-  "business.additional.address": "Informações adicionais do endereço"
+  "business.additional.address": "Informações adicionais do endereço",
+  "business.no.results.found": "Não foram encontrados resultados para a sua pesquisa",
+  "business.no.results.helper": "Por favor, tente outros filtros ou use parâmetros mais gerais"
 }
