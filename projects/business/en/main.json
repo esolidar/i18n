@@ -1378,6 +1378,6 @@
   "business.site.configuration": "Site configuration",
   "business.floor": "Floor, door, etc",
   "business.additional.address": "Additional address information",
-  "business.no.results.found": "Sorry, no results were found your search",
+  "business.no.results.found": "Sorry, no results were found for your search",
   "business.no.results.helper": "Please try other filters or use more general parameters"
 }
