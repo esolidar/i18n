@@ -1371,7 +1371,7 @@
   "business.accelerator.config.title": "Excluir programa",
   "business.accelerator.config.delete.body": "Ao excluir o programa, você não poderá recuperar os dados do programa, como o formulário de inscrição, a descrição e outros",
   "success.published.title": "Você configurou seu programa de aceleração com sucesso!",
-  "success.published": "Agora você está pronto para receber e revisar propostas de projetos",
+  "success.published": "Assim que seu programa começar, você estará pronto para receber e revisar propostas de projetos",
   "project.error.notExist": "Desculpe, algo deu errado na pesquisa",
   "project.error.notExist.description": "Por favor, tente novamente em alguns minutos",
   "business.site.configuration": "Configuração do site",

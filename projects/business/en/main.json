@@ -1372,7 +1372,7 @@
   "business.accelerator.config.title": "Delete program",
   "business.accelerator.config.delete.body": "By deleting the program, you won't be able to recover the program's information, such as the application form,  description, and others",
   "success.published.title": "You successfully set up your accelerator program!",
-  "success.published": "You're now ready to receive and review project proposals",
+  "success.published": "Once the program starts, you'll be ready to receive and review project proposals",
   "project.error.notExist": "Sorry, an error occurred while processing your search",
   "project.error.notExist.description": "Please try again in a few minutes",
   "business.site.configuration": "Site configuration",
