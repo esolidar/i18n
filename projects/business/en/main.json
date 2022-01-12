@@ -1309,7 +1309,7 @@
   "business.accelerator.appForm.form.card.duplicate": "Duplicate",
   "business.accelerator.appForm.form.card.keep": "Keep",
   "business.accelerator.appForm.form.card.keep.private": "Private",
-  "business.accelerator.appForm.form.card.keep.private.description": "Only visible to Acme Inc admins",
+  "business.accelerator.appForm.form.card.keep.private.description": "Only visible to {companyName}'s admins",
   "business.accelerator.appForm.form.card.keep.public": "Public",
   "business.accelerator.appForm.form.card.keep.public.description": "Publicly visible on the project’s detail page",
   "business.accelerator.appForm.form.card.public": "This will be publicly visible",
