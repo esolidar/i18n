@@ -521,5 +521,6 @@
   "whitelabel.accelerator.where": "Where will this happen?",
   "whitelabel.accelerator.what.looking.for": "What we are looking for?",
   "whitelabel.accelerator.up.for.challenge": "Up for the challenge?",
-  "whitelabel.accelerator.up.for.challenge.helper": "Submit your project and be ready to skyrocket your idea to success!"
+  "whitelabel.accelerator.up.for.challenge.helper": "Submit your project and be ready to skyrocket your idea to success!",
+  "whitelabel.projects.submitter.for.acceleration": "Projects submitted for acceleration within our program"
 }

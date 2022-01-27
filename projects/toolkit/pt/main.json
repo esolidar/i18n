@@ -508,5 +508,7 @@
   "toolkit.projects.submit": "Submeter projeto",
   "rotate.lef": "Esquerda",
   "rotate.right": "Direita",
-  "remote": "Remoto"
+  "remote": "Remoto",
+  "load.more": "Carregar mais",
+  "impact.area": "Área de impacto"
 }
