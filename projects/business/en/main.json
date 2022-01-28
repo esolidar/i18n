@@ -1262,6 +1262,7 @@
   "create": "Create",
   "business.accelerator.categories.delete.title": "Delete category",
   "business.accelerator.categories.delete.body": "If you delete the category, you won’t be able to recover the data you manually entered",
+  "business.accelerator.categories.delete.tooltip": "Can’t delete while having projects",
   "business.accelerator.entre.title": "Enter a title",
   "business.accelerator.appForm.title": "Application form",
   "business.accelerator.appForm.subtitle": "The application form allows your candidates to submit and present their project idea for acceleration. This information will be displayed on the project page for the public to see.",
