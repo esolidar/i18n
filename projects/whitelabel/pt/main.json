@@ -522,5 +522,10 @@
   "whitelabel.accelerator.what.looking.for": "Quem estamos a procurar?",
   "whitelabel.accelerator.up.for.challenge": "Pronto para este desafio?",
   "whitelabel.accelerator.up.for.challenge.helper": "Envie seu projeto e esteja pronto para disparar sua ideia ao sucesso!",
-  "whitelabel.projects.submitter.for.acceleration": "Projetos submetidos para aceleração dentro do nosso programa"
+  "whitelabel.projects.submitter.for.acceleration": "Projetos submetidos para aceleração dentro do nosso programa",
+  "whitelabel.search.projects": "Pesquisar projetos...",
+  "whitelabel.sorry.no-resultes": "Lamentamos, mas não foram encontrados resultados para a sua pesquisa",
+  "whitelabel.sorry.no-resultes.message": "Por favor, experimente outros filtros ou use termos e parâmetros mais genéricos",
+  "whitelabel.searching": "Pesquisando...",
+  "whitelabel.searching.message": "Por favor, aguarde enquanto pesquisamos por projetos \"{value}\""
 }
