@@ -528,5 +528,6 @@
   "whitelabel.sorry.no-resultes": "Lamentamos, mas não foram encontrados resultados para sua procura",
   "whitelabel.sorry.no-resultes.message": "Por favor, experimente outros filtros ou use termos e parâmetros mais genéricos",
   "whitelabel.searching": "Procurando...",
-  "whitelabel.searching.message": "Por favor, aguarde enquanto procuramos projetos \"{value}\""
+  "whitelabel.searching.message": "Por favor, aguarde enquanto procuramos projetos \"{value}\"",
+  "whitelabel.find.out.more": "Saber mais"
 }

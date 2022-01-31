@@ -527,5 +527,6 @@
   "whitelabel.sorry.no-resultes": "Sorry, no results were found for your search",
   "whitelabel.sorry.no-resultes.message": "Please try other filters or use more general terms and parameters",
   "whitelabel.searching": "Searching...",
-  "whitelabel.searching.message": "Please wait while we are searching for \"{value}\" projects"
+  "whitelabel.searching.message": "Please wait while we are searching for \"{value}\" projects",
+  "whitelabel.find.out.more": "Find out more"
 }
