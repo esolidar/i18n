@@ -1329,6 +1329,7 @@
   "business.accelerator.appForm.form.card.file-uploader": "File uploader",
   "business.accelerator.appForm.form.card.file-uploader.help": "Each file uploader question can accept up to 5 files smaller than 5 Mb",
   "business.accelerator.appForm.form.card.file-uploader.help.preview": "{initialDot}Select up to 5 files smaller than 5 Mb{finalDot}",
+  "business.accelerator.appForm.banner.live": "Once live, you can no longer edit the application form",
   "business.accelerator.archived.programs": "Archived programs",
   "business.accelerator.archive": "Archive",
   "business.accelerator.program.details": "Program details",
