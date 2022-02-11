@@ -1266,6 +1266,7 @@
   "business.accelerator.appForm.title": "Formulário de inscrição",
   "business.accelerator.appForm.subtitle": "O formulário de inscrição permite que seus candidatos enviem e apresentem sua idéia de projeto para aceleração. Essas informações serão exibidas na página do projeto acessíveis ao público.",
   "business.accelerator.appForm.subtitle-small": "Já adicionamos alguns campos para ajudar você a começar 😉",
+  "business.accelerator.appForm.general-questions": "Questões gerais",
   "business.accelerator.appForm.custom-question": "Questões personalizadas",
   "business.accelerator.appForm.custom-question.subtitle": "Você pode adicionar perguntas adicionais para personalizar o conteúdo da página do projeto, bem como informações enviadas de forma privada pelo participante",
   "business.accelerator.appForm.drop-first": "Arraste e solte aqui para adicionar sua primeira pergunta",

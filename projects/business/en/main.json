@@ -1267,6 +1267,7 @@
   "business.accelerator.appForm.title": "Application form",
   "business.accelerator.appForm.subtitle": "The application form allows your candidates to submit and present their project idea for acceleration. This information will be displayed on the project page for the public to see.",
   "business.accelerator.appForm.subtitle-small": "We already added some fields to get you started 😉",
+  "business.accelerator.appForm.general-questions": "General questions",
   "business.accelerator.appForm.custom-question": "Custom questions",
   "business.accelerator.appForm.custom-question.subtitle": "You can add additional questions to customize the project page content, as well as the information privately submitted by the participant.",
   "business.accelerator.appForm.drop-first": "Drag & drop here to add your first question",
