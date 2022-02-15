@@ -511,5 +511,12 @@
   "rotate.right": "Rotate right",
   "remote": "Remote",
   "load.more": "Load more",
-  "impact.area": "Impact area"
+  "impact.area": "Impact area",
+  "generalDetails": "General details",
+  "locationTime": "Location & Time",
+  "categories": "Categories",
+  "skillsAndInterests": "Impact area & Skills",
+  "applicationForm": "Application form",
+  "paginator.edited": "Edited",
+  "paginator.published": "Published"
 }

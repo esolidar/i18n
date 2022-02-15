@@ -511,5 +511,12 @@
   "rotate.right": "Girar à direita",
   "remote": "Remoto",
   "load.more": "Carregar mais",
-  "impact.area": "Área de impacto"
+  "impact.area": "Área de impacto",
+  "generalDetails": "Detalhes gerais",
+  "locationTime": "Localização e duração",
+  "categories": "Categorias",
+  "skillsAndInterests": "Área de impacto e competências",
+  "applicationForm": "Formulário de inscrição",
+  "paginator.edited": "Editado",
+  "paginator.published": "Publicado"
 }
