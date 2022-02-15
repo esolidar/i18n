@@ -1298,7 +1298,7 @@
   "business.accelerator.appForm.form.sdgs.select": "Selecionar objetivos preferidos",
   "business.accelerator.appForm.form.sdgs.select.help": "Pode especificar quais ODS prefere apoiar. Isso ajudará a classificar as inscrições recebidas.",
   "business.accelerator.appForm.form.sdgs.available": "{value} ODSs disponíveis",
-  "business.accelerator.appForm.form.sdgs.available.preferred": "{value} ODSs preferidos disponíveis",
+  "business.accelerator.appForm.form.sdgs.available.preferred": "{value} objetivos preferidos",
   "business.accelerator.appForm.form.sdgs.modal.help": "Especifique quais ODS prefere apoiar. Isso ajudará a classificar as inscrições recebidas.",
   "business.accelerator.appForm.form.sdgs.modal.goals.add": "Adicionar objetivos",
   "business.accelerator.appForm.form.sdgs.modal.goals.preferred.add": "Adicionar objetivos preferidos",
