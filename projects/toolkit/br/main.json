@@ -518,5 +518,11 @@
   "skillsAndInterests": "Área de impacto e habilidades",
   "applicationForm": "Formulário de inscrição",
   "paginator.edited": "Editado",
-  "paginator.published": "Publicado"
+  "paginator.published": "Publicado",
+  "toolkit.accelerator.program": "Qual é o formato do programa?",
+  "toolkit.accelerator.apply": "Quem pode participar?",
+  "toolkit.accelerator.where": "Onde vai acontecer?",
+  "toolkit.accelerator.what.looking.for": "Quem estamos procurando?",
+  "toolkit.accelerator.up.for.challenge": "Pronto para este desafio?",
+  "toolkit.accelerator.up.for.challenge.helper": "Envie seu projeto e esteja pronto para disparar sua ideia ao sucesso!"
 }

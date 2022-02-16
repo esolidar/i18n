@@ -518,5 +518,11 @@
   "skillsAndInterests": "Impact area & Skills",
   "applicationForm": "Application form",
   "paginator.edited": "Edited",
-  "paginator.published": "Published"
+  "paginator.published": "Published",
+  "toolkit.accelerator.program": "What is the program’s format?",
+  "toolkit.accelerator.apply": "Who should apply?",
+  "toolkit.accelerator.where": "Where will this happen?",
+  "toolkit.accelerator.what.looking.for": "What we are looking for?",
+  "toolkit.accelerator.up.for.challenge": "Up for the challenge?",
+  "toolkit.accelerator.up.for.challenge.helper": "Submit your project and be ready to skyrocket your idea to success!"
 }
