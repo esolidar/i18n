@@ -1286,7 +1286,7 @@
   "business.accelerator.appForm.form.description.read-only": "Descrição do projeto",
   "business.accelerator.appForm.form.description.read-only.help": "Solicitará para escrever uma descrição concisa e descritiva do projeto",
   "business.accelerator.appForm.form.video": "Vídeo",
-  "business.accelerator.appForm.form.video.preview.help": "Introduza um link para um vídeo do Youtube ou Vimeo",
+  "business.accelerator.appForm.form.video.preview.help": "Isto é opcional, mas vídeos ajudam a promover e condensar o seu conceito para ser facilmente digerido por revisores e visitantes.{br}{br}Introduza um link para um vídeo do Youtube ou Vimeo",
   "business.accelerator.appForm.form.video.placeholder": "https://www.youtube.com/watch?v=meuvideo",
   "business.accelerator.appForm.form.video.read-only-help": "Isto é opcional e solicitará para anexar um vídeo para ajudar a promover e apresentar o projeto",
   "business.accelerator.appForm.form.images": "Imagens",
