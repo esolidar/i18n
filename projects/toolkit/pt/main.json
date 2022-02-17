@@ -527,5 +527,10 @@
   "toolkit.accelerator.up.for.challenge.helper": "Envie seu projeto e esteja pronto para disparar sua ideia ao sucesso!",
   "toolkit.accelarator.title": "Aceleradora",
   "toolkit.hard.skills": "Competências técnicas",
-  "toolkit.soft.skills": "Competências interpessoais"
+  "toolkit.soft.skills": "Competências interpessoais",
+  "toolkit.acceleration.preview.title": "O título do seu programa será exibido aqui",
+  "toolkit.acceleration.preview.intro": "A introdução do seu programa irá substituir esta secção. A introdução do programa apresentará uma breve descrição do seu programa de aceleração para visitantes e seguidores.",
+  "toolkit.acceleration.preview.format": "As informações do formato do seu programa serão exibidas aqui",
+  "toolkit.acceleration.preview.location": "A localização do seu programa será exibida aqui",
+  "toolkit.acceleration.preview.applicants": "As informações dos candidatos do seu programa serão exibidas aqui"
 }

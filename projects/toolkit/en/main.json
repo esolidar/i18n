@@ -527,5 +527,10 @@
   "toolkit.accelerator.up.for.challenge.helper": "Submit your project and be ready to skyrocket your idea to success!",
   "toolkit.accelarator.title": "Accelerator",
   "toolkit.hard.skills": "Hard skills",
-  "toolkit.soft.skills": "Soft skills"
+  "toolkit.soft.skills": "Soft skills",
+  "toolkit.acceleration.preview.title": "Your program title will be displayed here",
+  "toolkit.acceleration.preview.intro": "Your program intro will replace this section. The program intro will present a brief description of your acceleration program to your viewers and followers.",
+  "toolkit.acceleration.preview.format": "Your program format information will be displayed here",
+  "toolkit.acceleration.preview.location": "Your program’s location will be displayed here",
+  "toolkit.acceleration.preview.applicants": "Your program applicants information will be displayed here"
 }
