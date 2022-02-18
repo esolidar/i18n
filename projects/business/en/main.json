@@ -1400,5 +1400,6 @@
   "business.modal.update.program.body": "Once you update, the program will become public, making your latest changes public to everyone",
   "business.modal.publish.program.title": "Publish program?",
   "business.modal.publish.program.body": "Once you publish, the program will become public, and you will no longer be able to make major changes, such as editing the application form.",
-  "business.title.required": "Please enter a title"
+  "business.title.required": "Please enter a title",
+  "business.close.preview": "Close preview"
 }
