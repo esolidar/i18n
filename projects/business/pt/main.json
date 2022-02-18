@@ -1390,5 +1390,15 @@
   "business.floor": "Piso, porta, etc",
   "business.additional.address": "Informações adicionais do endereço",
   "business.no.results.found": "Não foram encontrados resultados para a sua pesquisa",
-  "business.no.results.helper": "Por favor, tente outros filtros ou use parâmetros mais gerais"
+  "business.no.results.helper": "Por favor, tente outros filtros ou use parâmetros mais gerais",
+  "business.preview.draft": "Pré-visualizar rascunho",
+  "business.discard.draft": "Descartar rascunho",
+  "business.discard.changes": "Descartar alterações?",
+  "business.discard": "Descartar",
+  "business.discard.close": "Descartar e Fechar",
+  "business.modal.update.program.title": "Atualizar programa?",
+  "business.modal.update.program.body": "Após atualizar, o programa se tornará público, apresentando as últimas alterações visíveis para todos",
+  "business.modal.publish.program.title": "Publicar programa?",
+  "business.modal.publish.program.body": "Após publicar, o programa se tornará público e não poderá efetuar mais alterações significativas, como editar o formulário de inscrição.",
+  "business.title.required": "Por favor, introduza um título"
 }
