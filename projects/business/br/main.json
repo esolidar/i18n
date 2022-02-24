@@ -1401,5 +1401,7 @@
   "business.modal.publish.program.title": "Publicar programa?",
   "business.modal.publish.program.body": "Depois de publicar, seu programa se tornará público e você não poderá mais fazer mais alterações significativas, como editar o formulário de inscrição.",
   "business.title.required": "Por favor, insira um título",
-  "business.close.preview": "Fechar visualização"
+  "business.close.preview": "Fechar visualização",
+  "business.cant.edit.program.duration": "Uma vez Live, você não pode editar a duração de seu programa",
+  "business.cant.edit.program.skills": "Uma vez Live, você não pode editar nem a área de impacto, nem as habilidades"
 }

@@ -1401,5 +1401,7 @@
   "business.modal.publish.program.title": "Publish program?",
   "business.modal.publish.program.body": "Once you publish, the program will become public, and you will no longer be able to make major changes, such as editing the application form.",
   "business.title.required": "Please enter a title",
-  "business.close.preview": "Close preview"
+  "business.close.preview": "Close preview",
+  "business.cant.edit.program.duration": "Once live, you can't edit the program's duration",
+  "business.cant.edit.program.skills": "Once live, you can't edit neither impact area nor skills"
 }
