@@ -931,5 +931,6 @@
   "esolidar.setPassword.success.title": "You successfully set up your password!",
   "esolidar.setPassword.success.subtitle": "Nice job! Your password is set and works like a charm.",
   "esolidar.changePassword.success.title": "Password updated",
-  "esolidar.changePassword.success.subtitle": "You can now use your new password when logging in."
+  "esolidar.changePassword.success.subtitle": "You can now use your new password when logging in.",
+  "esolidar.facebook.configure.password": "Used to login with Facebook?"
 }

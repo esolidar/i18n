@@ -931,5 +931,6 @@
   "esolidar.setPassword.success.title": "Você criou uma senha com sucesso!",
   "esolidar.setPassword.success.subtitle": "Bom trabalho! Sua senha foi criada e funciona perfeitamente.",
   "esolidar.changePassword.success.title": "Senha atualizada",
-  "esolidar.changePassword.success.subtitle": "Você já pode usar sua nova senha para acessar a plataforma."
+  "esolidar.changePassword.success.subtitle": "Você já pode usar sua nova senha para acessar a plataforma.",
+  "esolidar.facebook.configure.password": "Entrava com Facebook?"
 }
