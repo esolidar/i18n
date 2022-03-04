@@ -1220,7 +1220,7 @@
   "business.accelerator.create.program": "Criar programa",
   "business.accelerator.empty.title": "Nenhuma aceleradora configurada... comece agora!",
   "business.accelerator.empty.subtitle": "Crie um programa e comece a receber inscrições de projetos",
-  "business.accelerator.empty.button": "Configurar agora ",
+  "business.accelerator.empty.button": "Configurar aceleradora",
   "save.and.close": "Salvar e Fechar",
   "business.accelerator.wizard.step.2": "Localização e Duração",
   "business.accelerator.wizard.step.3": "Categorias",
