@@ -534,5 +534,6 @@
   "toolkit.acceleration.preview.format": "Your program format information will be displayed here",
   "toolkit.acceleration.preview.location": "Your program’s location will be displayed here",
   "toolkit.acceleration.preview.applicants": "Your program applicants information will be displayed here",
-  "toolkit.cancel.program.changes": "Cancel program changes"
+  "toolkit.cancel.program.changes": "Cancel program changes",
+  "toolkit.untitled": "Untitled"
 }

@@ -533,5 +533,6 @@
   "toolkit.acceleration.preview.format": "As informações do formato do seu programa serão exibidas aqui",
   "toolkit.acceleration.preview.location": "A localização do seu programa será exibida aqui",
   "toolkit.acceleration.preview.applicants": "As informações dos candidatos do seu programa serão exibidas aqui",
-  "toolkit.cancel.program.changes": "Cancelar alterações do programa"
+  "toolkit.cancel.program.changes": "Cancelar alterações do programa",
+  "toolkit.untitled": "Sem título"
 }
