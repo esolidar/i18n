@@ -522,5 +522,9 @@
   "whitelabel.sorry.no-resultes.message": "Por favor, experimente outros filtros ou use termos e parâmetros mais genéricos",
   "whitelabel.searching": "Pesquisando...",
   "whitelabel.searching.message": "Por favor, aguarde enquanto pesquisamos por projetos \"{value}\"",
-  "whitelabel.find.out.more": "Saber mais"
+  "whitelabel.find.out.more": "Saber mais",
+  "whitelabel.accelerator.title": "Aceleradora",
+  "whitelabel.accelerator.subtitle": "Acelere projetos que promovam soluções inovadoras na solução de problemas e necessidades socioambientais",
+  "whitelabel.accelerator.archived.programs": "Programas arquivados",
+  "whitelabel.accelerator.program.details": "Detalhes do programa"
 }
