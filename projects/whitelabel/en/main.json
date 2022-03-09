@@ -529,5 +529,6 @@
   "whitelabel.accelerator.program.details": "Program details",
   "whitelabel.accelerator.empty.title": "{value} doesn’t have an accelerator but...",
   "whitelabel.accelerator.empty.subtitle": "Need help to develop your ideas? Why not propose a program?",
-  "whitelabel.accelerator.empty.button": "Send us your idea"
+  "whitelabel.accelerator.empty.button": "Send us your idea",
+  "whitelabel.accelerator.empty.email.subject": "Want in? Let’s join forces on this innovative solution..."
 }
