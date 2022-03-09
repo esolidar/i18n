@@ -544,5 +544,7 @@
   "toolkit.success.journey.start": "Your journey is about to start!",
   "toolkit.success.project.pending.approval": "Your project is now pending approval by {companyName}.",
   "toolkit.success.automatically.close": "This page will automatically close after {time} secs",
-  "toolkit.visible.only.admins": "Visible only to {companyName}’s admins"
+  "toolkit.visible.only.admins": "Visible only to {companyName}’s admins",
+  "toolkit.checkbox.range.exact": "Select exactly {value} answers",
+  "toolkit.checkbox.range.range": "Select from {rangeMin} to {rangeMax} answers."
 }

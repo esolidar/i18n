@@ -543,5 +543,7 @@
   "toolkit.success.journey.start": "A sua jornada está prestes a começar!",
   "toolkit.success.project.pending.approval": "O projeto está com pendente de aprovação por {companyName}.",
   "toolkit.success.automatically.close": "Esta página será fechada automaticamente após {time} segundos",
-  "toolkit.visible.only.admins": "Visível apenas para administradores de {companyName}"
+  "toolkit.visible.only.admins": "Visível apenas para administradores de {companyName}",
+  "toolkit.checkbox.range.exact": "Selecione exatamente {value} respostas",
+  "toolkit.checkbox.range.range": "Selecione {rangeMin} a {rangeMax} respostas."
 }
