@@ -529,5 +529,6 @@
   "whitelabel.accelerator.archived.programs": "Programas arquivados",
   "whitelabel.accelerator.program.details": "Detalhes do programa",
   "whitelabel.accelerator.empty.title": "{value} não possui uma aceleradora, mas...",
-  "whitelabel.accelerator.empty.subtitle": "Precisa de ajuda para desenvolver as suas ideias? Porque não propor um programa?"
+  "whitelabel.accelerator.empty.subtitle": "Precisa de ajuda para desenvolver as suas ideias? Porque não propor um programa?",
+  "whitelabel.accelerator.empty.button": "Envie-nos a sua ideia"
 }
