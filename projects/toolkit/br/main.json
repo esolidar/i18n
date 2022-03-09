@@ -536,5 +536,12 @@
   "toolkit.cancel.program.changes": "Cancelar alterações do programa",
   "continue": "Continuar",
   "publish": "Publicar",
-  "toolkit.untitled": "Sem título"
+  "toolkit.untitled": "Sem título",
+  "close": "Fechar",
+  "toolkit.success.published.project": "Você publicou seu projeto com sucesso!",
+  "toolkit.success.ready": "Está pronto {user}?",
+  "toolkit.success.journey.start": "Sua jornada está prestes a começar",
+  "toolkit.success.project.pending.approval": "Seu projeto está com pendente de aprovação por {companyName}.",
+  "toolkit.success.automatically.close": "Esta página será fechada automaticamente após {time} segundos",
+  "toolkit.visible.only.admins": "Visível apenas para os administradores da {companyName}"
 }

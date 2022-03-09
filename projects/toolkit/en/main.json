@@ -537,5 +537,12 @@
   "toolkit.cancel.program.changes": "Cancel program changes",
   "continue": "Continue",
   "publish": "Publish",
-  "toolkit.untitled": "Untitled"
+  "toolkit.untitled": "Untitled",
+  "close": "Close",
+  "toolkit.success.published.project": "You successfully published your project!",
+  "toolkit.success.ready": "Ready {user}?",
+  "toolkit.success.journey.start": "Your journey is about to start!",
+  "toolkit.success.project.pending.approval": "Your project is now pending approval by {companyName}.",
+  "toolkit.success.automatically.close": "This page will automatically close after {time} secs",
+  "toolkit.visible.only.admins": "Visible only to {companyName}’s admins"
 }
