@@ -528,6 +528,6 @@
   "whitelabel.accelerator.subtitle": "Acelere projetos que promovam soluções inovadoras na solução de problemas e necessidades socioambientais ",
   "whitelabel.accelerator.archived.programs": "Programas arquivados",
   "whitelabel.accelerator.program.details": "Detalhes do programa",
-  "whitelabel.accelerator.empty.title": "Você não configurou sua aceleradora...faça isso agora mesmo!",
-  "whitelabel.accelerator.empty.subtitle": "Crie seu programa e comece a receber inscrições de projetos"
+  "whitelabel.accelerator.empty.title": "{value} não possui uma aceleradora, mas...",
+  "whitelabel.accelerator.empty.subtitle": "Precisa de ajuda para desenvolver as suas ideias? Porque não propor um programa?"
 }

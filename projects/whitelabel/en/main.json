@@ -527,6 +527,6 @@
   "whitelabel.accelerator.subtitle": "Accelerate projects that promote innovative solutions in solving social and environmental problems and needs",
   "whitelabel.accelerator.archived.programs": "Archived programs",
   "whitelabel.accelerator.program.details": "Program details",
-  "whitelabel.accelerator.empty.title": "You haven’t set up your accelerator... yet!",
-  "whitelabel.accelerator.empty.subtitle": "Create your program and start receiving project applications"
+  "whitelabel.accelerator.empty.title": "{value} doesn’t have an accelerator but...",
+  "whitelabel.accelerator.empty.subtitle": "Need help to develop your ideas? Why not propose a program?"
 }
