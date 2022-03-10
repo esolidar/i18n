@@ -533,5 +533,14 @@
   "whitelabel.accelerator.empty.email.subject": "Interessados? Quer unir forças nesta solução inovadora...",
   "whitelabel.accelerator.program.all.projects": "Todos os projetos",
   "whitelabel.accelerator.program.my.projects": "Meus projetos",
-  "whitelabel.accelerator.program.submit.project": "Submeter projeto"
+  "whitelabel.accelerator.program.submit.project": "Submeter projeto",
+  "whitelabel.accelerator.program.details.copy": "Copiar link do programa",
+  "whitelabel.accelerator.program.details.copied": "Link do programa copiado",
+  "whitelabel.accelerator.program.list.description": "Projetos submetidos para aceleração dentro da {value}",
+  "whitelabel.accelerator.program.details.empty-state.title": "Nada para acelerar",
+  "whitelabel.accelerator.program.details.empty-state.subtitle": "Porque não partilhar a aceleradora com os seus contactos? Porque não criar o seu próprio projeto?",
+  "whitelabel.filter": "Filtros",
+  "whitelabel.categories": "Categorias",
+  "whitelabel.all.sdg": "ODSs",
+  "whitelabel.learn.more": "Saiba mais"
 }

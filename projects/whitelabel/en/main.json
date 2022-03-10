@@ -533,5 +533,14 @@
   "whitelabel.accelerator.empty.email.subject": "Want in? Let's join forces on this innovative solution...",
   "whitelabel.accelerator.program.all.projects": "All projects",
   "whitelabel.accelerator.program.my.projects": "My projects",
-  "whitelabel.accelerator.program.submit.project": "Submit project"
+  "whitelabel.accelerator.program.submit.project": "Submit project",
+  "whitelabel.accelerator.program.details.copy": "Copy program link",
+  "whitelabel.accelerator.program.details.copied": "Program link copied",
+  "whitelabel.accelerator.program.list.description": "Projects submitted for acceleration within {value}",
+  "whitelabel.accelerator.program.details.empty-state.title": "Nothing to accelerate",
+  "whitelabel.accelerator.program.details.empty-state.subtitle": "Why not share the accelerator with your contacts? Or start with your own project?",
+  "whitelabel.filter": "Filter",
+  "whitelabel.categories": "Categories",
+  "whitelabel.all.sdg": "SDGs",
+  "whitelabel.learn.more": "Learn more"
 }
