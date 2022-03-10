@@ -531,5 +531,8 @@
   "whitelabel.accelerator.empty.title": "{value} não possui uma aceleradora, mas...",
   "whitelabel.accelerator.empty.subtitle": "Precisa de ajuda para desenvolver as suas ideias? Porque não propor um programa?",
   "whitelabel.accelerator.empty.button": "Envie-nos sua ideia",
-  "whitelabel.accelerator.empty.email.subject": "Interessados? Vamos unir forças nesta solução inovadora..."
+  "whitelabel.accelerator.empty.email.subject": "Interessados? Vamos unir forças nesta solução inovadora...",
+  "whitelabel.accelerator.program.all.projects": "Todos os projetos",
+  "whitelabel.accelerator.program.my.projects": "Meus projetos",
+  "whitelabel.accelerator.program.submit.project": "Submeter projeto"
 }
