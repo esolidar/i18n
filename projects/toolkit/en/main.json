@@ -546,5 +546,7 @@
   "toolkit.success.automatically.close": "This page will automatically close after {time} secs",
   "toolkit.visible.only.admins": "Visible only to {companyName}’s admins",
   "toolkit.checkbox.range.exact": "Select exactly {value} answers",
-  "toolkit.checkbox.range.range": "Select from {rangeMin} to {rangeMax} answers."
+  "toolkit.checkbox.range.range": "Select from {rangeMin} to {rangeMax} answers.",
+  "toolkit.please": "Please",
+  "toolkit.please.select.option": "Please select an option"
 }
