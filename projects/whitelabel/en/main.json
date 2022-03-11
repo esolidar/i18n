@@ -542,5 +542,8 @@
   "whitelabel.filter": "Filter",
   "whitelabel.categories": "Categories",
   "whitelabel.all.sdg": "SDGs",
-  "whitelabel.learn.more": "Learn more"
+  "whitelabel.learn.more": "Learn more",
+  "whitelabel.sdg.title": "Sustainable Development Goals (SDG)",
+  "whitelabel.sdg.description": "Sustainable Development Goals",
+  "whitelabel.sdg.description.text": "The Sustainable Development Goals or SDGs are a collection of 17 goals designed to be a \"blueprint to achieve a better and more sustainable future for all\""
 }
