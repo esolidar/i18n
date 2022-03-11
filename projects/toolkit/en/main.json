@@ -550,5 +550,9 @@
   "toolkit.please": "Please",
   "toolkit.please.select.option": "Please select an option",
   "toolkit.welcome.aboard.user": "Welcome aboard {userName}.",
-  "toolkit.project.description.description": "Describe your project idea in a concise and descriptive manner, sharing all the amazing things you want to achieve!"
+  "toolkit.project.description.description": "Describe your project idea in a concise and descriptive manner, sharing all the amazing things you want to achieve!",
+  "toolkit.images": "Images",
+  "toolkit.project.images.description-1": "Upload images to help promote and communicate your project's value.",
+  "toolkit.project.images.description-2": "Your cover image should help you grab your viewers' attention, portraying a loyal representation of your idea.",
+  "toolkit.project.images.helper": "Select at least one image with at least {width} by {heigth}px smaller than {size} Mb"
 }
