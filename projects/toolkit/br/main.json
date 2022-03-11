@@ -548,6 +548,6 @@
   "toolkit.checkbox.range.range": "Selecione {rangeMin} a {rangeMax} respostas.",
   "toolkit.please": "Por favor",
   "toolkit.please.select.option": "Por favor selecione uma opção",
-  "toolkit.welcome.aboard.user": "Bem-vindo a bordo {userName}",
+  "toolkit.welcome.aboard.user": "Bem-vindo a bordo {userName}.",
   "toolkit.project.description.description": "Descreva sua ideia de projeto de forma concisa e descritiva, compartilhando todas as coisas incríveis que você deseja alcançar!"
 }
