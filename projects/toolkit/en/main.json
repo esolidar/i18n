@@ -548,5 +548,7 @@
   "toolkit.checkbox.range.exact": "Select exactly {value} answers",
   "toolkit.checkbox.range.range": "Select from {rangeMin} to {rangeMax} answers.",
   "toolkit.please": "Please",
-  "toolkit.please.select.option": "Please select an option"
+  "toolkit.please.select.option": "Please select an option",
+  "toolkit.welcome.aboard.user": "Welcome aboard {userName}",
+  "toolkit.project.description.description": "Describe your project idea in a concise and descriptive manner, sharing all the amazing things you want to achieve!"
 }
