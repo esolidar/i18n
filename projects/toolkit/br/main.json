@@ -557,6 +557,7 @@
   "toolkit.project.video.description-1": "Uma imagem vale mais que mil palavras, mas acreditamos que um vídeo vale um bilhão!",
   "toolkit.project.video.description-2": "Isso é opcional, mas ter um vídeo ajudará você a promover e condensar seu conceito para ser facilmente digerido por revisores e seguidores de seu projeto.",
   "toolkit.project.video.helper": "Insira o link para um vídeo do Youtube ou Vimeo",
+  "toolkit.project.video.error": "Lamentamos, mas seu vídeo não está disponível",
   "toolkit.cover": "Capa",
   "toolkit.empty-state.categories.description": "Mantenha o projeto fácil de encontrar, organizando-o numa categoria",
   "toolkit.empty-state.categories.heading": "Não selecionou nenhuma categoria",
