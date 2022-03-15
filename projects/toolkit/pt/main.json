@@ -557,5 +557,11 @@
   "toolkit.project.video.description-1": "Uma imagem vale mais que mil palavras, mas acreditamos que um vídeo vale um bilhão!",
   "toolkit.project.video.description-2": "Este campo é opcional, mas ter um vídeo ajudará a promover e condensar o seu conceito para ser mais facilmente digerido por avaliadores e seguidores do projeto.",
   "toolkit.project.video.helper": "Introduza o link para um vídeo do Youtube ou Vimeo",
-  "toolkit.cover": "Capa"
+  "toolkit.cover": "Capa",
+  "toolkit.empty-state.categories.description": "Torne seu projeto fácil de encontrar, organizando-o em uma categoria",
+  "toolkit.empty-state.categories.heading": "Não selecionou nenhuma categoria",
+  "toolkit.select-categories": "Selecionar categorias",
+  "toolkit.project.categories.description": "Adicionar áreas ou temas ajuda a categorizar o projeto dentro do programa",
+  "toolkit.categories.add": "Adicionar categorias",
+  "toolkit.x.categories.selected": "{value, number} {value, plural, one {categoria selecionada} other {categorias selecionadas}}"
 }

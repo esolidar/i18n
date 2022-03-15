@@ -558,5 +558,11 @@
   "toolkit.project.video.description-1": "An image is worth a thousand words, but we believe a video is worth a billion!",
   "toolkit.project.video.description-2": "This is optional, but having a video will help you promote and condense your concept to be easily digested by reviewers and viewers.",
   "toolkit.project.video.helper": "Enter the link for a Youtube or Vimeo video",
-  "toolkit.cover": "Cover"
+  "toolkit.cover": "Cover",
+  "toolkit.empty-state.categories.description": "Make your project easier to find by organizing it within a category",
+  "toolkit.empty-state.categories.heading": "You haven’t selected any category yet",
+  "toolkit.select-categories": "Select categories",
+  "toolkit.project.categories.description": "Adding areas or themes will help you categorize your project within the program",
+  "toolkit.categories.add": "Add categories",
+  "toolkit.x.categories.selected": "{value, number} {value, plural, one {category} other {categories}} selected"
 }
