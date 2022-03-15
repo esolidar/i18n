@@ -565,5 +565,14 @@
   "toolkit.select-categories": "Select categories",
   "toolkit.project.categories.description": "Adding areas or themes will help you categorize your project within the program",
   "toolkit.categories.add": "Add categories",
-  "toolkit.x.categories.selected": "{value, number} {value, plural, one {category} other {categories}} selected"
+  "toolkit.x.categories.selected": "{value, number} {value, plural, one {category} other {categories}} selected",
+  "toolkit.add.goals": "Add goals",
+  "toolkit.preferred.goals": "Preferred goals",
+  "toolkit.all.other.goals": "All other goals",
+  "tooliit.empty-state.sdgs.description": "Give visibility of what your project wants to achieve",
+  "toolkit.select.goals": "Select goals",
+  "toolkit.empty-state.sdgs.heading": "You haven’t selected any goals yet",
+  "toolkit.project.sdgs.description": "What does your project aspire to achieve?",
+  "toolkit.project.sdgs.description.bottom": "Select the SDGs to give visibility of what your project aims to support.",
+  "toolkit.x.sdg.selected": "{value, number} {value, plural, one {goal} other {goals}} selected"
 }
