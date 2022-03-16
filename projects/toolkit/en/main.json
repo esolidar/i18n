@@ -554,7 +554,7 @@
   "toolkit.images": "Images",
   "toolkit.project.images.description-1": "We recommend at least 3 or more images to help promote and communicate your project's value.",
   "toolkit.project.images.description-2": "Your cover image should help you grab your viewers' attention, portraying a loyal representation of your idea.",
-  "toolkit.project.images.helper": "Select at least one image with at least {width} by {heigth}px smaller than {size} Mb",
+  "toolkit.project.images.helper": "Select at least one image smaller than {size} Mb",
   "toolkit.project.video.description-1": "An image is worth a thousand words, but we believe a video is worth a billion!",
   "toolkit.project.video.description-2": "This is optional, but having a video will help you promote and condense your concept to be easily digested by reviewers and viewers.",
   "toolkit.project.video.helper": "Enter the link for a Youtube or Vimeo video",
