@@ -553,7 +553,7 @@
   "toolkit.images": "Imagens",
   "toolkit.project.images.description-1": "Recomendamos 3 ou mais imagens para ajudar a promover e comunicar o valor do seu projeto.",
   "toolkit.project.images.description-2": "A sua imagem de capa deve ajudá-lo a atrair a atenção dos seguidores, retratando uma representação fiel da ideia do projeto.",
-  "toolkit.project.images.helper": "Selecione uma ou mais imagens com pelo menos {width} por {heigth}}px menor que {size}Mb",
+  "toolkit.project.images.helper": "Selecione uma ou mais imagens com pelo menos {width} por {heigth}px menor que {size}Mb",
   "toolkit.project.video.description-1": "Uma imagem vale mais que mil palavras, mas acreditamos que um vídeo vale um bilhão!",
   "toolkit.project.video.description-2": "Este campo é opcional, mas ter um vídeo ajudará a promover e condensar o seu conceito para ser mais facilmente digerido por avaliadores e seguidores do projeto.",
   "toolkit.project.video.helper": "Introduza o link para um vídeo do Youtube ou Vimeo",
