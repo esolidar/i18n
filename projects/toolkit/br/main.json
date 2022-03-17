@@ -565,7 +565,6 @@
   "toolkit.project.categories.description": "Adicionar áreas ou temas ajudará você a categorizar seu projeto no programa",
   "toolkit.categories.add": "Adicionar categorias",
   "toolkit.x.categories.selected": "{value, number} {value, plural, one {categoria selecionada} other {categorias selecionadas}}",
-
   "toolkit.add.goals": "Adicionar objetivos",
   "toolkit.preferred.goals": "Objetivos preferidos",
   "toolkit.all.other.goals": "Todos os outros objetivos",
@@ -574,5 +573,8 @@
   "toolkit.empty-state.sdgs.heading": "Você não selecionou nenhum objetivo",
   "toolkit.project.sdgs.description": "O que seu projeto pretende alcançar?",
   "toolkit.project.sdgs.description.bottom": "Selecione as ODS para dar visibilidade ao que seu projeto visa apoiar.",
-  "toolkit.x.sdg.selected": "{value, number} {value, plural, one {objetivo selecionado} other {objetivos selecionados}}"
+  "toolkit.x.sdg.selected": "{value, number} {value, plural, one {objetivo selecionado} other {objetivos selecionados}}",
+  "toolkit.delete.file": "Excluir arquivo?",
+  "toolkit.delete.file.description": "Se você excluir o arquivo, não poderá recuperá-lo",
+  "toolkit.project.files.helper": "Selecione até {maxFiles} arquivos menores que {maxSize} Mb"
 }

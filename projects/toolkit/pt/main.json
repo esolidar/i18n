@@ -574,5 +574,8 @@
   "toolkit.empty-state.sdgs.heading": "Não selecionou nenhum objetivo",
   "toolkit.project.sdgs.description": "O quê que o projeto pretende alcançar?",
   "toolkit.project.sdgs.description.bottom": "Selecione as ODS para dar visibilidade ao que o projeto tenciona apoiar",
-  "toolkit.x.sdg.selected": "{value, number} {value, plural, one {objetivo selecionado} other {objetivos selecionados}}"
+  "toolkit.x.sdg.selected": "{value, number} {value, plural, one {objetivo selecionado} other {objetivos selecionados}}",
+  "toolkit.delete.file": "Eliminar ficheiro?",
+  "toolkit.delete.file.description": "Se eliminar o ficheiro, não poderá recuperá-lo",
+  "toolkit.project.files.helper": "Selecione até {maxFiles} ficheiros menores que {maxSize} Mb"
 }

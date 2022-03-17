@@ -574,5 +574,8 @@
   "toolkit.empty-state.sdgs.heading": "You haven’t selected any goals yet",
   "toolkit.project.sdgs.description": "What does your project aspire to achieve?",
   "toolkit.project.sdgs.description.bottom": "Select the SDGs to give visibility of what your project aims to support.",
-  "toolkit.x.sdg.selected": "{value, number} {value, plural, one {goal} other {goals}} selected"
+  "toolkit.x.sdg.selected": "{value, number} {value, plural, one {goal} other {goals}} selected",
+  "toolkit.delete.file": "Delete file?",
+  "toolkit.delete.file.description": "If you delete the file, you won’t be able to recover it",
+  "toolkit.project.files.helper": "Select up to {maxFiles} files smaller than {maxSize} Mb"
 }
