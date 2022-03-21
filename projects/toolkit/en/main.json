@@ -535,6 +535,7 @@
   "toolkit.acceleration.preview.location": "Your program’s location will be displayed here",
   "toolkit.acceleration.preview.applicants": "Your program applicants information will be displayed here",
   "toolkit.cancel.program.changes": "Cancel program changes",
+  "toolkit.cancel.project.changes": "Cancel project changes",
   "continue": "Continue",
   "publish": "Publish",
   "toolkit.untitled": "Untitled",
@@ -580,5 +581,6 @@
   "toolkit.project.files.helper": "Select up to {maxFiles} files smaller than {maxSize} Mb",
   "toolkit.project.files.error.maxFiles.multiple": "Please reduce the number of files to {value} or fewer, and try again",
   "toolkit.project.files.error.maxFiles.single": "Please reduce the number of files to 1, and try again",
-  "toolkit.project.files.error.maxSize": "Please upload files smaller than 5Mb each, and try again"
+  "toolkit.project.files.error.maxSize": "Please upload files smaller than 5Mb each, and try again",
+  "toolkit.start.here": "Start here!"
 }

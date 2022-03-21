@@ -534,6 +534,7 @@
   "toolkit.acceleration.preview.location": "A localização do seu programa será exibida aqui",
   "toolkit.acceleration.preview.applicants": "As informações dos candidatos do seu programa serão exibidas aqui",
   "toolkit.cancel.program.changes": "Cancelar alterações do programa",
+  "toolkit.cancel.project.changes": "Cancelar alterações do projeto",
   "continue": "Continuar",
   "publish": "Publicar",
   "toolkit.untitled": "Sem título",
@@ -580,5 +581,6 @@
   "toolkit.project.files.helper": "Selecione até {maxFiles} ficheiros menores que {maxSize} Mb",
   "toolkit.project.files.error.maxFiles.multiple": "Por favor, reduza o número de imagens para {value} ou menos e tente novamente",
   "toolkit.project.files.error.maxFiles.single": "Please reduce the number of files to 1, and try again",
-  "toolkit.project.files.error.maxSize": "Por favor, carregue imagens com menos de 5 Mb e tente novamente"
+  "toolkit.project.files.error.maxSize": "Por favor, carregue imagens com menos de 5 Mb e tente novamente",
+  "toolkit.start.here": "Comece aqui!"
 }
