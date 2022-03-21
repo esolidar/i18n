@@ -579,5 +579,6 @@
   "toolkit.delete.file.description": "If you delete the file, you won’t be able to recover it",
   "toolkit.project.files.helper": "Select up to {maxFiles} files smaller than {maxSize} Mb",
   "toolkit.project.files.error.maxFiles.multiple": "Please reduce the number of files to {value} or fewer, and try again",
-  "toolkit.project.files.error.maxFiles.single": "Please reduce the number of files to 1, and try again"
+  "toolkit.project.files.error.maxFiles.single": "Please reduce the number of files to 1, and try again",
+  "toolkit.project.files.error.maxSize": "Please upload files smaller than 5Mb each, and try again"
 }
