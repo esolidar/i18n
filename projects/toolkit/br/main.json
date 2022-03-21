@@ -576,5 +576,7 @@
   "toolkit.x.sdg.selected": "{value, number} {value, plural, one {objetivo selecionado} other {objetivos selecionados}}",
   "toolkit.delete.file": "Excluir arquivo?",
   "toolkit.delete.file.description": "Se você excluir o arquivo, não poderá recuperá-lo",
-  "toolkit.project.files.helper": "Selecione até {maxFiles} arquivos menores que {maxSize} Mb"
+  "toolkit.project.files.helper": "Selecione até {maxFiles} arquivos menores que {maxSize} Mb",
+  "toolkit.project.files.error.maxFiles.multiple": "Please reduce the number of files to {value} or fewer, and try again",
+  "toolkit.project.files.error.maxFiles.single": "Please reduce the number of files to 1, and try again"
 }
