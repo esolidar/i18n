@@ -584,5 +584,6 @@
   "toolkit.project.files.error.maxSize": "Please upload files smaller than 5Mb each, and try again",
   "toolkit.start.here": "Start here!",
   "toolkit.delete.image": "Delete image?",
-  "toolkit.delete.image.description": "If you delete the image, you won’t be able to recover it"
+  "toolkit.delete.image.description": "If you delete the image, you won’t be able to recover it",
+  "toolkit.wizard-header.title.placeholder": "Enter a title"
 }
