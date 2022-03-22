@@ -582,6 +582,7 @@
   "toolkit.project.files.error.maxFiles.multiple": "Please reduce the number of files to {value} or fewer, and try again",
   "toolkit.project.files.error.maxFiles.single": "Please reduce the number of files to 1, and try again",
   "toolkit.project.files.error.maxSize": "Please upload files smaller than 5Mb each, and try again",
+  "toolkit.project.images.error.maxSize": "Please upload images smaller than 5Mb each, and try again",
   "toolkit.start.here": "Start here!",
   "toolkit.delete.image": "Delete image?",
   "toolkit.delete.image.description": "If you delete the image, you won’t be able to recover it",
