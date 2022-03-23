@@ -585,5 +585,6 @@
   "toolkit.start.here": "Comece aqui!",
   "toolkit.delete.image": "Excluir imagem?",
   "toolkit.delete.image.description": "Se você excluir a imagem, não poderá recuperá-la",
-  "toolkit.wizard-header.title.placeholder": "Insira um título"
+  "toolkit.wizard-header.title.placeholder": "Insira um título",
+  "toolkit.failed": "Falhou"
 }
