@@ -587,5 +587,6 @@
   "toolkit.delete.image": "Delete image?",
   "toolkit.delete.image.description": "If you delete the image, you won’t be able to recover it",
   "toolkit.wizard-header.title.placeholder": "Enter a title",
-  "toolkit.failed": "Failed"
+  "toolkit.failed": "Failed",
+  "toolkit.alert.error.unexpected": "An unexpected error occurred."
 }
