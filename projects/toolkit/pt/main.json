@@ -588,5 +588,6 @@
   "toolkit.delete.image.description": "Se eliminar a imagem, não poderá recuperá-la",
   "toolkit.wizard-header.title.placeholder": "Insira um título",
   "toolkit.failed": "Falhou",
-  "toolkit.alert.error.unexpected": "Ocorreu um erro inesperado."
+  "toolkit.alert.error.unexpected": "Ocorreu um erro inesperado.",
+  "toolkit.uploaded-on": "Carregado em"
 }
