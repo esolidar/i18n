@@ -1404,5 +1404,6 @@
   "business.title.required": "Please enter a title",
   "business.close.preview": "Close preview",
   "business.cant.edit.program.duration": "Once live, you can't edit the program's duration",
-  "business.cant.edit.program.skills": "Once live, you can't edit neither impact area nor skills"
+  "business.cant.edit.program.skills": "Once live, you can't edit neither impact area nor skills",
+  "business.accelerator.program.no.skills.selected": "No skills selected"
 }

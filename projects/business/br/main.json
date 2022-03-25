@@ -1404,5 +1404,6 @@
   "business.title.required": "Por favor, insira um título",
   "business.close.preview": "Fechar visualização",
   "business.cant.edit.program.duration": "Uma vez Live, você não pode editar a duração de seu programa",
-  "business.cant.edit.program.skills": "Uma vez Live, você não pode editar nem a área de impacto, nem as habilidades"
+  "business.cant.edit.program.skills": "Uma vez Live, você não pode editar nem a área de impacto, nem as habilidades",
+  "business.accelerator.program.no.skills.selected": "Nenhuma habilidade selecionada"
 }
