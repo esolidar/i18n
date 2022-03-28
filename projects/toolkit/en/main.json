@@ -593,5 +593,6 @@
   "toolkit.save.and.close": "Save & Close",
   "toolkit.discard.changes": "Discard changes?",
   "toolkit.discard.close": "Discard & Close",
-  "toolkit.title.required": "Please enter a title"
+  "toolkit.title.required": "Please enter a title",
+  "toolkit.please.fill.form": "Please fill the form"
 }
