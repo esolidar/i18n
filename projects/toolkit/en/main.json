@@ -594,5 +594,7 @@
   "toolkit.discard.changes": "Discard changes?",
   "toolkit.discard.close": "Discard & Close",
   "toolkit.title.required": "Please enter a title",
-  "toolkit.please.fill.form": "Please fill the form"
+  "toolkit.please.fill.form": "Please fill the form",
+  "toolkit.delete.project": "Delete Project?",
+  "toolkit.delete.project.help": "By deleting, you won’t recover the project’s data and files."
 }

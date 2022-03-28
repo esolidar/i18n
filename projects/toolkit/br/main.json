@@ -593,5 +593,7 @@
   "toolkit.discard.changes": "Descartar alterações?",
   "toolkit.discard.close": "Descartar e Fechar",
   "toolkit.title.required": "Por favor, insira um título",
-  "toolkit.please.fill.form": "Por favor, preencha o formulário"
+  "toolkit.please.fill.form": "Por favor, preencha o formulário",
+  "toolkit.delete.project": "Excluir projeto?",
+  "toolkit.delete.project.help": "Ao excluir, você não poderá recuperar os dados e arquivos do projeto."
 }
