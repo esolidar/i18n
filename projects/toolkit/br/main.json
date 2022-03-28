@@ -591,5 +591,6 @@
   "toolkit.uploaded-on": "Carregado em",
   "toolkit.save.and.close": "Salvar e Fechar",
   "toolkit.discard.changes": "Descartar alterações?",
-  "toolkit.discard.close": "Descartar e Fechar"
+  "toolkit.discard.close": "Descartar e Fechar",
+  "toolkit.title.required": "Por favor, insira um título"
 }
