@@ -590,5 +590,7 @@
   "toolkit.failed": "Falhou",
   "toolkit.alert.error.unexpected": "Ocorreu um erro inesperado.",
   "toolkit.uploaded-on": "Carregado em",
-  "toolkit.save.and.close": "Salvar e Fechar "
+  "toolkit.save.and.close": "Salvar e Fechar",
+  "toolkit.discard.changes": "Descartar alterações?",
+  "toolkit.discard.close": "Descartar e Fechar"
 }
