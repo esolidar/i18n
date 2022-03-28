@@ -589,5 +589,6 @@
   "toolkit.wizard-header.title.placeholder": "Enter a title",
   "toolkit.failed": "Failed",
   "toolkit.alert.error.unexpected": "An unexpected error occurred.",
-  "toolkit.uploaded-on": "Uploaded on"
+  "toolkit.uploaded-on": "Uploaded on",
+  "toolkit.save.and.close": "Save & Close "
 }
