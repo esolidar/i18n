@@ -596,5 +596,6 @@
   "toolkit.title.required": "Please enter a title",
   "toolkit.please.fill.form": "Please fill the form",
   "toolkit.delete.project": "Delete Project?",
-  "toolkit.delete.project.help": "By deleting, you won’t recover the project’s data and files."
+  "toolkit.delete.project.help": "By deleting, you won’t recover the project’s data and files.",
+  "toolkit.please.select.files": "Please upload at least 1 file"
 }

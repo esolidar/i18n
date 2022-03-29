@@ -595,5 +595,6 @@
   "toolkit.title.required": "Por favor, insira um título",
   "toolkit.please.fill.form": "Por favor, preencha o formulário",
   "toolkit.delete.project": "Excluir projeto?",
-  "toolkit.delete.project.help": "Ao excluir, você não poderá recuperar os dados e arquivos do projeto."
+  "toolkit.delete.project.help": "Ao excluir, você não poderá recuperar os dados e arquivos do projeto.",
+  "toolkit.please.select.files": "Por favor, carregue pelo menos 1 arquivo"
 }
