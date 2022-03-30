@@ -599,5 +599,6 @@
   "toolkit.please.fill.form": "Por favor, preencha o formulário",
   "toolkit.delete.project": "Eliminar projeto?",
   "toolkit.delete.project.help": "Ao eliminar, não poderá recuperar os dados e ficheiros do projeto.",
-  "toolkit.please.select.files": "Por favor, carregue pelo menos 1 ficheiro"
+  "toolkit.please.select.files": "Por favor, carregue pelo menos 1 ficheiro",
+  "toolkit.please.complete.steps": "Por favor, complete todas etapas"
 }
