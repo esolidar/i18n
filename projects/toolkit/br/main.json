@@ -599,5 +599,8 @@
   "toolkit.delete.project": "Excluir projeto?",
   "toolkit.delete.project.help": "Ao excluir, você não poderá recuperar os dados e arquivos do projeto.",
   "toolkit.please.select.files": "Por favor, carregue pelo menos 1 arquivo",
-  "toolkit.please.complete.steps": "Por favor, complete todas etapas"
+  "toolkit.please.select.images": "Por favor, carregue pelo menos 1 imagem",
+  "toolkit.please.complete.steps": "Por favor, complete todas etapas",
+  "toolkit.please.select.sdg": "Por favor selecione pelo menos 1 ODS",
+  "toolkit.please.select.categories": "Por favor selecione pelo menos 1 categoria"
 }

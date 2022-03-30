@@ -566,7 +566,6 @@
   "toolkit.project.categories.description": "Adicionar áreas ou temas ajuda a categorizar o projeto dentro do programa",
   "toolkit.categories.add": "Adicionar categorias",
   "toolkit.x.categories.selected": "{value, number} {value, plural, one {categoria selecionada} other {categorias selecionadas}}",
-
   "toolkit.add.goals": "Adicionar objetivos",
   "toolkit.preferred.goals": "Objetivos preferidos",
   "toolkit.all.other.goals": "Todos os outros objetivos",
@@ -600,5 +599,8 @@
   "toolkit.delete.project": "Eliminar projeto?",
   "toolkit.delete.project.help": "Ao eliminar, não poderá recuperar os dados e ficheiros do projeto.",
   "toolkit.please.select.files": "Por favor, carregue pelo menos 1 ficheiro",
-  "toolkit.please.complete.steps": "Por favor, complete todas etapas"
+  "toolkit.please.select.images": "Por favor, carregue pelo menos 1 imagem",
+  "toolkit.please.complete.steps": "Por favor, complete todas etapas",
+  "toolkit.please.select.sdg": "Por favor selecione pelo menos 1 ODS",
+  "toolkit.please.select.categories": "Por favor selecione pelo menos 1 categoria"
 }
