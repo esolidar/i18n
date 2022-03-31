@@ -124,7 +124,7 @@
   "crowdfunding": "Crowdfunding",
   "crowdfunding-contribute.error": "Your contribution was not set, please try again.",
   "crowdfunding-contribute.success": "Your contribution was successful done.",
-  "crowdfunding-image-dimensions-error": "Your image should be at least 500px per 470px",
+  "crowdfunding-image-dimensions-error": "Images must have at least 1160 by 774px and be smaller than 5 Mb.",
   "crowdfunding-image-dimensions-rule": "Dimensions",
   "crowdfunding-image-invalid": "Your image is not valid",
   "crowdfunding-image-size-invalid": "The picture should be 5MB or smaller.",
