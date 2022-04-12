@@ -16,5 +16,8 @@
   "feed.latest.updates.subtitle": "Check out what {name} has been up to.",
   "feed.post.create.public": "Public",
   "feed.infoPublicPost": "Your post will be visible to everyone.",
-  "feed.no-posts": "No feeds available yet."
+  "feed.no-posts": "No feeds available yet.",
+  "feed.edit.post.title": "Edit post",
+  "feed.options.highlight-post": "Pin",
+  "feed.options.remove.highlight-post": "Remove highlight post"
 }

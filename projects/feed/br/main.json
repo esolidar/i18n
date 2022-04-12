@@ -16,5 +16,8 @@
   "feed.latest.updates.subtitle": "Veja o que {name} tem feito.",
   "feed.post.create.public": "Público",
   "feed.infoPublicPost": "Sua publicação será visível por todos.",
-  "feed.no-posts": "Ainda sem publicações"
+  "feed.no-posts": "Ainda sem publicações",
+  "feed.edit.post.title": "Editar publicação",
+  "feed.options.highlight-post": "Destacar",
+  "feed.options.remove.highlight-post": "Desmarcar do topo da página"
 }
