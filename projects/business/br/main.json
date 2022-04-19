@@ -1405,5 +1405,14 @@
   "business.close.preview": "Fechar visualização",
   "business.cant.edit.program.duration": "Uma vez Live, você não pode editar a duração de seu programa",
   "business.cant.edit.program.skills": "Uma vez Live, você não pode editar nem a área de impacto, nem as habilidades",
-  "business.accelerator.program.no.skills.selected": "Nenhuma habilidade selecionada"
+  "business.accelerator.program.no.skills.selected": "Nenhuma habilidade selecionada",
+  "members.export.button": "Exportar membros",
+  "members.export.modal.text": "O arquivo incluirá as informações disponíveis sobre seus membros:",
+  "first.and.last.name": "Primeiro e sobrenome",
+  "birth.date": "Data de nascimento",
+  "tax.identification.number": "CPF/CNPJ",
+  "zip.postal.code": "CEP",
+  "phone.number": "Número de telefone",
+  "members.export.modal.text2": "Quando seus dados estiverem prontos, você receberá um email para {email} com um link para baixar seu arquivo {fileFormat}.",
+  "members.export.modal.text3": "O empacotamento de seus dados levará um tempo para ser concluído."
 }

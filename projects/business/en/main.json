@@ -1405,5 +1405,14 @@
   "business.close.preview": "Close preview",
   "business.cant.edit.program.duration": "Once live, you can't edit the program's duration",
   "business.cant.edit.program.skills": "Once live, you can't edit neither impact area nor skills",
-  "business.accelerator.program.no.skills.selected": "No skills selected"
+  "business.accelerator.program.no.skills.selected": "No skills selected",
+  "members.export.button": "Export members",
+  "members.export.modal.text": "The file will include the available information about your members:",
+  "first.and.last.name": "First and last name",
+  "birth.date": "Birth date",
+  "tax.identification.number": "Tax Identification Number",
+  "zip.postal.code": "ZIP/Postal code",
+  "phone.number": "Phone number",
+  "members.export.modal.text2": "Once your data is ready, you will receive an email to {email} with a link to download your {fileFormat} file.",
+  "members.export.modal.text3": "Packaging your data will take a while to complete."
 }
