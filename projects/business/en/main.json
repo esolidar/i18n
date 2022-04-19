@@ -1416,5 +1416,10 @@
   "zip.postal.code": "ZIP/Postal code",
   "phone.number": "Phone number",
   "members.export.modal.text2": "Once your data is ready, you will receive an email to {email} with a link to download your {fileFormat} file.",
-  "members.export.modal.text3": "Packaging your data will take a while to complete."
+  "members.export.modal.text3": "Packaging your data will take a while to complete.",
+  "business.people.all.teams": "All teams",
+  "business.people.employee.no-team": "Doesn’t belong to any team",
+  "business.people.modal.change-team.title": "Change team?",
+  "business.people.modal.change-team.subtitle": "The member will be moved to another team.",
+  "business.people.modal.change-team.confirm": "Change team"
 }

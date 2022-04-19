@@ -1416,5 +1416,10 @@
   "zip.postal.code": "CEP",
   "phone.number": "Número de telefone",
   "members.export.modal.text2": "Quando seus dados estiverem prontos, você receberá um email para {email} com um link para baixar seu arquivo {fileFormat}.",
-  "members.export.modal.text3": "O empacotamento de seus dados levará um tempo para ser concluído."
+  "members.export.modal.text3": "O empacotamento de seus dados levará um tempo para ser concluído.",
+  "business.people.all.teams": "Todas as equipes",
+  "business.people.employee.no-team": "Não pertence a nenhuma equipe",
+  "business.people.modal.change-team.title": "Transferir de equipe?",
+  "business.people.modal.change-team.subtitle": "O membro da equipe será transferido para outra equipe.",
+  "business.people.modal.change-team.confirm": "Transferir equipe"
 }

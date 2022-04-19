@@ -1416,5 +1416,10 @@
   "zip.postal.code": "Código postal",
   "phone.number": "Número de telefone",
   "members.export.modal.text2": "Quando os dados estiverem prontos, receberá um email para {email} com um link para descarregar o seu arquivo {fileFormat}.",
-  "members.export.modal.text3": "A preparação dos dados irá demorar algum tempo."
+  "members.export.modal.text3": "A preparação dos dados irá demorar algum tempo.",
+  "business.people.all.teams": "Todas as equipas",
+  "business.people.employee.no-team": "Não pertence a nenhuma equipa",
+  "business.people.modal.change-team.title": "Mudar de equipa?",
+  "business.people.modal.change-team.subtitle": "O membro da equipa será transferido para outra equipa.",
+  "business.people.modal.change-team.confirm": "Mudar equipa"
 }
