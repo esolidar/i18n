@@ -1424,7 +1424,7 @@
   "business.people.modal.change-team.confirm": "Mudar equipa",
 
   "people.teams.message": "Groups of people that collaborate within {value}",
-  "permissions": "Permissions",
+  "permissions": "Permissões",
   "business.visible.on.signup": "Visible on signup",
   "business.visible.on.signup.tooltip": "Permitir que as pessoas juntem-se a uma equipa durante o registo",
   "business.permissions.option.disable": "Não pode alterar permissões em equipas com colaboradores ativos",
