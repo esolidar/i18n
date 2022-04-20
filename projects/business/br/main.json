@@ -1431,5 +1431,6 @@
   "business.permissions.option.placeholder": "Escolha quem pode se juntar",
   "business.permissions.option.employees.and.members": "Colaboradores e Membros",
   "business.permissions.option.only.employees": "Apenas colaboradores",
-  "business.permissions.option.only.members": "Apenas membros"
+  "business.permissions.option.only.members": "Apenas membros",
+  "business.discard.changes.text": "Todas as alterações não salvas serão perdidas permanentemente"
 }

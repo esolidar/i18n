@@ -1431,5 +1431,6 @@
   "business.permissions.option.placeholder": "Choose who is able to join",
   "business.permissions.option.employees.and.members": "Employees and Members",
   "business.permissions.option.only.employees": "Only employees",
-  "business.permissions.option.only.members": "Only members"
+  "business.permissions.option.only.members": "Only members",
+  "business.discard.changes.text": "All unsaved changes will be permanently lost."
 }
