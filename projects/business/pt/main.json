@@ -1421,5 +1421,15 @@
   "business.people.employee.no-team": "Não pertence a nenhuma equipa",
   "business.people.modal.change-team.title": "Mudar de equipa?",
   "business.people.modal.change-team.subtitle": "O membro da equipa será transferido para outra equipa.",
-  "business.people.modal.change-team.confirm": "Mudar equipa"
+  "business.people.modal.change-team.confirm": "Mudar equipa",
+
+  "people.teams.message": "Groups of people that collaborate within {value}",
+  "permissions": "Permissions",
+  "business.visible.on.signup": "Visible on signup",
+  "business.visible.on.signup.tooltip": "Permitir que as pessoas juntem-se a uma equipa durante o registo",
+  "business.permissions.option.disable": "Não pode alterar permissões em equipas com colaboradores ativos",
+  "business.permissions.option.placeholder": "Escolha quem se pode juntar ",
+  "business.permissions.option.employees.and.members": "Colaboradores e Membros",
+  "business.permissions.option.only.employees": "Apenas colaboradores",
+  "business.permissions.option.only.members": "Apenas membros"
 }

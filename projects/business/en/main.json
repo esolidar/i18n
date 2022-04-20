@@ -1421,5 +1421,15 @@
   "business.people.employee.no-team": "Doesn’t belong to any team",
   "business.people.modal.change-team.title": "Change team?",
   "business.people.modal.change-team.subtitle": "The member will be moved to another team.",
-  "business.people.modal.change-team.confirm": "Change team"
+  "business.people.modal.change-team.confirm": "Change team",
+
+  "people.teams.message": "Groups of people that collaborate within {value}",
+  "permissions": "Permissions",
+  "business.visible.on.signup": "Visible on signup",
+  "business.visible.on.signup.tooltip": "Allow people to join a team during signup",
+  "business.permissions.option.disable": "You can’t change permissions for teams with active collaborators",
+  "business.permissions.option.placeholder": "Choose who is able to join",
+  "business.permissions.option.employees.and.members": "Employees and Members",
+  "business.permissions.option.only.employees": "Only employees",
+  "business.permissions.option.only.members": "Only members"
 }
