@@ -1435,5 +1435,7 @@
   "business.people.modal.delete-team.subtitle.no-length": "{teamName} será excluído permanentemente.",
   "business.people.modal.delete-team.subtitle.with-length": "Tem <b>{teamLength} {teamLength, plural, =0 {pessoas} one {pessoa} other {pessoas}}</b> nesta equipe. Não os deixe pendurados; movê-los para outra equipe antes de excluir.",
   "business.people.modal.delete-team.response": "Digite EXCLUIR para confirmar",
-  "business.people.modal.delete-team.confirm": "Excluir equipe"
+  "business.people.modal.delete-team.confirm": "Excluir equipe",
+  "business.people.modal.create-team.success": "Criou uma equipa com sucesso!",
+  "business.people.modal.edit-team.success": "Editou uma equipa com sucesso!"
 }
