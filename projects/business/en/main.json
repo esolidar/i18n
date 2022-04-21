@@ -308,7 +308,6 @@
   "delete.image": "Delete image",
   "delete.slide": "Delete slide",
   "deleted": "Removed",
-  "department.list.delete.modal.title": "Delete team",
   "department.list.edit.modal.title": "Edit team",
   "departments.header.add.department": "Add team",
   "departments.header.add.department.text": "Here you can add and delete teams within your organization to make communication easier with your employees and get statistics by the team.",
@@ -1431,5 +1430,10 @@
   "business.permissions.option.employees.and.members": "Employees and Members",
   "business.permissions.option.only.employees": "Only employees",
   "business.permissions.option.only.members": "Only members",
-  "business.discard.changes.text": "All unsaved changes will be permanently lost."
+  "business.discard.changes.text": "All unsaved changes will be permanently lost.",
+  "business.people.modal.delete-team.title": "Delete team?",
+  "business.people.modal.delete-team.subtitle.no-length": "{teamName} will be permanently deleted.",
+  "business.people.modal.delete-team.subtitle.with-length": "You’ve got {teamLength} people in this team. Don’t leave them hanging; move them to another team before deleting. ",
+  "business.people.modal.delete-team.response": "Type DELETE to confirm",
+  "business.people.modal.delete-team.confirm": "Delete team"
 }

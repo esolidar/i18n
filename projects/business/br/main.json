@@ -308,7 +308,6 @@
   "delete.image": "Excluir imagem",
   "delete.slide": "Excluir slide",
   "deleted": "Excluído",
-  "department.list.delete.modal.title": "Excluir equipe",
   "department.list.edit.modal.title": "Editar equipe",
   "departments.header.add.department": "Adicionar equipe",
   "departments.header.add.department.text": "Aqui pode adicionar e excluir equipes da sua empresa para que seja mais fácil comunicar com os seus funcionários e obter estatísticas por equipe.",
@@ -1431,5 +1430,10 @@
   "business.permissions.option.employees.and.members": "Colaboradores e Membros",
   "business.permissions.option.only.employees": "Apenas colaboradores",
   "business.permissions.option.only.members": "Apenas membros",
-  "business.discard.changes.text": "Todas as alterações não salvas serão perdidas permanentemente"
+  "business.discard.changes.text": "Todas as alterações não salvas serão perdidas permanentemente",
+  "business.people.modal.delete-team.title": "Excluir equipe?",
+  "business.people.modal.delete-team.subtitle.no-length": "{teamName} será excluído permanentemente.",
+  "business.people.modal.delete-team.subtitle.with-length": "Tem {teamLength} pessoas nesta equipe. Não os deixe pendurados; movê-los para outra equipe antes de excluir. ",
+  "business.people.modal.delete-team.response": "Digite EXCLUIR para confirmar",
+  "business.people.modal.delete-team.confirm": "Excluir equipe"
 }

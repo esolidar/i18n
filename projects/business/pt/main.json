@@ -309,7 +309,6 @@
   "delete.image": "Eliminar imagem",
   "delete.slide": "Eliminar slide",
   "deleted": "Removido",
-  "department.list.delete.modal.title": "Eliminar equipa",
   "department.list.edit.modal.title": "Editar equipa",
   "departments.header.add.department": "Criar equipa",
   "departments.header.add.department.text": "Aqui pode adicionar e eliminar equipas da sua empresa para que seja mais fácil comunicar com os seus funcionários e obter estatísticas por equipas.",
@@ -1431,5 +1430,10 @@
   "business.permissions.option.employees.and.members": "Colaboradores e Membros",
   "business.permissions.option.only.employees": "Apenas colaboradores",
   "business.permissions.option.only.members": "Apenas membros",
-  "business.discard.changes.text": "Todas as alterações não salvas serão perdidas permanentemente"
+  "business.discard.changes.text": "Todas as alterações não salvas serão perdidas permanentemente",
+  "business.people.modal.delete-team.title": "Apagar equipa?",
+  "business.people.modal.delete-team.subtitle.no-length": "{teamName} será eliminado permanentemente.",
+  "business.people.modal.delete-team.subtitle.with-length": "Tem {teamLength} pessoas nesta equipa. Não os deixe pendurados; mova-os para outra equipa antes de apagar. ",
+  "business.people.modal.delete-team.response": "Escreva APAGAR para confirmar",
+  "business.people.modal.delete-team.confirm": "Apagar equipa"
 }
