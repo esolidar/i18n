@@ -1167,7 +1167,7 @@
   "search.for.employees": "Search for employees",
   "small.team": "Small team",
   "large.team": "Large team",
-  "people.members.message": "People outside of {value} (collaborate with people outside your company).",
+  "people.members.message": "People outside of {value}",
   "departments.header.new.department": "New team",
   "import.helper": "Use comma, space or enter to add a new email.",
   "copy.invite.link": "Copy invite link",

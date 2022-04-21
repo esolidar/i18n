@@ -1166,7 +1166,7 @@
   "search.for.employees": "Pesquisar por funcionário",
   "small.team": "Equipa pequena",
   "large.team": "Equipa grande",
-  "people.members.message": "Pessoas fora de {value} (colabore com pessoas fora de sua empresa).",
+  "people.members.message": "Pessoas fora de {value}",
   "departments.header.new.department": "Nova equipa",
   "import.helper": "Use vírgula, espaço ou enter para adicionar um novo e-mail.",
   "copy.invite.link": "Copiar link de convite",
