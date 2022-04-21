@@ -548,5 +548,8 @@
   "whitelabel.sdg.description.text": "Os Objetivos de Desenvolvimento Sustentável ou ODS são um conjunto de 17 objetivos projetados para ser um \"modelo para alcançar um futuro melhor e mais sustentável para todos\"",
   "whitelabel.no.results.found": "Não foram encontrados resultados para a sua pesquisa",
   "whitelabel.no.results.helper": "Por favor, tente outros filtros ou use parâmetros mais gerais",
-  "whitelabel.program.detail": "Ver detalhes do programa"
+  "whitelabel.program.detail": "Ver detalhes do programa",
+  "whitelabel.signup.no-team": "Não pertenço a nenhuma equipa",
+  "whitelabel.signup.choose.team": "Escolha uma equipa",
+  "whitelabel.signup.company.team": "Equipa"
 }
