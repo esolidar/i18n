@@ -1433,7 +1433,7 @@
   "business.discard.changes.text": "Todas as alterações não salvas serão perdidas permanentemente",
   "business.people.modal.delete-team.title": "Excluir equipe?",
   "business.people.modal.delete-team.subtitle.no-length": "{teamName} será excluído permanentemente.",
-  "business.people.modal.delete-team.subtitle.with-length": "Tem {teamLength} pessoas nesta equipe. Não os deixe pendurados; movê-los para outra equipe antes de excluir. ",
+  "business.people.modal.delete-team.subtitle.with-length": "Tem {teamLength} pessoas nesta equipe. Não os deixe pendurados; movê-los para outra equipe antes de excluir.",
   "business.people.modal.delete-team.response": "Digite EXCLUIR para confirmar",
   "business.people.modal.delete-team.confirm": "Excluir equipe"
 }
