@@ -1422,10 +1422,9 @@
   "business.people.modal.change-team.title": "Transferir de equipe?",
   "business.people.modal.change-team.subtitle": "O membro da equipe será transferido para outra equipe.",
   "business.people.modal.change-team.confirm": "Transferir equipe",
-
-  "people.teams.message": "Groups of people that collaborate within {value}",
+  "people.teams.message": "Grupos de pessoas que colaboram em {value}",
   "permissions": "Permissões",
-  "business.visible.on.signup": "Visible on signup",
+  "business.visible.on.signup": "Visível no cadastro",
   "business.visible.on.signup.tooltip": "Permitir que as pessoas juntem-se a uma equipe durante o cadastro",
   "business.permissions.option.disable": "Não pode alterar permissões em equipes com colaboradores ativos",
   "business.permissions.option.placeholder": "Escolha quem pode se juntar",

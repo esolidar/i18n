@@ -1422,7 +1422,6 @@
   "business.people.modal.change-team.title": "Change team?",
   "business.people.modal.change-team.subtitle": "The member will be moved to another team.",
   "business.people.modal.change-team.confirm": "Change team",
-
   "people.teams.message": "Groups of people that collaborate within {value}",
   "permissions": "Permissions",
   "business.visible.on.signup": "Visible on signup",
