@@ -1437,5 +1437,8 @@
   "business.people.modal.delete-team.response": "Digite EXCLUIR para confirmar",
   "business.people.modal.delete-team.confirm": "Excluir equipe",
   "business.people.modal.create-team.success": "Criou uma equipa com sucesso!",
-  "business.people.modal.edit-team.success": "Editou uma equipa com sucesso!"
+  "business.people.modal.edit-team.success": "Editou uma equipa com sucesso!",
+  "success.export.members": "Estamos empacotando seus dados!",
+  "success.export.members.description": "Em breve, você receberá um email com um link para download com seu arquivo {fileFormat}. Nos horários de pico, isso pode levar algumas horas.<br /><br />Por favor, espere...",
+  "business.download.fileFormat": "Descarregar {fileFormat}"
 }

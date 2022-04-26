@@ -1437,5 +1437,8 @@
   "business.people.modal.delete-team.response": "Type DELETE to confirm",
   "business.people.modal.delete-team.confirm": "Delete team",
   "business.people.modal.create-team.success": "You successfully created a team!",
-  "business.people.modal.edit-team.success": "You successfully edited a team!"
+  "business.people.modal.edit-team.success": "You successfully edited a team!",
+  "success.export.members": "We're packaging your data!",
+  "success.export.members.description": "You'll soon receive an email with a download link with your {fileFormat} file. At peak times this can take a few hours.<br /><br />Please wait...",
+  "business.download.fileFormat": "Download {fileFormat}"
 }

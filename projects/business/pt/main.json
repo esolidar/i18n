@@ -1437,5 +1437,8 @@
   "business.people.modal.delete-team.response": "Escreva APAGAR para confirmar",
   "business.people.modal.delete-team.confirm": "Apagar equipa",
   "business.people.modal.create-team.success": "Criou uma equipa com sucesso!",
-  "business.people.modal.edit-team.success": "Editou uma equipa com sucesso!"
+  "business.people.modal.edit-team.success": "Editou uma equipa com sucesso!",
+  "success.export.members": "Estamos a preparar os seus dados!",
+  "success.export.members.description": "Em breve, receberá um email com um link para download do ficheiro {fileFormat}. Nos horários de pico, isso pode demorar algumas horas.<br /><br />Por favor, espere...",
+  "business.download.fileFormat": "Descarregar {fileFormat}"
 }
