@@ -1442,5 +1442,6 @@
   "success.export.members.description": "Em breve, receberá um email com um link para download do ficheiro {fileFormat}. Nos horários de pico, isso pode demorar algumas horas.<br /><br />Por favor, espere...",
   "business.download.fileFormat": "Descarregar {fileFormat}",
   "business.keep-editing": "Continuar a editar",
-  "business.name": "Nome"
+  "business.name": "Nome",
+  "thumb.countdown.eightHoursLeft": "Quase a terminar"
 }
