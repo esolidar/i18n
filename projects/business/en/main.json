@@ -1433,7 +1433,7 @@
   "business.discard.changes.text": "All unsaved changes will be permanently lost.",
   "business.people.modal.delete-team.title": "Delete team?",
   "business.people.modal.delete-team.subtitle.no-length": "{teamName} will be permanently deleted.",
-  "business.people.modal.delete-team.subtitle.with-length": "You’ve got <b>{teamLength} {teamLength, plural, =0 {people} one {person} other {people}}</b> in this team. Don’t leave them hanging; move them to another team before deleting.",
+  "business.people.modal.delete-team.subtitle.with-length": "You’ve got <b>{teamLength} {teamLength, plural, =0 {people} one {person} other {people}}</b> in this team. Don’t leave them hanging, move them to another team before deleting.",
   "business.people.modal.delete-team.response": "Type DELETE to confirm",
   "business.people.modal.delete-team.confirm": "Delete team",
   "business.people.modal.create-team.success": "You successfully created a team!",

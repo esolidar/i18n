@@ -1433,7 +1433,7 @@
   "business.discard.changes.text": "Todas as alterações não salvas serão perdidas permanentemente",
   "business.people.modal.delete-team.title": "Eliminar equipa?",
   "business.people.modal.delete-team.subtitle.no-length": "{teamName} será eliminado permanentemente.",
-  "business.people.modal.delete-team.subtitle.with-length": "Tem <b>{teamLength} {teamLength, plural, =0 {pessoas} one {pessoa} other {pessoas}}</b> nesta equipa. Não os deixe pendurados; mova-os para outra equipa antes de eliminar.",
+  "business.people.modal.delete-team.subtitle.with-length": "Tem <b>{teamLength} {teamLength, plural, =0 {pessoas} one {pessoa} other {pessoas}}</b> nesta equipa. Não os deixe pendurados, mova-os para outra equipa antes de eliminar.",
   "business.people.modal.delete-team.response": "Escreva ELIMINAR para confirmar",
   "business.people.modal.delete-team.confirm": "Eliminar equipa",
   "business.people.modal.create-team.success": "Criou uma equipa com sucesso!",
