@@ -62,7 +62,7 @@
   "company.add.age.register": "da esolidar e declaro ter mais de 18 anos de idade.",
   "company.add.agree": "Concordo com os {value}",
   "company.add.and": "e",
-  "company.add.newsletter": "Aceito receber novidades da esolidar, ocasionalmente. Pode cancelar a sua subscrição quando quiser.",
+  "company.add.newsletter": "Aceito receber notificações por email de {company}, bem como notícias e atualizações da esolidar",
   "completed": "Finalizado",
   "continue": "Continuar",
   "contribute": "Contribuir",
@@ -246,6 +246,7 @@
   "login.UNAUTHORIZED_STATUS_P.text": "A sua conta ainda não está validada. Por favor, verifique o seu email para confirmar a sua conta.",
   "login.modal.validation": "Não recebeu o e-mail de validação? Clique aqui.",
   "login.title": "Autentique-se em {value}",
+  "login.title.modal": "Autentique-se em",
   "logout": "Sair",
   "male": "Masculino",
   "member.created.success": "Por favor, verifique o seu email para validar a sua conta",
@@ -551,5 +552,19 @@
   "whitelabel.program.detail": "Ver detalhes do programa",
   "whitelabel.signup.no-team": "Não pertenço a nenhuma equipa",
   "whitelabel.signup.choose.team": "Escolha uma equipa",
-  "whitelabel.signup.company.team": "Equipa"
+  "whitelabel.signup.company.team": "Equipa",
+
+  "whitelabel.create-glossary.tooltip.empty-selection": "Por favor selecione uma opção",
+  "whitelabel.visitor.access-account.heading": "Já tem uma conta?",
+  "whitelabel.visitor.access-account.description-1": "Olá! 👋",
+  "whitelabel.visitor.access-account.description-2": "Estamos muito felizes por decidir começar esta jornada connosco.",
+  "whitelabel.visitor.access-account.description-3": "Antes de começarmos, já tem uma conta?",
+  "whitelabel.visitor.access-account.option.account": "Sim, já tenho uma conta",
+  "whitelabel.visitor.access-account.option.no-account": "Não, esta é a minha primeira vez!",
+  "whitelabel.glossary.tooltip.incomplete-form": "Por favor preencha o formulário",
+  "whitelabel.visitor.accelerator.program.submit-project.privacy.disclaimer": "Pode optar por não recebê-los  nas configurações da sua conta",
+  "whitelabel.visitor.login.register": "Não está registado?",
+  "whitelabel.sign-up": "Registar",
+  "whitelabel.visitor.login.facebook.description": "À procura de",
+  "whitelabel.visitor.login.facebook.action": "Conexão ao Facebook?"
 }
