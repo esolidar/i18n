@@ -577,5 +577,6 @@
   "visitor.confirm-account.help-dialog.description-4": "change the email address",
   "visitor.confirm-account.help-dialog.description-5": "Resend the email. Click on {link} and follow the instructions.",
   "visitor.confirm-account.help-dialog.description-6": "resend email",
-  "visitor.confirm-account.help-dialog.description-7": "If none of those solutions worked, please get in touch with esolidar’s support team directly through our chat or at {email}."
+  "visitor.confirm-account.help-dialog.description-7": "If none of those solutions worked, please get in touch with esolidar’s support team directly through our chat or at {email}.",
+  "visitor.confirm-account.help.action": "View solutions"
 }

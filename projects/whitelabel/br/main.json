@@ -578,5 +578,6 @@
   "visitor.confirm-account.help-dialog.description-4": "altere seu endereço de email",
   "visitor.confirm-account.help-dialog.description-5": "Reenvie o email. Clique em {link} e siga as instruções.",
   "visitor.confirm-account.help-dialog.description-6": "reenviar email",
-  "visitor.confirm-account.help-dialog.description-7": "Se nenhuma dessas soluções funcionou, entre em contato com nossa equipe de suporte diretamente por meio de nosso chat ou em {email}."
+  "visitor.confirm-account.help-dialog.description-7": "Se nenhuma dessas soluções funcionou, entre em contato com nossa equipe de suporte diretamente por meio de nosso chat ou em {email}.",
+  "visitor.confirm-account.help.action": "Ver soluções"
 }
