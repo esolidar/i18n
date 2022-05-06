@@ -553,7 +553,6 @@
   "whitelabel.signup.no-team": "Não pertenço a nenhuma equipa",
   "whitelabel.signup.choose.team": "Escolha uma equipa",
   "whitelabel.signup.company.team": "Equipa",
-
   "whitelabel.create-glossary.tooltip.empty-selection": "Por favor selecione uma opção",
   "whitelabel.visitor.access-account.heading": "Já tem uma conta?",
   "whitelabel.visitor.access-account.description-1": "Olá! 👋",
@@ -566,5 +565,17 @@
   "whitelabel.visitor.login.register": "Não está registado?",
   "whitelabel.sign-up": "Registar",
   "whitelabel.visitor.login.facebook.description": "À procura de",
-  "whitelabel.visitor.login.facebook.action": "Conexão ao Facebook?"
+  "whitelabel.visitor.login.facebook.action": "Conexão ao Facebook?",
+
+  "visitor.confirm-account.heading": "Confirme o seu email",
+  "visitor.confirm-account.description-1": "Enviamos  um email para {email}.",
+  "visitor.confirm-account.description-2": "Abra a sua caixa de correio e siga as instruções para iniciar a sua jornada com {companyName}!",
+  "visitor.confirm-account.help-dialog.heading": "Não recebeu o email?",
+  "visitor.confirm-account.help-dialog.description-1": "Espere um pouco - o email demora um pouco para chegar, então seja paciente 😉",
+  "visitor.confirm-account.help-dialog.description-2": "Verifique as pastas da sua caixa de correio, como spam e lixo electrónico.",
+  "visitor.confirm-account.help-dialog.description-3": "Verifique se introduziu o endereço de email correcto. Caso contrário, {link}",
+  "visitor.confirm-account.help-dialog.description-4": "alterae o endereço de email",
+  "visitor.confirm-account.help-dialog.description-5": "Reenvie o email. Clique em {link} e siga as instruções.",
+  "visitor.confirm-account.help-dialog.description-6": "reenviar email",
+  "visitor.confirm-account.help-dialog.description-7": "Se nenhuma das soluções apresentada funcionou, entre em contacto com a nossa equipa de suporte por chat ou por email através de {email}."
 }

@@ -553,7 +553,6 @@
   "whitelabel.signup.no-team": "I don’t belong to any team",
   "whitelabel.signup.choose.team": "Choose a team",
   "whitelabel.signup.company.team": "Company team",
-
   "whitelabel.create-glossary.tooltip.empty-selection": "Please select an option",
   "whitelabel.visitor.access-account.heading": "Already have an account?",
   "whitelabel.visitor.access-account.description-1": "Hi there!  👋",
@@ -566,5 +565,17 @@
   "whitelabel.visitor.login.register": "Not registered?",
   "whitelabel.sign-up": "Sign up",
   "whitelabel.visitor.login.facebook.description": "Looking for",
-  "whitelabel.visitor.login.facebook.action": "Facebook connect?"
+  "whitelabel.visitor.login.facebook.action": "Facebook connect?",
+
+  "visitor.confirm-account.heading": "Confirm your email",
+  "visitor.confirm-account.description-1": "We sent just an email to {email}.",
+  "visitor.confirm-account.description-2": "Open the email and follow the instructions to start your journey with {companyName}!",
+  "visitor.confirm-account.help-dialog.heading": "Did not receive the email?",
+  "visitor.confirm-account.help-dialog.description-1": "Wait a little bit - the email takes some time to get there, so be patient 😉",
+  "visitor.confirm-account.help-dialog.description-2": "Check your mailbox folders such as spam and junk",
+  "visitor.confirm-account.help-dialog.description-3": "Make sure you’ve entered the correct email address. If not, {link}",
+  "visitor.confirm-account.help-dialog.description-4": "change the email address",
+  "visitor.confirm-account.help-dialog.description-5": "Resend the email. Click on {link} and follow the instructions.",
+  "visitor.confirm-account.help-dialog.description-6": "resend email",
+  "visitor.confirm-account.help-dialog.description-7": "If none of those solutions worked, please get in touch with esolidar’s support team directly through our chat or at {email}."
 }
