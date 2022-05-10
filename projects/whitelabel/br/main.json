@@ -567,7 +567,6 @@
   "whitelabel.sign-up": "Cadastrar",
   "whitelabel.visitor.login.facebook.description": "Procurando por",
   "whitelabel.visitor.login.facebook.action": "Conexão ao Facebook?",
-
   "visitor.confirm-account.heading": "Confirme seu email",
   "visitor.confirm-account.description-1": "Enviamos  um email para {email}.",
   "visitor.confirm-account.description-2": "Abra sua caixa de correio e siga as instruções para iniciar sua jornada com {companyName}!",
@@ -579,5 +578,8 @@
   "visitor.confirm-account.help-dialog.description-5": "Reenvie o email. Clique em {link} e siga as instruções.",
   "visitor.confirm-account.help-dialog.description-6": "reenviar email",
   "visitor.confirm-account.help-dialog.description-7": "Se nenhuma dessas soluções funcionou, entre em contato com nossa equipe de suporte diretamente por meio de nosso chat ou em {email}.",
-  "visitor.confirm-account.help.action": "Ver soluções"
+  "visitor.confirm-account.help.action": "Ver soluções",
+  "visitor.confirmation-expired.heading": "Email de confirmação expirado",
+  "visitor.confirmation-expired.description": "Lamentamos, mas seu email de confirmação expirou. Por motivos de segurança, este email é válido apenas por {duration} minutos.",
+  "glossary.resend-email": "Reenviar email"
 }
