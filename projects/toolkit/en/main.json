@@ -2,6 +2,8 @@
   "save": "Save",
   "confirm": "Confirm",
   "validate": "Validate",
+  "name": "Name",
+  "file": "File",
   "description": "Description",
   "title": "Title",
   "toolkit.ended": "Ended",
@@ -621,5 +623,9 @@
   "toolkit.card-project-detail.status.modal.title": "Update status",
   "toolkit.card-project-detail.status.modal.text": "The project status will be changed.",
   "toolkit.view.program-details": "View program details",
-  "toolkit.update": "Update"
+  "toolkit.update": "Update",
+  "toolkit.upload.document.title": "Upload document",
+  "toolkit.upload.document.file.helper": "Upload a word, excel, presentation or PDF file and smaller than 1 Mb",
+  "toolkit.upload.document.file.replace": "Replace file",
+  "toolkit.upload.document.file.private": "keep file private"
 }

@@ -2,6 +2,8 @@
   "save": "Salvar",
   "confirm": "Confirmar",
   "validate": "Validar",
+  "name": "Nome",
+  "file": "Arquivo",
   "description": "Descrição",
   "title": "Título",
   "toolkit.ended": "Finalizado",
@@ -621,5 +623,9 @@
   "toolkit.card-project-detail.status.modal.title": "Atualizar estado",
   "toolkit.card-project-detail.status.modal.text": "O estado do projeto será atualizado.",
   "toolkit.view.program-details": "Ver detalhes do programa",
-  "toolkit.update": "Atualizar"
+  "toolkit.update": "Atualizar",
+  "toolkit.upload.document.title": "Carregar documento",
+  "toolkit.upload.document.file.helper": "Carregue um arquivo word, excel, apresentação ou PDF e menor que 1 Mb",
+  "toolkit.upload.document.file.replace": "Substituir arquivo",
+  "toolkit.upload.document.file.private": "Manter o arquivo privado"
 }
