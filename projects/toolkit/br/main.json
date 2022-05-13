@@ -625,7 +625,9 @@
   "toolkit.view.program-details": "Ver detalhes do programa",
   "toolkit.update": "Atualizar",
   "toolkit.upload.document.title": "Carregar documento",
-  "toolkit.upload.document.file.helper": "Carregue um arquivo word, excel, apresentação ou PDF e menor que 1 Mb",
+  "toolkit.upload.document.file.helper": "Carregue um arquivo word, excel, apresentação ou PDF menor que 1 Mb",
   "toolkit.upload.document.file.replace": "Substituir arquivo",
-  "toolkit.upload.document.file.private": "Manter o arquivo privado"
+  "toolkit.upload.document.file.private": "Manter arquivo privado",
+  "toolkit.doar": "Doar",
+  "toolkit.location": "Localização"
 }

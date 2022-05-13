@@ -627,5 +627,7 @@
   "toolkit.upload.document.title": "Upload document",
   "toolkit.upload.document.file.helper": "Upload a word, excel, presentation or PDF file and smaller than 1 Mb",
   "toolkit.upload.document.file.replace": "Replace file",
-  "toolkit.upload.document.file.private": "keep file private"
+  "toolkit.upload.document.file.private": "keep file private",
+  "toolkit.doar": "Donate",
+  "toolkit.location": "Location"
 }
