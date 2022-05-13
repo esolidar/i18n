@@ -7,6 +7,7 @@ const projectList = [
   "feed",
   "toolkit",
   "whitelabel",
+  "web3",
 ];
 
 module.exports = projectList;
