@@ -296,6 +296,8 @@
   "institutions.edit.twitter": "Perfil no Twitter",
   "institutions.edit.validated": "Valdiada",
   "institutions.edit.youtube": "Canal de Youtube",
+  "institutions.edit.celo.wallet": "Celo Wallet",
+  "institutions.edit.celoWallet": "Endereço da carteira",
   "institutions.header.dateLastLogin": "Último Login",
   "institutions.header.emailVerified": "Email verificado",
   "institutions.header.owner.email": "Email do proprietário",
