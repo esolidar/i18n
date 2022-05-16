@@ -1,4 +1,11 @@
 {
   "web3.institution.list.title": "Descobrir",
-  "web3.institution.list.subtitle": "Discover the nonprofits and causes that speak to you"
+  "web3.institution.list.subtitle": "Discover the nonprofits and causes that speak to you",
+  "web3.privacy.policy": "Política de Privacidade",
+  "web3.terms.conditions": "Termos e Condições",
+  "web3.cookie.policy": "Política de Cookies",
+  "web3.disconect": "Desconectar",
+  "web3.connect.wallet": "Conectar à carteira",
+  "web3.copyright.note": "...",
+  "web3.all.right.reserved": "© {year} esolidar. Todos os direitos reservados"
 }
