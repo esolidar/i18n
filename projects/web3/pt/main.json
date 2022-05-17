@@ -9,7 +9,7 @@
   "web3.copyright.note": "...",
   "web3.all.right.reserved": "© {year} esolidar. Todos os direitos reservados",
   "web3.donate": "Donate",
-  "web3.donateModal.to": "Donate to {NonprofitName}",
+  "web3.donateModal.to": "Donate to {nonProfitName}",
   "web3.donateModal.allow.cusd": "Allow cUSD to be used as payment",
   "web3.donateModal.subtitle": "Help this cause by making a contribution of any size.",
   "web3.donateModal.amount": "Donation amount",
