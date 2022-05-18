@@ -429,5 +429,12 @@
   "whitelabel.keywords": "Keywords (Max. 8)",
   "whitelabel.logo": "Logo",
   "admin.display.name": "Nome para exibição",
-  "admin.display.name.minimum.characteres": "Deve ter no mínimo 3 caracteres"
+  "admin.display.name.minimum.characteres": "Deve ter no mínimo 3 caracteres",
+  "about.en": "Sobre EN",
+  "about.pt": "Sobre PT",
+  "about.br": "Sobre BR",
+  "short.bio": "Perfil curto",
+  "short.bio.en": "Perfil curto EN",
+  "short.bio.pt": "Perfil curto PT",
+  "short.bio.br": "Perfil curto BR"
 }
