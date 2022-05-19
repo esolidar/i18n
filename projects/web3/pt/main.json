@@ -14,5 +14,10 @@
   "web3.donateModal.allow.cusd": "Allow cUSD to be used as payment",
   "web3.donateModal.subtitle": "Help this cause by making a contribution of any size.",
   "web3.donateModal.amount": "Donation amount",
-  "web3.donateModal.shortcuts": "or use the shortcuts below"
+  "web3.donateModal.shortcuts": "or use the shortcuts below",
+  "projects.filter.ods": "ODS",
+  "sdg.description.1": "Objetivos de Desenvolvimento Sustentável  (ODS)",
+  "sdg.description": "Objetivos de Desenvolvimento Sustentável ",
+  "sdg.description.text": "Os Objetivos de Desenvolvimento Sustentável ou ODS são um conjunto de 17 objetivos projetados para ser um \"modelo para alcançar um futuro melhor e mais sustentável para todos\"",
+  "learn.more": "Saiba mais"
 }

@@ -14,5 +14,10 @@
   "web3.donateModal.allow.cusd": "Allow cUSD to be used as payment",
   "web3.donateModal.subtitle": "Help this cause by making a contribution of any size.",
   "web3.donateModal.amount": "Donation amount",
-  "web3.donateModal.shortcuts": "or use the shortcuts below"
+  "web3.donateModal.shortcuts": "or use the shortcuts below",
+  "projects.filter.ods": "SDG",
+  "sdg.description.1": "Sustainable Development Goals (SDG)",
+  "sdg.description": "Sustainable Development Goals",
+  "sdg.description.text": "The Sustainable Development Goals or SDGs are a collection of 17 goals designed to be a \"blueprint to achieve a better and more sustainable future for all\"",
+  "learn.more": "Learn more"
 }
