@@ -19,5 +19,13 @@
   "sdg.description.1": "Sustainable Development Goals (SDG)",
   "sdg.description": "Sustainable Development Goals",
   "sdg.description.text": "The Sustainable Development Goals or SDGs are a collection of 17 goals designed to be a \"blueprint to achieve a better and more sustainable future for all\"",
-  "learn.more": "Learn more"
+  "learn.more": "Learn more",
+  "web3.successModal.subtitle": "You just gave more for less cost, making a real impact with your crypto. Thank you for supporting {nonProfitName} mission!",
+  "web3.successModal.transition": "Blockchain transaction ID",
+  "web3.successModal.share.title": "Spread the word!",
+  "web3.successModal.share.subtitle": "Help this good cause by inviting your friends",
+  "web3.successModal.copy.link": "Copy link",
+  "web3.successModal.blockchain.title": "Blockchain transaction ID",
+  "web3.successModal.blockchain.text": "A txid or Transaction ID is a string of letters and numbersthat identifies a specific transaction on the blockchain. As the name suggests, it literally “confirms” that the funds have been sent to the correct address and not to anyone else.",
+  "web3.successModal.blockchain.learn.more.url": "https://www.cryptonary.com/cryptoschool/how-to-check-transactions-on-the-blockchain/"
 }
