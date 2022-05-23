@@ -24,7 +24,7 @@
   "web3.successModal.transition.id": "ID da transação Blockchain",
   "web3.successModal.share.title": "Compartilhar a notícia!",
   "web3.successModal.share.subtitle": "Convide seus amigos e ajude essa boa causa",
-  "web3.successModal.copy.link": "Copy link",
+  "web3.successModal.copy.link": "Copiar link",
   "web3.successModal.blockchain.text": "Um txid ou ID de transação é uma sequência de letras e números que identifica uma transação específica em blockchain. Como o nome sugere, “confirma” literalmente que seus fundos foram enviados para o endereço correto e não para mais ninguém.",
   "web3.successModal.blockchain.learn.more.url": "https://www.cryptonary.com/cryptoschool/how-to-check-transactions-on-the-blockchain/",
   "web3.donateModal.no.balance": "Saldo insuficiente",
