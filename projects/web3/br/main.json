@@ -46,5 +46,7 @@
   "web3.share.text": "Junte-se a mim para arrecadar fundos para {nonProfitName} via @esolidar {url}",
   "web3.CardContribute.title": "Contribuir em Celo Dollar",
   "web3.CardContribute.popover": "Envie apenas cUSD para este endereço. Pode perder  sua doação se enviar tokens não suportados para esse endereço",
-  "web3.CardContribute.subtitle": "100% de sua doação vai para {nonProfitName}"
+  "web3.CardContribute.subtitle": "100% de sua doação vai para {nonProfitName}",
+  "web3.mission": "Missão",
+  "web3.raised": "Valor arrecadado"
 }
