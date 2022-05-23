@@ -21,12 +21,14 @@
   "sdg.description.text": "The Sustainable Development Goals or SDGs are a collection of 17 goals designed to be a \"blueprint to achieve a better and more sustainable future for all\"",
   "learn.more": "Learn more",
   "web3.successModal.subtitle": "You just gave more for less cost, making a real impact with your crypto. Thank you for supporting {nonProfitName} mission!",
-  "web3.successModal.transition": "Blockchain transaction ID",
+  "web3.successModal.transition.id": "Blockchain transaction ID",
   "web3.successModal.share.title": "Spread the word!",
   "web3.successModal.share.subtitle": "Help this good cause by inviting your friends",
   "web3.successModal.copy.link": "Copy link",
-  "web3.successModal.blockchain.title": "Blockchain transaction ID",
-  "web3.successModal.blockchain.text": "A txid or Transaction ID is a string of letters and numbersthat identifies a specific transaction on the blockchain. As the name suggests, it literally “confirms” that the funds have been sent to the correct address and not to anyone else.",
+  "web3.successModal.blockchain.text": "A txid or Tr ansaction ID is a string of letters and numbersthat identifies a specific transaction on the blockchain. As the name suggests, it literally “confirms” that the funds have been sent to the correct address and not to anyone else.",
   "web3.successModal.blockchain.learn.more.url": "https://www.cryptonary.com/cryptoschool/how-to-check-transactions-on-the-blockchain/",
-  "web3.donateModal.no.balance": "Not enough balance"
+  "web3.donateModal.no.balance": "Not enough balance",
+  "web3.thankYou": "Thank you! 🎉",
+  "web3.donateModal.error": "An error occurred and we are unable to proceed... Please read our <a>troubleshooting guide.</a>",
+  "web3.error.alert": "Error An error occurred and we are unable to proceed..."
 }

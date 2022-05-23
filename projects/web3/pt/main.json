@@ -20,13 +20,15 @@
   "sdg.description": "Objetivos de Desenvolvimento Sustentável ",
   "sdg.description.text": "Os Objetivos de Desenvolvimento Sustentável ou ODS são um conjunto de 17 objetivos projetados para ser um \"modelo para alcançar um futuro melhor e mais sustentável para todos\"",
   "learn.more": "Saiba mais",
-  "web3.successModal.subtitle": "You just gave more for less cost, making a real impact with your crypto. Thank you for supporting {nonProfitName} mission!",
-  "web3.successModal.transition": "Blockchain transaction ID",
-  "web3.successModal.share.title": "Spread the word!",
-  "web3.successModal.share.subtitle": "Help this good cause by inviting your friends",
+  "web3.successModal.subtitle": "Acabaste de doar mais ao gastar menos, e deixaste uma marca positiva no mundo com a tua cripto. Obrigada por apoiares a missão {nonProfitName}!",
+  "web3.successModal.transition.id": "ID da transação Blockchain",
+  "web3.successModal.share.title": "Partilha a notícia!",
+  "web3.successModal.share.subtitle": "Convida os teus amigos e ajuda esta causa  ",
   "web3.successModal.copy.link": "Copy link",
-  "web3.successModal.blockchain.title": "Blockchain transaction ID",
-  "web3.successModal.blockchain.text": "A txid or Transaction ID is a string of letters and numbersthat identifies a specific transaction on the blockchain. As the name suggests, it literally “confirms” that the funds have been sent to the correct address and not to anyone else.",
+  "web3.successModal.blockchain.text": "Um txid ou ID da transação blockchain é uma sequência de letras e números que identificam uma transação específica na blockchain. Como  nome indica, confirma que os teus fundos foram enviados para o endereço correcto e para mais ninguém.",
   "web3.successModal.blockchain.learn.more.url": "https://www.cryptonary.com/cryptoschool/how-to-check-transactions-on-the-blockchain/",
-  "web3.donateModal.no.balance": "Not enough balance"
+  "web3.donateModal.no.balance": "Not enough balance",
+  "web3.thankYou": "Obrigada! 🎉",
+  "web3.donateModal.error": "Lamentamos mas ocorreu um erro inesperado e não conseguimos continuar... Por favor consulta o <a>guia de resolução de problemas</a>",
+  "web3.error.alert": "Lamentamos mas ocorreu um erro inesperado e não conseguimos continuar..."
 }
