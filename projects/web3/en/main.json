@@ -26,7 +26,6 @@
   "web3.successModal.share.subtitle": "Help this good cause by inviting your friends",
   "web3.successModal.copy.link": "Copy link",
   "web3.successModal.blockchain.text": "A txid or Tr ansaction ID is a string of letters and numbersthat identifies a specific transaction on the blockchain. As the name suggests, it literally “confirms” that the funds have been sent to the correct address and not to anyone else.",
-  "web3.successModal.blockchain.learn.more.url": "https://www.cryptonary.com/cryptoschool/how-to-check-transactions-on-the-blockchain/",
   "web3.donateModal.no.balance": "Not enough balance",
   "web3.thankYou": "Thank you! 🎉",
   "web3.donateModal.error": "An error occurred and we are unable to proceed... Please read our <a>troubleshooting guide</a>.",
