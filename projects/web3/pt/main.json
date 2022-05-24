@@ -43,10 +43,12 @@
   "web3.homepage.box4.title": "Incentiva a transparência",
   "web3.homepage.box4.subtitle": "Ajuda a promover doações transparentes e incentiva uma adoção mais ampla de cripto",
   "web3.homepage.partners": "Apoiantes e parceiros",
-  "web3.share.text": "Junta-te a mim a recolher fundos para {nonProfitName}! via a @esolidar {url}",
+  "web3.share.text": "Junta-te a mim a recolher fundos para {nonProfitName}! via a @esolidar",
   "web3.CardContribute.title": "Contribuir em Celo Dollar",
   "web3.CardContribute.popover": "Envia apenas cUSD para este endereço. Podes perder a tua doação caso envies tokens não suportados para este endereço ",
   "web3.CardContribute.subtitle": "100% da tua doação vai para {nonProfitName}",
   "web3.mission": "Missão",
-  "web3.raised": "Valor angariado"
+  "web3.raised": "Valor angariado",
+  "web3.copied": "Copiado",
+  "web3.balance": "Saldo"
 }
