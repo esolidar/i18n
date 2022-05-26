@@ -31,7 +31,7 @@
   "web3.donateModal.error": "An error occurred and we are unable to proceed... Please read our <a>troubleshooting guide</a>.",
   "web3.error.alert": "Error An error occurred and we are unable to proceed...",
   "web3.view.more": "View more",
-  "web3.homepage.support.title": "We help you support the causes you care about ",
+  "web3.homepage.support.title": "We help you support the causes you care about  ",
   "web3.homepage.support.subtitle": "We are bringing transparency, efficiency, and governance into the philanthropic sector and ESG market by innovating the ways we help causes and nonprofits all around the world.",
   "web3.homepage.box1.title": "Maximize your impact",
   "web3.homepage.box1.subtitle": "Have a real-world impact with your crypto profits, furthering the mission of the causes you donate to",
@@ -50,5 +50,9 @@
   "web3.raised": "Raised",
   "web3.copied": "Copied",
   "web3.balance": "Balance",
-  "web3.share": "Share"
+  "web3.share": "Share",
+  "web3.hero.title": "Maximize your impact ",
+  "web3.hero.title.help": "with crypto",
+  "web3.hero.subtitle": "100% of your crypto donation goes directly to the causes you care about. Fully transparent, anonymous, and fast.",
+  "web3.hero.causes": "Discover causes"
 }

@@ -50,5 +50,9 @@
   "web3.raised": "Valor angariado",
   "web3.copied": "Copiado",
   "web3.balance": "Saldo",
-  "web3.share": "Partilhar"
+  "web3.share": "Partilhar",
+  "web3.hero.title": "Maximiza o teu impacto ",
+  "web3.hero.title.help": "com cripto",
+  "web3.hero.subtitle": "100% da tua doação em cripto é enviada directamente às causas que tu apoias. Totalmente transparente, anónimo e rápido. ",
+  "web3.hero.causes": "Descobrir projetos"
 }
