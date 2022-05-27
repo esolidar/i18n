@@ -1,6 +1,6 @@
 {
   "web3.institution.list.title": "Descobrir",
-  "web3.institution.list.subtitle": "Discover the nonprofits and causes that speak to you",
+  "web3.institution.list.subtitle": "Descubra as organizações sociais e  projetos com as quais você se identifica",
   "web3.privacy.policy": "Política de Privacidade",
   "web3.terms.conditions": "Termos e Condições",
   "web3.cookie.policy": "Política de Cookies",
@@ -9,8 +9,8 @@
   "web3.connect.wallet": "Conectar à carteira",
   "web3.copyright.note": "As informações apresentadas são de natureza informativa e educacional. Não é e nem devem ser interpretadas como conselho jurídico ou fiscal. Regras e regulamentos relativos a deduções fiscais para doações de caridade variam ao nível de país e estado. As leis de um país e estado ou leis relevantes para uma situação específica podem afetar a aplicabilidade, precisão ou integridade das informações fornecidas. Confira com um consultor fiscal sobre consequências legais ou fiscais de doar em cripto. Todos os nomes de organizações, logótipos e marcas são de propriedade de seus respectivos proprietários sendo usados neste site apenas para identificação dos mesmos. Seu uso não implica nosso endosso.",
   "web3.all.right.reserved": "© {year} esolidar. Todos os direitos reservados",
-  "web3.donate": "Donate",
-  "web3.donateModal.to": "Donate to {nonProfitName}",
+  "web3.donate": "Doar",
+  "web3.donateModal.to": "Doar para {nonProfitName}",
   "web3.donateModal.allow.cusd": "Allow cUSD to be used as payment",
   "web3.donateModal.subtitle": "Ajude esta causa fazendo uma contribuição de um valor à tua ecolha.",
   "web3.donateModal.amount": "Valor da doação",
@@ -54,5 +54,13 @@
   "web3.hero.title": "Maximize seu impacto ",
   "web3.hero.title.help": "com cripto",
   "web3.hero.subtitle": "100% de sua cripto doada diretamente para as causas que você escolher. Totalmente transparente, anônimo e rápido.",
-  "web3.hero.causes": "Descobrir projetos"
+  "web3.hero.causes": "Descobrir projetos",
+  "web3.seach.placeholder": "Procure por organizações sociais ou causas...",
+  "web3.seach.results": "organizações sociais ou causas",
+  "web3.searching": "Procurando",
+  "web3.searching.message": "Por favor, aguarde enquanto procuramos por organizações sociais ou projetos {search}",
+  "web3.view.celo": "Visualize no Celo Explorer",
+  "web3.add.founs": "Add funds with card",
+  "web3.home": "Home",
+  "web3.featured": "Em destaque"
 }
