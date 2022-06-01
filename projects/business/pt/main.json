@@ -731,7 +731,7 @@
   "payment.mm": "MM",
   "payment.nif.error": "Por favor introduza o campo NIF.",
   "payment.numberPlaceholder": "Número de conta bancária",
-  "payment.real_address.error": "Por favor introduza a morada de faturação.",
+  "payment.real_address.error": "Por favor introduza o endereço da faturação.",
   "payment.success.processed": "O seu pagamento foi processado com sucesso!",
   "payment.yyyy": "YYYY",
   "payments-history.payment-order": "Ordem de pagamento {value}",

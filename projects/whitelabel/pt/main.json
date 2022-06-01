@@ -290,7 +290,7 @@
   "payment.loader.see.mbway.app": "Por favor aceda à sua aplicação MBWAY e confirme o pagamento.",
   "payment.mm": "MM",
   "payment.nif.error": "O campo NIF é obrigatório",
-  "payment.real_address.error": "O campo morada de faturação é obrigatório",
+  "payment.real_address.error": "O campo endereço da faturação é obrigatório",
   "payment.yyyy": "aaaa",
   "pending": "Pendente",
   "please.wait": "Por favor, aguarde",

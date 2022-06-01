@@ -167,7 +167,7 @@
   "banksortcode": "Código de identificação bancária",
   "charityneeds.detail.btn.close.request": "Fechar pedido",
   "charityneeds.detail.btn.review": "Avaliar",
-  "checkout.invoice_address": "Morada de faturação",
+  "checkout.invoice_address": "Endereço de cobrança",
   "checkout.invoicing.title": "Informação de faturação",
   "checkout.noitems": "Não existe artigos para pagar",
   "checkout.payment.cardnumber": "Número do cartão",
