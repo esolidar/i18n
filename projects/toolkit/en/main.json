@@ -167,7 +167,7 @@
   "banksortcode": "Bank sort code",
   "charityneeds.detail.btn.close.request": "Close request",
   "charityneeds.detail.btn.review": "Review",
-  "checkout.invoice_address": "Invoicing address",
+  "checkout.invoice_address": "Billing address",
   "checkout.invoicing.title": "Invoicing information",
   "checkout.noitems": "There are no items to checkout",
   "checkout.payment.cardnumber": "Card number",
