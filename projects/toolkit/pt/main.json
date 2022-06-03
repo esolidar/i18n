@@ -630,5 +630,9 @@
   "toolkit.upload.document.file.replace": "Substituir ficheiro",
   "toolkit.upload.document.file.private": "Manter ficheiro privado",
   "toolkit.donate": "Doar",
-  "toolkit.location": "Localização"
+  "toolkit.location": "Localização",
+  "toolkit.unfollow": "Deixar de seguir",
+  "toolkit.following": "Seguindo",
+  "toolkit.follow": "Seguir",
+  "toolkit.followers.count": "{value, number} {value, plural, one {seguidor} other {seguidores}}"
 }
