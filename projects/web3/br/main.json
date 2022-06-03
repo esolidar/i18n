@@ -43,7 +43,7 @@
   "web3.homepage.box4.subtitle": "Promova uma rede de doações transparente e incentive uma adoção mais ampla de cripto",
   "web3.homepage.partners": "Apoiantes e parceiros",
   "web3.share.text": "Junte-se a mim para arrecadar fundos para {nonProfitName} via @esolidar",
-  "web3.CardContribute.title": "Contribuir em Celo Dollar",
+  "web3.CardContribute.title": "Contribuir com a Valora",
   "web3.CardContribute.popover": "Envie apenas cUSD para este endereço. Pode perder  sua doação se enviar tokens não suportados para esse endereço",
   "web3.CardContribute.subtitle": "100% de sua doação vai para {nonProfitName}",
   "web3.mission": "Missão",
