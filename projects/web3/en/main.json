@@ -62,5 +62,6 @@
   "web3.view.celo": "View on Celo Explorer",
   "web3.add.founs": "Add funds with card",
   "web3.home": "Home",
-  "web3.featured": "Featured"
+  "web3.featured": "Featured",
+  "web3.card.sdg.description": "This nonprofit or cause supports the following UN SDGs to achieve a better and more sustainable future for all"
 }
