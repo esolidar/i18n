@@ -634,5 +634,11 @@
   "toolkit.unfollow": "Unfollow",
   "toolkit.following": "Following",
   "toolkit.follow": "Follow",
-  "toolkit.followers.count": "{value, number} {value, plural, one {follower} other {followers}}"
+  "toolkit.followers.count": "{value, number} {value, plural, one {follower} other {followers}}",
+  "toolkit.about": "About",
+  "toolkit.documents": "Documents",
+  "toolkit.updates": "Updates",
+  "toolkit.comments": "Comments",
+  "whitelabel.new-initiative": "Nova iniciativa",
+  "toolkit.upload-document": "Upload document"
 }

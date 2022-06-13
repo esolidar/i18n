@@ -634,5 +634,11 @@
   "toolkit.unfollow": "Deixar de seguir",
   "toolkit.following": "Seguindo",
   "toolkit.follow": "Seguir",
-  "toolkit.followers.count": "{value, number} {value, plural, one {seguidor} other {seguidores}}"
+  "toolkit.followers.count": "{value, number} {value, plural, one {seguidor} other {seguidores}}",
+  "toolkit.about": "Sobre",
+  "toolkit.documents": "Documentos",
+  "toolkit.updates": "Atualizações",
+  "toolkit.comments": "Comentários",
+  "whitelabel.new-initiative": "Nova iniciativa",
+  "toolkit.upload-document": "Carregar arquivo"
 }
