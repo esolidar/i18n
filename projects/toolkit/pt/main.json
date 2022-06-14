@@ -640,5 +640,19 @@
   "toolkit.updates": "Atualizações",
   "toolkit.comments": "Comentários",
   "whitelabel.new-initiative": "New initiative",
-  "toolkit.upload-document": "Carregar documento"
+  "toolkit.upload-document": "Carregar documento",
+  "toolkit.comments.inactive.title": "Os comentários estão inativos pelo momento",
+  "toolkit.comments.inactive.text": "Assim que o projeto for aprovado, estará disponível para interação pública",
+  "toolkit.uploads.owner.empty.title": "Ainda não carregou documentos",
+  "toolkit.uploads.empty.title": "Ainda não há documentos carregados",
+  "toolkit.uploads.owner.empty.text": "Complemente os detalhes do seu projeto",
+  "toolkit.uploads.empty.text": "Os documentos carregados pelo proprietário do projeto serão exibidos aqu",
+  "toolkit.initiatives.owner.empty.title": "Nenhuma iniciativa para já",
+  "toolkit.initiatives.owner.empty.text": "Assim que o proprietário do projeto criar iniciativas, elas serão exibidas aqui",
+  "toolkit.initiatives": "Iniciativas",
+  "toolkit.initiatives.supporting.project": "Iniciativas que apoiam este projeto",
+  "toolkit.initiatives.empty.title": "Ainda não criou nenhuma iniciativa",
+  "toolkit.initiatives.empty.text": "Iniciativas irão ajudá-lo a apoiar as necessidades do seu projeto",
+  "toolkit.updates.inactive.title": "As atualizações estão inativas pelo momento",
+  "toolkit.updates.inactive.text": "Assim que o projeto for aprovado, poderá informar o público sobre novidades e progresso do projeto"
 }

@@ -640,5 +640,19 @@
   "toolkit.updates": "Updates",
   "toolkit.comments": "Comments",
   "whitelabel.new-initiative": "Nova iniciativa",
-  "toolkit.upload-document": "Upload document"
+  "toolkit.upload-document": "Upload document",
+  "toolkit.comments.inactive.title": "Comments are inactive for the moment",
+  "toolkit.comments.inactive.text": "Once your project is approved, it will become available for public engagement",
+  "toolkit.uploads.owner.empty.title": "You haven’t uploaded documents yet",
+  "toolkit.uploads.empty.title": "No documents uploaded yet",
+  "toolkit.uploads.owner.empty.text": "Complement your project details",
+  "toolkit.uploads.empty.text": "Documents uploaded by the project owner will be displayed here",
+  "toolkit.initiatives.owner.empty.title": "No initiatives at the moment",
+  "toolkit.initiatives.owner.empty.text": "Once the project's owner creates initiatives, they'll be displayed here",
+  "toolkit.initiatives": "Initiatives",
+  "toolkit.initiatives.supporting.project": "Initiatives supporting this project",
+  "toolkit.initiatives.empty.title": "You haven’t created any initiatives yet",
+  "toolkit.initiatives.empty.text": "Initiatives will help you to support your project needs",
+  "toolkit.updates.inactive.title": "Updates are inactive for the moment",
+  "toolkit.updates.inactive.text": "Once your project is approved, you can notify the public about news and your current progress"
 }
