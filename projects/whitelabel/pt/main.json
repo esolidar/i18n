@@ -580,5 +580,7 @@
   "visitor.confirm-account.help.action": "Ver soluções",
   "visitor.confirmation-expired.heading": "Email de confirmação expirado",
   "visitor.confirmation-expired.description": "Lamentamos, mas o email de confirmação expirou. Por motivos de segurança, este email é válido apenas por {duration} minutos.",
-  "glossary.resend-email": "Reenviar email"
+  "glossary.resend-email": "Reenviar email",
+  "whitelabel.message.emptyState.title": "Ainda não há tickets",
+  "whitelabel.message.emptyState.subtitle": "Contacte o dono do projeto para esclarecer qualquer problema ou dúvida que possa ter"
 }

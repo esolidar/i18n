@@ -580,5 +580,7 @@
   "visitor.confirm-account.help.action": "View solutions",
   "visitor.confirmation-expired.heading": "Confirmation email expired",
   "visitor.confirmation-expired.description": "We're sorry, but your confirmation email has expired. For safety reasons, this email is only valid for {duration} minutes.",
-  "glossary.resend-email": "Resend email"
+  "glossary.resend-email": "Resend email",
+  "whitelabel.message.emptyState.title": "No tickets yet",
+  "whitelabel.message.emptyState.subtitle": "Reach out to the project owner to clarify any issue or question you may have"
 }
