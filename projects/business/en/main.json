@@ -1443,5 +1443,8 @@
   "business.download.fileFormat": "Download {fileFormat}",
   "business.keep-editing": "Keep editing",
   "business.name": "Name",
-  "thumb.countdown.eightHoursLeft": "Ending soon"
+  "thumb.countdown.eightHoursLeft": "Ending soon",
+  "project.tickets.createdAt": "Created At",
+  "business.message.emptyState.title": "No tickets yet",
+  "business.message.emptyState.subtitle": "All {companyName} issues or questions about the project will be displayed here"
 }
