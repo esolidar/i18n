@@ -67,6 +67,7 @@
   "continue": "Continuar",
   "contribute": "Contribuir",
   "country.label": "País",
+  "coverError": "A imagem de capa deve ter no mínimo 1600px por 570px",
   "crowdfunding-image-dimensions-error": "A imagem deve ter no mínimo 500px por 470px.",
   "crowdfunding-image-invalid": "A sua imagem não é válida",
   "crowdfunding-image-size-invalid": "A imagem deve ter 5Mb ou menos.",

@@ -67,6 +67,7 @@
   "continue": "Continue",
   "contribute": "Donate",
   "country.label": "Country",
+  "coverError": "Your cover image should be at least 1600px per 570px.",
   "crowdfunding-image-dimensions-error": "Your image should be at least 500px per 470px",
   "crowdfunding-image-invalid": "Your image is not valid",
   "crowdfunding-image-size-invalid": "The picture should be 5MB or smaller.",
