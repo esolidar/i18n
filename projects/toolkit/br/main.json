@@ -654,5 +654,11 @@
   "toolkit.initiatives.empty.title": "Você ainda não criou nenhuma iniciativa",
   "toolkit.initiatives.empty.text": "Iniciativas irão ajudá-lo a apoiar as necessidades de seu projeto",
   "toolkit.updates.inactive.title": "As atualizações estão inativas por agora",
-  "toolkit.updates.inactive.text": "Assim que seu projeto for aprovado, você pode começar a notificar o público sobre suas novidades e progresso atual"
+  "toolkit.updates.inactive.text": "Assim que seu projeto for aprovado, você pode começar a notificar o público sobre suas novidades e progresso atual",
+  "toolkit.update.status.rejected": "Você rejeitou o projeto com sucesso!",
+  "toolkit.update.status.pending": "Você suspendeu o projeto com sucesso!",
+  "toolkit.update.status.in-review": "Você suspendeu o projeto com sucesso!",
+  "toolkit.update.status.approved": "Você aprovou o projeto com sucesso!",
+  "toolkit.update.review.title": "Você avaliou esse projeto com sucesso!",
+  "toolkit.update.review.text": "Não se esqueça de tomar sua decisão final após avaliar os restantes projetos"
 }

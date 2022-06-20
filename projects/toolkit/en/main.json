@@ -654,5 +654,11 @@
   "toolkit.initiatives.empty.title": "You haven’t created any initiatives yet",
   "toolkit.initiatives.empty.text": "Initiatives will help you to support your project needs",
   "toolkit.updates.inactive.title": "Updates are inactive for the moment",
-  "toolkit.updates.inactive.text": "Once your project is approved, you can notify the public about news and your current progress"
+  "toolkit.updates.inactive.text": "Once your project is approved, you can notify the public about news and your current progress",
+  "toolkit.update.status.rejected": "You successfully rejected this project!",
+  "toolkit.update.status.pending": "You successfully put the project on pending!",
+  "toolkit.update.status.in-review": "You successfully put the project on hold!",
+  "toolkit.update.status.approved": "You successfully approved this project!",
+  "toolkit.update.review.title": "You successfully reviewed this project!",
+  "toolkit.update.review.text": "Don’t forget to make your final decision once you review the remaining projects"
 }
