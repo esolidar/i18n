@@ -660,5 +660,13 @@
   "toolkit.update.status.in-review": "You successfully put the project on hold!",
   "toolkit.update.status.approved": "You successfully approved this project!",
   "toolkit.update.review.title": "You successfully reviewed this project!",
-  "toolkit.update.review.text": "Don’t forget to make your final decision once you review the remaining projects"
+  "toolkit.update.review.text": "Don’t forget to make your final decision once you review the remaining projects",
+  "toolkit.add.images": "Add images",
+  "toolkit.add.documents": "Add documents",
+  "toolkit.select.images": "Select images",
+  "toolkit.select.documents": "Select documents",
+  "toolkit.upload.images": "Upload images",
+  "toolkit.upload.documents": "Upload documents",
+  "toolkit.upload.images.error.size": "Upload images smaller than 5Mb each",
+  "toolkit.upload.documents.error.size": "Upload up to 3 documents smaller than 20Mb each"
 }

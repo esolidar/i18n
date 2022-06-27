@@ -660,5 +660,13 @@
   "toolkit.update.status.in-review": "Suspendeu o projeto com sucesso!",
   "toolkit.update.status.approved": "Aprovou o projeto com sucesso!",
   "toolkit.update.review.title": "Avaliou o projeto com sucesso!",
-  "toolkit.update.review.text": "Não se esqueça de tomar a decisão final após avaliar os restantes projetos"
+  "toolkit.update.review.text": "Não se esqueça de tomar a decisão final após avaliar os restantes projetos",
+  "toolkit.add.images": "Adicionar imagens",
+  "toolkit.add.documents": "Adicionar documentos",
+  "toolkit.select.images": "Selecionar imagens",
+  "toolkit.select.documents": "Selecionar documentos",
+  "toolkit.upload.images": "Carregar imagens",
+  "toolkit.upload.documents": "Carregar documentos",
+  "toolkit.upload.images.error.size": "Carregue imagens com dimensões menores que 5Mb cada",
+  "toolkit.upload.documents.error.size": "Carregue até 3 documentos com dimensões menores que 20Mb cada"
 }
