@@ -668,5 +668,12 @@
   "toolkit.upload.images": "Carregar imagens",
   "toolkit.upload.documents": "Carregar documentos",
   "toolkit.upload.images.error.size": "Carregue imagens com dimensões menores que 5Mb cada",
-  "toolkit.upload.documents.error.size": "Carregue até 3 documentos com dimensões menores que 20Mb cada"
+  "toolkit.upload.documents.error.size": "Carregue até 3 documentos com dimensões menores que 20Mb cada",
+  "toolkit.dateDistance.now": "Agora mesmo",
+  "toolkit.dateDistance.few": "Alguns momentos atrás",
+  "toolkit.dateDistance.mins": "{value, number} {value, plural, one {min atrás} other {mins atrás}}",
+  "toolkit.dateDistance.hours": "{value, number} {value, plural, one {hora atrás} other {horas atrás}}",
+  "toolkit.dateDistance.weeks": "{value, number} {value, plural, one {semana atrás} other {semanas atrás}}",
+  "toolkit.dateDistance.months": "{value, number} {value, plural, one {mês atrás} other {meses atrás}}",
+  "toolkit.dateDistance.years": "{value, number} {value, plural, one {ano atrás} other {anos atrás}}"
 }

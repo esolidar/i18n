@@ -668,5 +668,12 @@
   "toolkit.upload.images": "Upload images",
   "toolkit.upload.documents": "Upload documents",
   "toolkit.upload.images.error.size": "Upload images smaller than 5Mb each",
-  "toolkit.upload.documents.error.size": "Upload up to 3 documents smaller than 20Mb each"
+  "toolkit.upload.documents.error.size": "Upload up to 3 documents smaller than 20Mb each",
+  "toolkit.dateDistance.now": "Just now",
+  "toolkit.dateDistance.few": "A few moments ago",
+  "toolkit.dateDistance.mins": "{value, number} {value, plural, one {min ago} other {mins ago}}",
+  "toolkit.dateDistance.hours": "{value, number} {value, plural, one {hour ago} other {hours ago}}",
+  "toolkit.dateDistance.weeks": "{value, number} {value, plural, one {week ago} other {weeks ago}}",
+  "toolkit.dateDistance.months": "{value, number} {value, plural, one {month ago} other {months ago}}",
+  "toolkit.dateDistance.years": "{value, number} {value, plural, one {year ago} other {years ago}}"
 }
