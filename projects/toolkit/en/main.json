@@ -680,5 +680,8 @@
   "toolkit.dateDistance.months": "{value, number} {value, plural, one {month ago} other {months ago}}",
   "toolkit.dateDistance.years": "{value, number} {value, plural, one {year ago} other {years ago}}",
   "toolkit.comments.like": "{value, number} {value, plural, one {like} other {likes}}",
-  "toolkit.comments.comment": "{value, number} {value, plural, one {comment} other {comments}}"
+  "toolkit.comments.comment": "{value, number} {value, plural, one {comment} other {comments}}",
+  "toolkit.comments.view.replies": "View all replies",
+  "toolkit.comments.view.comments": "View all comments",
+  "toolkit.comments.number.replies": "View {value, number} {value, plural, one {reply} other {replies}}"
 }
