@@ -19,6 +19,8 @@
   "submit": "Submeter",
   "delete": "Eliminar",
   "share": "Compartilhar",
+  "like": "Gosto",
+  "comment": "Comentar",
   "copy": "Copiar",
   "and": "e",
   "required": "Este campo é obrigatório",
@@ -675,5 +677,7 @@
   "toolkit.dateDistance.hours": "{value, number} {value, plural, one {hora} other {horas}}",
   "toolkit.dateDistance.weeks": "{value, number} {value, plural, one {semana} other {semanas}}",
   "toolkit.dateDistance.months": "{value, number} {value, plural, one {mês} other {meses}}",
-  "toolkit.dateDistance.years": "{value, number} {value, plural, one {ano} other {anos}}"
+  "toolkit.dateDistance.years": "{value, number} {value, plural, one {ano} other {anos}}",
+  "toolkit.comments.like": "{value, number} {value, plural, one {gosto} other {gostos}}",
+  "toolkit.comments.comment": "{value, number} {value, plural, one {comentário} other {comentários}}"
 }

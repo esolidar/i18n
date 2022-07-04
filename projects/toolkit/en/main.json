@@ -19,6 +19,8 @@
   "submit": "Submit",
   "delete": "Delete",
   "share": "Share",
+  "like": "Like",
+  "comment": "Comment",
   "copy": "Copy",
   "and": "and",
   "required": "This field is required",
@@ -675,5 +677,7 @@
   "toolkit.dateDistance.hours": "{value, number} {value, plural, one {hour ago} other {hours ago}}",
   "toolkit.dateDistance.weeks": "{value, number} {value, plural, one {week ago} other {weeks ago}}",
   "toolkit.dateDistance.months": "{value, number} {value, plural, one {month ago} other {months ago}}",
-  "toolkit.dateDistance.years": "{value, number} {value, plural, one {year ago} other {years ago}}"
+  "toolkit.dateDistance.years": "{value, number} {value, plural, one {year ago} other {years ago}}",
+  "toolkit.comments.like": "{value, number} {value, plural, one {like} other {likes}}",
+  "toolkit.comments.comment": "{value, number} {value, plural, one {comment} other {comments}}"
 }
