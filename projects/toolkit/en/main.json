@@ -689,5 +689,7 @@
   "toolkit.comments.comment": "{value, number} {value, plural, one {comment} other {comments}}",
   "toolkit.comments.view.replies": "View all replies",
   "toolkit.comments.view.comments": "View all comments",
-  "toolkit.comments.number.replies": "View {value, number} {value, plural, one {reply} other {replies}}"
+  "toolkit.comments.number.replies": "View {value, number} {value, plural, one {reply} other {replies}}",
+  "toolkit.comments.delete.title": "Delete comment?",
+  "toolkit.comments.delete.description": "If you delete this comment, it will be deleted from your feed and {name} will be notified"
 }
