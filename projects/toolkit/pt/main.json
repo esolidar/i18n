@@ -693,5 +693,6 @@
   "toolkit.comments.delete.title": "Eliminar comentário?",
   "toolkit.comments.delete.description": "Se eliminar o comentário, ele será eliminado do feed e será enviado uma notificação para {name}",
   "toolkit.notes.delete.title": "Eliminar nota?",
-  "toolkit.notes.delete.description": "Ao eliminar, irá eliminar a nota e todos os anexos. Mas não se preocupe, as respostas não serão afetadas."
+  "toolkit.notes.delete.description": "Ao eliminar, irá eliminar a nota e todos os anexos. Mas não se preocupe, as respostas não serão afetadas.",
+  "toolkit.notes.deleted": "Esta nota foi apagada"
 }

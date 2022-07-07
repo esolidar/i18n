@@ -693,5 +693,6 @@
   "toolkit.comments.delete.title": "Delete comment?",
   "toolkit.comments.delete.description": "If you delete this comment, it will be deleted from your feed and {name} will be notified",
   "toolkit.notes.delete.title": "Delete note?",
-  "toolkit.notes.delete.description": "By deleting you will remove the note and all of the attachments. But don’t worry, the replies won’t be affected."
+  "toolkit.notes.delete.description": "By deleting you will remove the note and all of the attachments. But don’t worry, the replies won’t be affected.",
+  "toolkit.notes.deleted": "This note was deleted"
 }
