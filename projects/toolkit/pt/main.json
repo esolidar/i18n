@@ -691,5 +691,7 @@
   "toolkit.comments.view.comments": "Ver todos os comentários",
   "toolkit.comments.number.replies": "Ver {value, number} {value, plural, one {resposta} other {respostas}}",
   "toolkit.comments.delete.title": "Eliminar comentário?",
-  "toolkit.comments.delete.description": "Se eliminar o comentário, ele será eliminado do feed e será enviado uma notificação para {name}"
+  "toolkit.comments.delete.description": "Se eliminar o comentário, ele será eliminado do feed e será enviado uma notificação para {name}",
+  "toolkit.notes.delete.title": "Eliminar nota?",
+  "toolkit.notes.delete.description": "Ao eliminar, irá eliminar a nota e todos os anexos. Mas não se preocupe, as respostas não serão afetadas."
 }
