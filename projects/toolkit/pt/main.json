@@ -629,7 +629,7 @@
   "toolkit.view.program-details": "Ver detalhes do programa",
   "toolkit.update": "Atualizar",
   "toolkit.upload.document.title": "Carregar documento",
-  "toolkit.upload.document.file.helper": "Carregue um ficheiro word, excel, apresentação ou PDF menor que 1 Mb",
+  "toolkit.upload.document.file.helper": "Carregue um ficheiro word, excel, apresentação ou PDF menor que 20Mb",
   "toolkit.upload.document.file.replace": "Substituir ficheiro",
   "toolkit.upload.document.file.private": "Manter ficheiro privado",
   "toolkit.donate": "Doar",
