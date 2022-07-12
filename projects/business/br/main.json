@@ -1447,5 +1447,9 @@
   "thumb.countdown.eightHoursLeft": "Quase a terminar",
   "project.tickets.createdAt": "Criado em",
   "business.message.emptyState.title": "Ainda não há tickets",
-  "business.message.emptyState.subtitle": "Todos os problemas ou dúvidas de {companyName} sobre o projeto serão exibidos aqui"
+  "business.message.emptyState.subtitle": "Todos os problemas ou dúvidas de {companyName} sobre o projeto serão exibidos aqui",
+  "business.leave.note.project": "Deixe uma nota sobre o projeto...",
+  "business.note.project.empty.body": "Deixe notas sobre o projeto para sincronizar com outros admins de {companyName}",
+  "business.note.project.empty.title": "Até agora ninguém anotou nada",
+  "business.note.delete.success": "Você exclui sua nota com sucesso!"
 }
