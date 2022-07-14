@@ -1451,5 +1451,6 @@
   "business.leave.note.project": "Leave a note on the project...",
   "business.note.project.empty.body": "Leave notes about the project to sync in with {companyName} admins",
   "business.note.project.empty.title": "So far, nothing noted",
-  "business.note.delete.success": "You successfully deleted your note!"
+  "business.note.delete.success": "You successfully deleted your note!",
+  "business.comments.view.notes": "View more notes"
 }
