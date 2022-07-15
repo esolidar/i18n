@@ -694,5 +694,8 @@
   "toolkit.comments.delete.description": "Se você excluir esse comentário, ele será excluído do seu feed e será enviado uma notificação para {name}",
   "toolkit.notes.delete.title": "Excluir nota?",
   "toolkit.notes.delete.description": "Ao excluir, você removerá a nota e todos os anexos. Mas não se preocupe, as respostas não serão afetadas.",
-  "toolkit.notes.deleted": "Esta nota foi excluida"
+  "toolkit.notes.deleted": "Esta nota foi excluida",
+  "toolkit.overview": "Visão geral",
+  "toolkit.notes": "Notas",
+  "toolkit.messages": "Mensagens"
 }
