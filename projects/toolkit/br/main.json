@@ -700,5 +700,6 @@
   "toolkit.messages": "Mensagens",
   "toolkit.notes.images.error.maxFiles.multiple": "Por favor, reduza o número de imagens para {value} ou menos e tente novamente",
   "toolkit.notes.images.error.maxSize .multiple": "Por favor, carregue imagens com menos de {value}Mb e tente novamente",
-  "toolkit.notes.files.error.maxFiles.multiple": "Por favor, carregue documentos com menos de {value}Mb e tente novamente"
+  "toolkit.notes.files.error.maxFiles.multiple": "Por favor, carregue documentos com menos de {value}Mb e tente novamente",
+  "toolkit.share.feed": "Compartilhar no mural social"
 }

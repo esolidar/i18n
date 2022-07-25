@@ -700,5 +700,6 @@
   "toolkit.messages": "Messages",
   "toolkit.notes.images.error.maxFiles.multiple": "Please reduce the number of images to {value} or fewer, and try again",
   "toolkit.notes.images.error.maxSize .multiple": "Please upload images smaller than {value}Mb, and try again",
-  "toolkit.notes.files.error.maxFiles.multiple": "Please upload documents smaller than {value}Mb, and try again"
+  "toolkit.notes.files.error.maxFiles.multiple": "Please upload documents smaller than {value}Mb, and try again",
+  "toolkit.share.feed": "Share to feed"
 }
