@@ -691,7 +691,7 @@
   "toolkit.comments.view.comments": "Ver todos os comentários",
   "toolkit.comments.number.replies": "Ver {value, number} {value, plural, one {resposta} other {respostas}}",
   "toolkit.comments.delete.title": "Eliminar comentário?",
-  "toolkit.comments.delete.description": "Se eliminar o comentário, ele será eliminado do feed e será enviado uma notificação para {name}",
+  "toolkit.comments.delete.description": "Ao eliminar o comentário, não poderá recuperá-lo, eliminando também todas as respostas (caso existirem).",
   "toolkit.notes.delete.title": "Eliminar nota?",
   "toolkit.notes.delete.description": "Ao eliminar, irá eliminar a nota e todos os anexos. Mas não se preocupe, as respostas não serão afetadas.",
   "toolkit.notes.deleted": "Esta nota foi apagada",
@@ -701,5 +701,6 @@
   "toolkit.notes.images.error.maxFiles.multiple": "Por favor, reduza o número de imagens para {value} ou menos e tente novamente",
   "toolkit.notes.images.error.maxSize .multiple": "Por favor, carregue imagens com menos de {value}Mb e tente novamente",
   "toolkit.notes.files.error.maxFiles.multiple": "Por favor, carregue documentos com menos de {value}Mb e tente novamente",
-  "toolkit.share.feed": "Partilhar no mural social"
+  "toolkit.share.feed": "Partilhar no mural social",
+  "toolkit.comments.admin.delete.description": "Se eliminar o comentário, ele será eliminado do feed e será enviado uma notificação para {username}"
 }
