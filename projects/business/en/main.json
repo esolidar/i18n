@@ -1452,5 +1452,11 @@
   "business.note.project.empty.body": "Leave notes about the project to sync in with {companyName} admins",
   "business.note.project.empty.title": "So far, nothing noted",
   "business.note.delete.success": "You successfully deleted your note!",
-  "business.comments.view.notes": "View more notes"
+  "business.comments.view.notes": "View more notes",
+  "business.role": "Role",
+  "business.employee": "Employee",
+  "business.admin": "Admin",
+  "business.modal.change.role.title": "Update role?",
+  "business.modal.change.role.body": "{userName} will now be set to {newStatus}.",
+  "business.modal.change.role.save": "Update role"
 }

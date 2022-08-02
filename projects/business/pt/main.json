@@ -1452,5 +1452,11 @@
   "business.note.project.empty.body": "Deixe notas sobre o projeto para sincronizar com os outros admins de {companyName}",
   "business.note.project.empty.title": "Até agora ninguém anotou nada",
   "business.note.delete.success": "Eliminou a nota com sucesso!",
-  "business.comments.view.notes": "Ver mais notas"
+  "business.comments.view.notes": "Ver mais notas",
+  "business.role": "Função",
+  "business.employee": "Funcionário",
+  "business.admin": "Admin",
+  "business.modal.change.role.title": "Atualizar função?",
+  "business.modal.change.role.body": "{userName} passará a ter a função de {newStatus}",
+  "business.modal.change.role.save": "Atualizar função"
 }
