@@ -1458,5 +1458,7 @@
   "business.admin": "Admin",
   "business.modal.change.role.title": "Atualizar função?",
   "business.modal.change.role.body": "{userName} passará a ter a função de {newStatus}",
-  "business.modal.change.role.save": "Atualizar função"
+  "business.modal.change.role.save": "Atualizar função",
+  "business.signup.without.invitation": "Permitir que as pessoas se registem como membros sem convite",
+  "business.signup.without.invitation.tooltip": "Permitir que as pessoas se registem como membros sem convite"
 }

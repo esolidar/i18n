@@ -1458,5 +1458,7 @@
   "business.admin": "Admin",
   "business.modal.change.role.title": "Update role?",
   "business.modal.change.role.body": "{userName} will now be set to {newStatus}.",
-  "business.modal.change.role.save": "Update role"
+  "business.modal.change.role.save": "Update role",
+  "business.signup.without.invitation": "Sign up without invitation",
+  "business.signup.without.invitation.tooltip": "Allow people to register as members without invitation"
 }
