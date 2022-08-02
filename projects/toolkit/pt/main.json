@@ -686,7 +686,7 @@
   "toolkit.dateDistance.months": "{value, number} {value, plural, one {mês} other {meses}}",
   "toolkit.dateDistance.years": "{value, number} {value, plural, one {ano} other {anos}}",
   "toolkit.comments.like": "{value, number} {value, plural, one {gosto} other {gostos}}",
-  "toolkit.comments.comment": "{value, number} {value, plural, one {comentário} other {comentários}}",
+  "toolkit.comments.comment": "{value, number} {value, plural, zero {comentários} one {comentário} other {comentários}}",
   "toolkit.comments.view.replies": "Ver todas as respostas",
   "toolkit.comments.view.comments": "Ver todos os comentários",
   "toolkit.comments.number.replies": "Ver {value, number} {value, plural, one {resposta} other {respostas}}",
