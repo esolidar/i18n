@@ -710,5 +710,6 @@
   "toolkit.comments.delete.success.admin": "You successfully deleted {username}’s comment",
   "toolkit.comments.delete.success": "You successfully deleted your comment!",
   "toolkit.comments.delete.notification.admin": "A comment from {username} was deleted from “{projectname}”",
-  "toolkit.comments.delete.notification": "Your comment was deleted from “{projectname}”"
+  "toolkit.comments.delete.notification": "Your comment was deleted from “{projectname}”",
+  "toolkit.comments.share": "Check out this program on {company}!"
 }
