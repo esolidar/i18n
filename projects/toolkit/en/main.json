@@ -702,5 +702,13 @@
   "toolkit.notes.images.error.maxSize .multiple": "Please upload images smaller than {value}Mb, and try again",
   "toolkit.notes.files.error.maxFiles.multiple": "Please upload documents smaller than {value}Mb, and try again",
   "toolkit.share.feed": "Share to feed",
-  "toolkit.comments.admin.delete.description": "If you delete this comment, it will be deleted from your feed and {username} will be notified"
+  "toolkit.comments.admin.delete.description": "If you delete this comment, it will be deleted from your feed and {username} will be notified",
+  "toolkit.comments.empty.owner.title": "You have no comments... yet!",
+  "toolkit.comments.empty.owner.body": "People’s comments will be displayed here to share feedback with you",
+  "toolkit.comments.empty.title": "Be the first to comment!",
+  "toolkit.comments.empty.body": "Start a conversation by posting a comment on this project",
+  "toolkit.comments.delete.success.admin": "You successfully deleted {username}’s comment",
+  "toolkit.comments.delete.success": "Eliminou o comentário com sucesso!",
+  "toolkit.comments.delete.notification.admin": "A comment from {username} was deleted from “{projectname}”",
+  "toolkit.comments.delete.notification": "Your comment was deleted from “{projectname}”"
 }

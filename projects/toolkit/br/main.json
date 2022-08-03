@@ -702,5 +702,13 @@
   "toolkit.notes.images.error.maxSize .multiple": "Por favor, carregue imagens com menos de {value}Mb e tente novamente",
   "toolkit.notes.files.error.maxFiles.multiple": "Por favor, carregue documentos com menos de {value}Mb e tente novamente",
   "toolkit.share.feed": "Compartilhar no mural social",
-  "toolkit.comments.admin.delete.description": "Se você excluir esse comentário, ele será excluído do seu feed e será enviado uma notificação para {username}"
+  "toolkit.comments.admin.delete.description": "Se você excluir esse comentário, ele será excluído do seu feed e será enviado uma notificação para {username}",
+  "toolkit.comments.empty.owner.title": "Você não tem comentários ... ainda!",
+  "toolkit.comments.empty.owner.body": "Os comentários das pessoas serão exibidos aqui para compartilhar opiniões com você",
+  "toolkit.comments.empty.title": "Seja o primeiro a comentar!",
+  "toolkit.comments.empty.body": "Inicie uma conversa postando um comentário no projeto",
+  "toolkit.comments.delete.success.admin": "Você excluiu o comentário de {username} com sucesso!",
+  "toolkit.comments.delete.success": "Você excluiu seu comentário com sucesso!",
+  "toolkit.comments.delete.notification.admin": "Um comentário de {username} foi excluído de “{projectname}”",
+  "toolkit.comments.delete.notification": "Seu comentário foi excluído de “{projectName}”"
 }
