@@ -1460,5 +1460,20 @@
   "business.modal.change.role.body": "{userName} passará a ter a função de {newStatus}",
   "business.modal.change.role.save": "Atualizar função",
   "business.signup.without.invitation": "Permitir que as pessoas se registem como membros sem convite",
-  "business.signup.without.invitation.tooltip": "Permitir que as pessoas se registem como membros sem convite"
+  "business.signup.without.invitation.tooltip": "Permitir que as pessoas se registem como membros sem convite",
+  "business.site.config.seo.subtitle": "Gere a visibilidade em pesquisas e partilhas do seu site",
+  "business.site.config.seo.google.analytics": "Google Analytics",
+  "business.site.config.seo.tracking.id": "Tracking ID",
+  "business.site.config.seo.tracking.id.helper": "Adicione o identificador de rastreamento (tracking ID) para analisar os dados coletados no seu site",
+  "business.site.config.seo.keywords": "Palavras-chave",
+  "business.site.config.seo.keywords.helper": "Especifique até 8 palavras-chave que identificarão o seu site nos motores de pesquisa",
+  "business.site.config.seo.meta.tags": "Meta tags",
+  "business.site.config.seo.image": "Imagem",
+  "business.site.config.seo.image.helper": "Selecione uma imagem JPG, JPEG ou PNG de até 5Mb que represente a sua página inicial. Recomendamos imagens com dimensões de 1200px a 628px.",
+  "business.site.config.seo.title.tag": "Título da tag",
+  "business.site.config.seo.title.tag.helper": "Introduza um título curto que descreva a sua página inicial",
+  "business.site.config.seo.meta.description": "Descrição meta",
+  "business.site.config.seo.meta.description.helper": "Escreva uma breve descrição que comunique a mensagem principal da sua página inicial",
+  "business.site.config.seo.preview": "Previsualização",
+  "business.site.config.seo.preview.helper": "Representação de como o conteúdo ficará quando será partilhado no Facebook, Twitter, LinkedIn, entre outros sites"
 }

@@ -1460,5 +1460,20 @@
   "business.modal.change.role.body": "{userName} will now be set to {newStatus}.",
   "business.modal.change.role.save": "Update role",
   "business.signup.without.invitation": "Sign up without invitation",
-  "business.signup.without.invitation.tooltip": "Allow people to register as members without invitation"
+  "business.signup.without.invitation.tooltip": "Allow people to register as members without invitation",
+  "business.site.config.seo.subtitle": "Manage your site visibility on people’s searches and shares",
+  "business.site.config.seo.google.analytics": "Google Analytics",
+  "business.site.config.seo.tracking.id": "Tracking ID",
+  "business.site.config.seo.tracking.id.helper": "Add the tracking ID  to analyze data collected from your site",
+  "business.site.config.seo.keywords": "Keywords",
+  "business.site.config.seo.keywords.helper": "Specify up to 8 keywords that will identify your site on search engines",
+  "business.site.config.seo.meta.tags": "Meta tags",
+  "business.site.config.seo.image": "Image",
+  "business.site.config.seo.image.helper": "Select a JPG, JPEG, or PNG image up to 5Mb that represents your homepage. We recommend images with dimensions of 1200px to 628px.",
+  "business.site.config.seo.title.tag": "Title tag",
+  "business.site.config.seo.title.tag.helper": "Enter a short title that describes your homepage",
+  "business.site.config.seo.meta.description": "Meta description",
+  "business.site.config.seo.meta.description.helper": "Give a brief description that convey’s your homepage main message",
+  "business.site.config.seo.preview": "Preview",
+  "business.site.config.seo.preview.helper": "This is what your content will look like when shared on Facebook, Twitter, LinkedIn, among other sites"
 }
