@@ -711,5 +711,6 @@
   "toolkit.comments.delete.success": "Eliminou o comentário com sucesso!",
   "toolkit.comments.delete.notification.admin": "Um comentário de {username} foi eliminado de “{projectname}”",
   "toolkit.comments.delete.notification": "O seu comentário foi eliminado de “{projectname}”",
-  "toolkit.comments.share": "Dê uma vista de olhos a este programa em {company}!"
+  "toolkit.comments.share": "Dê uma vista de olhos a este programa em {company}!",
+  "toolkit.upload": "Carregar"
 }
