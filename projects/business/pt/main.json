@@ -1496,7 +1496,7 @@
   "business.site.config.theme.cover": "Capa",
   "business.site.config.theme.cover.helper": "Selecione uma imagem JPG, JPEG ou PNG de até 5Mb com dimensões superiores a 1600px por 570px. A imagem deve ser simples e NÃO conter nenhum texto ou logótipos.",
   "business.site.config.theme.color": "Cor principal",
-  "business.site.config.theme.color.helper": "TEssa deve ser a cor principal da marca de seu site",
+  "business.site.config.theme.color.helper": "Essa deve ser a cor principal da marca de seu site",
   "business.site.config.theme.font": "Tipo de letra",
   "business.site.config.theme.font.helper": "Selecione um tipo de letra que corresponda à marca do seu site",
   "business.site.config.theme.footer": "Rodapé",
