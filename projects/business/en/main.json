@@ -1504,5 +1504,6 @@
   "business.site.config.theme.social.network.helper": "Encourage people to follow you on the social network",
   "business.site.config.theme.partner": "Partner or sponsor logos",
   "business.site.config.theme.partner.helper": "Promote up to 6 partners or sponsors by adding their logos and even their web addresses to your footer",
-  "business.site.config.theme.partner.success": "You successfully updated your footer"
+  "business.site.config.theme.partner.success": "You successfully updated your footer",
+  "business.site.config.pages": "Pages"
 }

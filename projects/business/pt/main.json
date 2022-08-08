@@ -1504,5 +1504,6 @@
   "business.site.config.theme.social.network.helper": "Incentive as pessoas a seguir a sua empresa nas redes sociais",
   "business.site.config.theme.partner": "Logótipos de parceiros ou patrocinadores",
   "business.site.config.theme.partner.helper": "Promova parceiros ou patrocinadores adicionando os logótipos e até mesmo hiperligações no rodapé do site",
-  "business.site.config.theme.partner.success": "O rodapé foi atualizado com sucesso"
+  "business.site.config.theme.partner.success": "O rodapé foi atualizado com sucesso",
+  "business.site.config.pages": "Páginas"
 }
