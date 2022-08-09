@@ -1479,6 +1479,7 @@
   "business.site.config.general.subtitle": "Manage your site metadata and other general information",
   "business.site.config.general.main.information": "Main information",
   "business.site.config.general.subdomain": "Sub-Domain",
+  "business.site.config.general.subdomain.error.unique": "Sub-domain is already being used.",
   "business.site.config.general.use.domain": "Want to use a domain you own?",
   "business.site.config.general.domain.modal.title": "Request connection to custom domain",
   "business.site.config.general.domain.modal.body": "Esolidar’s team will establish the connection within 24 to 48 hours. Don’t worry, you’ll be notified once the connection is made.",
