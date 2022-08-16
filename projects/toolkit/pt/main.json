@@ -713,5 +713,6 @@
   "toolkit.comments.delete.notification": "O seu comentário foi eliminado de “{projectname}”",
   "toolkit.comments.share": "Dê uma vista de olhos a este programa em {company}!",
   "toolkit.upload": "Carregar",
-  "toolkit.comments.viewMore.comments": "Ver mais comentários"
+  "toolkit.comments.viewMore.comments": "Ver mais comentários",
+  "toolkit.comment.top": "Partilhe ideias, sugestões ou iniciativas com sua empresa..."
 }
