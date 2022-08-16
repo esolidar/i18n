@@ -1482,7 +1482,7 @@
   "business.site.config.general.subdomain.error.unique": "O subdomínio já está a ser utilizado.",
   "business.site.config.general.use.domain": "Quer usar um domínio seu?",
   "business.site.config.general.domain.modal.title": "Solicitar a conexão com domínio personalizado",
-  "business.site.config.general.domain.modal.body": "Esolidar’s team will establish the connection within 24 to 48 hours. Don’t worry, you’ll be notified once the connection is made.",
+  "business.site.config.general.domain.modal.body": "A equipa da Esolidar estabelecerá a ligação nas próximas 24 a 48 horas. Não se preocupe, receberá uma notificação assim que a conexão terminar.",
   "business.site.config.general.domain.modal.label": "Especifique o domínio",
   "business.site.config.general.domain.modal.btn": "Solicitar a conexão",
   "business.site.config.general.domain.toast.success": "Domínio solicitado! A equipa da Esolidar entrará em contacto consigo assim que a conexão for estabelecida.",
