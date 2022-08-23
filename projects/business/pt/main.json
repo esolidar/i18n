@@ -1466,7 +1466,7 @@
   "business.site.config.seo.tracking.id": "Tracking ID",
   "business.site.config.seo.tracking.id.helper": "Adicione o identificador de rastreamento (tracking ID) para analisar os dados coletados no seu site",
   "business.site.config.seo.keywords": "Palavras-chave",
-  "business.site.config.seo.keywords.helper": "Especifique até 8 palavras-chave que identificarão o seu site nos motores de pesquisa",
+  "business.site.config.seo.keywords.helper": "Especifique até 8 palavras-chave que identificarão o seu site nos motores de pesquisa. Separe palavras-chave usando uma vírgula.",
   "business.site.config.seo.meta.tags": "Meta tags",
   "business.site.config.seo.image": "Imagem",
   "business.site.config.seo.image.helper": "Selecione uma imagem JPG, JPEG ou PNG de até 5Mb que represente a sua página inicial. Recomendamos imagens com dimensões de 1200px a 628px.",
