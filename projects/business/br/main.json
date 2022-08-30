@@ -1526,5 +1526,6 @@
   "business.featured.modal.select.nonprofits.search.searching.helper": "Por favor, aguarde enquanto procuramos por organizações sociais \"{search}\"",
   "business.featured.modal.select.nonprofits.search.no-results": "Não foram encontrados resultados para sua procura",
   "business.featured.modal.select.nonprofits.search.no-results.helper": "Por favor, tente outros filtros ou use parâmetros mais gerais",
-  "business.featured.modal.select.nonprofits.disable.tooltip": "Selecione pelo menos 1 organização social"
+  "business.featured.modal.select.nonprofits.disable.tooltip": "Selecione pelo menos 1 organização social",
+  "layout.add.featured.nonprofits": "Organizações a destacar"
 }

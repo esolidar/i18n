@@ -1526,5 +1526,6 @@
   "business.featured.modal.select.nonprofits.search.searching.helper": "Please wait while we are searching for \"{search}\" nonprofits",
   "business.featured.modal.select.nonprofits.search.no-results": "Sorry, no results were found for your search",
   "business.featured.modal.select.nonprofits.search.no-results.helper": "Please try other filters or use more general terms and parameters",
-  "business.featured.modal.select.nonprofits.disable.tooltip": "Please select at least 1 nonprofit"
+  "business.featured.modal.select.nonprofits.disable.tooltip": "Please select at least 1 nonprofit",
+  "layout.add.featured.nonprofits": "Featured nonprofits"
 }
