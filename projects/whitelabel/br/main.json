@@ -586,7 +586,7 @@
   "whitelabel.message.emptyState.title": "Ainda não há tickets",
   "whitelabel.message.emptyState.subtitle": "Entre em contato com o dono do projeto para esclarecer qualquer problema ou dúvida que você possa ter",
   "layout.add.featured": "Destacados",
-  "whitelabel.featured.nonprofits.count": "{value, plural, one {organização} other {organizações}}",
+  "whitelabel.featured.nonprofits.count": "{value, number} {value, plural, one {organização} other {organizações}}",
   "whitelabel.featured.nonprofits.search": "Procurar por organizações sociais...",
   "whitelabel.featured.nonprofits.search.all.countries": "Todos os países",
   "whitelabel.featured.nonprofits.search.all.causes": "Todas as causas",
