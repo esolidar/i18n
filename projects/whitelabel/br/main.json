@@ -584,5 +584,15 @@
   "visitor.confirmation-expired.description": "Lamentamos, mas seu email de confirmação expirou. Por motivos de segurança, este email é válido apenas por {duration} minutos.",
   "glossary.resend-email": "Reenviar email",
   "whitelabel.message.emptyState.title": "Ainda não há tickets",
-  "whitelabel.message.emptyState.subtitle": "Entre em contato com o dono do projeto para esclarecer qualquer problema ou dúvida que você possa ter"
+  "whitelabel.message.emptyState.subtitle": "Entre em contato com o dono do projeto para esclarecer qualquer problema ou dúvida que você possa ter",
+  "layout.add.featured": "Destacados",
+  "whitelabel.featured.nonprofits.count": "{value, plural, one {organização} other {organizações}}",
+  "whitelabel.featured.nonprofits.search": "Procurar por organizações sociais...",
+  "whitelabel.featured.nonprofits.search.all.countries": "Todos os países",
+  "whitelabel.featured.nonprofits.search.all.causes": "Todas as causas",
+  "whitelabel.featured.nonprofits.search.loading": "A carregar...",
+  "whitelabel.featured.nonprofits.search.searching": "Procurando...",
+  "whitelabel.featured.nonprofits.search.searching.helper": "Por favor, aguarde enquanto procuramos por organizações sociais \"{search}\"",
+  "whitelabel.featured.nonprofits.search.no-results": "Não foram encontrados resultados para sua procura",
+  "whitelabel.featured.nonprofits.search.no-results.helper": "Por favor, tente outros filtros ou use parâmetros mais gerais"
 }

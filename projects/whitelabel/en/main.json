@@ -583,5 +583,15 @@
   "visitor.confirmation-expired.description": "We're sorry, but your confirmation email has expired. For safety reasons, this email is only valid for {duration} minutes.",
   "glossary.resend-email": "Resend email",
   "whitelabel.message.emptyState.title": "No tickets yet",
-  "whitelabel.message.emptyState.subtitle": "Reach out to the project owner to clarify any issue or question you may have"
+  "whitelabel.message.emptyState.subtitle": "Reach out to the project owner to clarify any issue or question you may have",
+  "layout.add.featured": "Featured",
+  "whitelabel.featured.nonprofits.count": "{value, plural, one {nonprofit} other {nonprofits}}",
+  "whitelabel.featured.nonprofits.search": "Search for nonprofits...",
+  "whitelabel.featured.nonprofits.search.all.countries": "All countries",
+  "whitelabel.featured.nonprofits.search.all.causes": "All causes",
+  "whitelabel.featured.nonprofits.search.loading": "Loading...",
+  "whitelabel.featured.nonprofits.search.searching": "Searching...",
+  "whitelabel.featured.nonprofits.search.searching.helper": "Please wait while we are searching for \"{search}\" nonprofits",
+  "whitelabel.featured.nonprofits.search.no-results": "Sorry, no results were found for your search",
+  "whitelabel.featured.nonprofits.search.no-results.helper": "Please try other filters or use more general terms and parameters"
 }
