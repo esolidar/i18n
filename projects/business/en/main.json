@@ -1527,5 +1527,14 @@
   "business.featured.modal.select.nonprofits.search.no-results": "Sorry, no results were found for your search",
   "business.featured.modal.select.nonprofits.search.no-results.helper": "Please try other filters or use more general terms and parameters",
   "business.featured.modal.select.nonprofits.disable.tooltip": "Please select at least 1 nonprofit",
-  "layout.add.featured.nonprofits": "Featured nonprofits"
+  "layout.add.featured.nonprofits": "Featured nonprofits",
+  "layout.delete.section.title": "Delete section?",
+  "layout.delete.section.body": "If you delete the section, you won’t be able to recover it.",
+  "layout.pages.subtitle": "Manage and customize your site pages",
+  "business.about.homepage.card.title": "Homepage",
+  "business.about.homepage.card.description": "The page first displayed when starting {companyName}’s site",
+  "business.about.homepage.feed.title": "Social feed",
+  "business.about.homepage.feed.description": "The page that displays {companyName} social feed posts",
+  "business.about.homepage.modal.subtitle": "We added some information to get you started on your homepage . Cool uh? 😎",
+  "business.about.homepage.modal.subtitle.2": "Edit each section to replace the content we added for you."
 }

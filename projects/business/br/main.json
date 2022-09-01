@@ -1527,5 +1527,14 @@
   "business.featured.modal.select.nonprofits.search.no-results": "Não foram encontrados resultados para sua procura",
   "business.featured.modal.select.nonprofits.search.no-results.helper": "Por favor, tente outros filtros ou use parâmetros mais gerais",
   "business.featured.modal.select.nonprofits.disable.tooltip": "Selecione pelo menos 1 organização social",
-  "layout.add.featured.nonprofits": "Organizações a destacar"
+  "layout.add.featured.nonprofits": "Organizações a destacar",
+  "layout.delete.section.title": "Excluir seção?",
+  "layout.delete.section.body": "Se você excluir a seção, não poderá recuperá-la.",
+  "layout.pages.subtitle": "Gerencie e personalize as páginas de seu site",
+  "business.about.homepage.card.title": "Página inicial",
+  "business.about.homepage.card.description": "A primeira página exibida ao iniciar seu site de {companyName}",
+  "business.about.homepage.feed.title": "Mural social",
+  "business.about.homepage.feed.description": "The page that displays {companyName} social feed posts",
+  "business.about.homepage.modal.subtitle": "Adicionamos algumas informações para poder começar com a página inicial. Porreiro não é? 😎",
+  "business.about.homepage.modal.subtitle.2": "Edite cada secção para substituir o conteúdo que adicionamos."
 }
