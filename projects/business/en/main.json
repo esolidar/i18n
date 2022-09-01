@@ -1536,5 +1536,7 @@
   "business.about.homepage.feed.title": "Social feed",
   "business.about.homepage.feed.description": "The page that displays {companyName} social feed posts",
   "business.about.homepage.modal.subtitle": "We added some information to get you started on your homepage . Cool uh? 😎",
-  "business.about.homepage.modal.subtitle.2": "Edit each section to replace the content we added for you."
+  "business.about.homepage.modal.subtitle.2": "Edit each section to replace the content we added for you.",
+  "business.view.more": "View more",
+  "business.display.latest.social.feed": "Display latest social feed posts?"
 }
