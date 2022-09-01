@@ -594,5 +594,6 @@
   "whitelabel.featured.nonprofits.search.searching": "Procurando...",
   "whitelabel.featured.nonprofits.search.searching.helper": "Por favor, aguarde enquanto procuramos por organizações sociais \"{search}\"",
   "whitelabel.featured.nonprofits.search.no-results": "Não foram encontrados resultados para sua procura",
-  "whitelabel.featured.nonprofits.search.no-results.helper": "Por favor, tente outros filtros ou use parâmetros mais gerais"
+  "whitelabel.featured.nonprofits.search.no-results.helper": "Por favor, tente outros filtros ou use parâmetros mais gerais",
+  "whitelabel.viewmore": "Ver mais"
 }
