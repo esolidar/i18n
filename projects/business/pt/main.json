@@ -1534,7 +1534,7 @@
   "business.about.homepage.card.title": "Página inicial",
   "business.about.homepage.card.description": "A primeira página exibida ao iniciar o site de {companyName}",
   "business.about.homepage.feed.title": "Mural social",
-  "business.about.homepage.feed.description": "A página que exibe as postagens do mural social da {companyName}",
+  "business.about.homepage.feed.description": "A página que exibe as publicações do mural social de {companyName}",
   "business.about.homepage.modal.subtitle": "Adicionamos algumas informações para você começar em sua página inicial. Legal né? 😎",
   "business.about.homepage.modal.subtitle.2": "Edite cada seção para substituir o conteúdo que adicionamos para você."
 }
