@@ -1538,5 +1538,7 @@
   "business.about.homepage.modal.subtitle": "We added some information to get you started on your homepage . Cool uh? 😎",
   "business.about.homepage.modal.subtitle.2": "Edit each section to replace the content we added for you.",
   "business.view.more": "View more",
-  "business.display.latest.social.feed": "Display latest social feed posts?"
+  "business.display.latest.social.feed": "Display latest social feed posts?",
+  "business.delete.section.forbiden": "Homepage can’t be empty. To delete this section, please add another one.",
+  "business.glossary.tooltip.incomplete-form": "Please fill in the form"
 }

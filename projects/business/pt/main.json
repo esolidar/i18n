@@ -72,7 +72,7 @@
   "active.slides": "Slides ativos",
   "add": "Adicionar",
   "add.admins": "Adicionar administradores",
-  "add.new.section": "Adicionar nova secção",
+  "add.new.section": "Adicionar secção",
   "addFacebookAccount": "A sua conta do Facebook foi adicionada com sucesso!",
   "address": "Endereço",
   "after_yesterday": "A data de início deve ser uma data posterior a ontem.",
@@ -1538,5 +1538,7 @@
   "business.about.homepage.modal.subtitle": "Adicionamos algumas informações para poder começar com a página inicial. Porreiro não é? 😎",
   "business.about.homepage.modal.subtitle.2": "Edite cada secção para substituir o conteúdo que adicionamos.",
   "business.view.more": "Ver mais",
-  "business.display.latest.social.feed": "Exibir as últimas publicações do mural social?"
+  "business.display.latest.social.feed": "Exibir as últimas publicações do mural social?",
+  "business.delete.section.forbiden": "A página inicial não pode estar vazia. Para eliminar esta secção, adicione outra.",
+  "business.glossary.tooltip.incomplete-form": "Por favor preencha o formulário"
 }
