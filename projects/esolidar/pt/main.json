@@ -932,5 +932,8 @@
   "esolidar.setPassword.success.subtitle": "Bom trabalho! A sua palavra-passe foi criada e funciona perfeitamente.",
   "esolidar.changePassword.success.title": "Palavra-passe atualizada",
   "esolidar.changePassword.success.subtitle": "Já pode usar a sua nova palavra-passe quando iniciar uma nova sessão.",
-  "esolidar.facebook.configure.password": "Entrava com Facebook?"
+  "esolidar.facebook.configure.password": "Entrava com Facebook?",
+  "esolidar.stripe.onboarding.alert.title": "Receba as suas doações instantaneamente!",
+  "esolidar.stripe.onboarding.alert.message": "Ao criar uma conta Stripe, todas as transações com cartão de crédito, como doações, são instantâneas, permitindo acesso imediato a esses fundos. Além disso, se a conta for definida como uma organização social, você receberá um desconto nas taxas de processamento.",
+  "esolidar.stripe.onboarding.alert.button": "Configurar Stripe"
 }

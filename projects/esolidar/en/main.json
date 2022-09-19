@@ -932,5 +932,8 @@
   "esolidar.setPassword.success.subtitle": "Nice job! Your password is set and works like a charm.",
   "esolidar.changePassword.success.title": "Password updated",
   "esolidar.changePassword.success.subtitle": "You can now use your new password when logging in.",
-  "esolidar.facebook.configure.password": "Used to login with Facebook?"
+  "esolidar.facebook.configure.password": "Used to login with Facebook?",
+  "esolidar.stripe.onboarding.alert.title": "Receive your donations instantly!",
+  "esolidar.stripe.onboarding.alert.message": "By creating a stripe account, all credit card transactions, such as donations, are instant, allowing you immediate access to these funds. Plus, if your account is set as a nonprofit organization, you’ll receive a discount on your processing fees.",
+  "esolidar.stripe.onboarding.alert.button": "Set up Stripe"
 }
