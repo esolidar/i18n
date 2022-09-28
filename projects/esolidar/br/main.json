@@ -268,7 +268,7 @@
   "employees.list.delete.title": "Remover funcionário",
   "ended": "Terminados",
   "enter_email": "Insira o seu email",
-  "erro500Message": "Ocorreu um erro, por favor teste mais tarde!",
+  "erro500Message": "Ocorreu um erro, por favor tente mais tarde!",
   "error.boundary.message": "Se o problema persistir contate-nos através do email",
   "error.npo.update": "Ocorreu um erro ao atualizar o seu perfil, por favor, tente mais tarde.",
   "error.set.pass": "O seu código expirou, por favor peça um novo.",
@@ -935,5 +935,16 @@
   "esolidar.facebook.configure.password": "Entrava com Facebook?",
   "esolidar.stripe.onboarding.alert.title": "Receba suas doações instantaneamente!",
   "esolidar.stripe.onboarding.alert.message": "Ao criar uma conta Stripe, todas as transações com cartão de crédito, como doações, são instantâneas, permitindo acesso imediato a esses fundos. Além disso, se sua conta for definida como uma organização social, você receberá um desconto nas taxas de processamento.",
-  "esolidar.stripe.onboarding.alert.button": "Configurar Stripe"
+  "esolidar.stripe.onboarding.alert.button": "Configurar Stripe",
+  "esolidar.stripe.account": "Conta Stripe",
+  "esolidar.not.stripe.account": "Configure sua conta Stripe agora e receba suas doações instantaneamente!",
+  "esolidar.create.stripe.account": "Criar conta Stripe",
+  "esolidar.stripe.account.id": "Número de Identificação do Stripe",
+  "esolidar.stripe.account.finish": "Por favor termine de configurar sua conta do Stripe",
+  "esolidar.stripe.account.setup": "Configurar conta do Stripe",
+  "esolidar.stripe.view.account": "Ver conta Stripe",
+  "esolidar.inactive": "Inativo",
+  "esolidar.stripe.needs.information": "Stripe precisa de mais informações. Atualize sua conta para reativar a conexão.",
+  "esolidar.stripe.update.account": "Atualizar conta do Stripe",
+  "esolidar.stripe.cennect.success": "Você conectou sua conta Stripe com sucesso!"
 }
