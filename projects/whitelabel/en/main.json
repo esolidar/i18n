@@ -595,5 +595,11 @@
   "whitelabel.featured.nonprofits.search.no-results": "Sorry, no results were found for your search",
   "whitelabel.featured.nonprofits.search.no-results.helper": "Please try other filters or use more general terms and parameters",
   "whitelabel.viewmore": "View more",
-  "whitelabel.homepage": "Homepage"
+  "whitelabel.homepage": "Homepage",
+  "whitelabel.donations.featured": "Featured Donations",
+  "whitelabel.donations.featured.text": "Support a cause dear to your heart by donating directly to a nonprofit featuded by {companyName}",
+  "whitelabel.our.goal": "Our goal",
+  "whitelabel.donate.now": "Donate now",
+  "whitelabel.mission": "Mission",
+  "whitelabel.raised.donors": "Raised from {value} donors"
 }

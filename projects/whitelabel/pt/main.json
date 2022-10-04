@@ -595,5 +595,11 @@
   "whitelabel.featured.nonprofits.search.no-results": "Não foram encontrados resultados para a sua pesquisa",
   "whitelabel.featured.nonprofits.search.no-results.helper": "Por favor, tente outros filtros ou use parâmetros mais gerais",
   "whitelabel.viewmore": "Ver mais",
-  "whitelabel.homepage": "Página inicial"
+  "whitelabel.homepage": "Página inicial",
+  "whitelabel.donations.featured": "Doaçoes Destacadas",
+  "whitelabel.donations.featured.text": "Apoie uma causa do seu interesse doando diretamente a uma organização social destacada por {companyName}",
+  "whitelabel.our.goal": "O nosso objetivo",
+  "whitelabel.donate.now": "Doar agora",
+  "whitelabel.mission": "Missão",
+  "whitelabel.raised.donors": "Angariado de {value} doadores"
 }
