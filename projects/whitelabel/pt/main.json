@@ -601,5 +601,6 @@
   "whitelabel.our.goal": "O nosso objetivo",
   "whitelabel.donate.now": "Doar agora",
   "whitelabel.mission": "Missão",
-  "whitelabel.raised.donors": "Angariado de {value} doadores"
+  "whitelabel.raised.donors": "Angariado de {value} doadores",
+  "whitelabel.card.sdg.description": "A organização social ou causa apoia as seguintes ODS da ONU para alcançar um futuro melhor e mais sustentável para todos"
 }

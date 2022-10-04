@@ -601,5 +601,6 @@
   "whitelabel.our.goal": "Our goal",
   "whitelabel.donate.now": "Donate now",
   "whitelabel.mission": "Mission",
-  "whitelabel.raised.donors": "Raised from {value} donors"
+  "whitelabel.raised.donors": "Raised from {value} donors",
+  "whitelabel.card.sdg.description": "This nonprofit or cause supports the following UN SDGs to achieve a better and more sustainable future for all"
 }
