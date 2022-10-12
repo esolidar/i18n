@@ -603,5 +603,13 @@
   "whitelabel.donate.now": "Doar agora",
   "whitelabel.mission": "Missão",
   "whitelabel.raised.donors": "Arrecadado de {value} doadores",
-  "whitelabel.card.sdg.description": "Essa organização social ou causa apoia as seguintes ODS da ONU para alcançar um futuro melhor e mais sustentável para todos"
+  "whitelabel.card.sdg.description": "Essa organização social ou causa apoia as seguintes ODS da ONU para alcançar um futuro melhor e mais sustentável para todos",
+  "whitelabel.checkout.summary.donation": "Doação",
+  "whitelabel.checkout.summary.fee": "Taxa de plataforma",
+  "whitelabel.checkout.summary.fee.note": "A maior parte ou toda a sua doação vai para a organização sem fins lucrativos",
+  "whitelabel.checkout.summary.total": "Total",
+  "whitelabel.checkout.summary.donation.modal.title": "Para onde vai sua doação?",
+  "whitelabel.checkout.summary.donation.modal.description": "A maior parte ou toda a sua doação irá para a organização sem fins lucrativos. Uma pequena quantia da sua doação pode ser usada para cobrar as taxas de processamento do serviço de pagamento, se houver.",
+  "whitelabel.checkout.summary.fee.modal.title": "Qual é a taxa da plataforma?",
+  "whitelabel.checkout.summary.fee.modal.description": "A nossa taxa de plataforma de 4% nos ajudará a pagar as nossas contas e a continuar fornecendo a todos nossos serviços gratuitos ❤️"
 }

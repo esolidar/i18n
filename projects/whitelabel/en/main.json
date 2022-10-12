@@ -602,5 +602,13 @@
   "whitelabel.donate.now": "Donate now",
   "whitelabel.mission": "Mission",
   "whitelabel.raised.donors": "Raised from {value} donors",
-  "whitelabel.card.sdg.description": "This nonprofit or cause supports the following UN SDGs to achieve a better and more sustainable future for all"
+  "whitelabel.card.sdg.description": "This nonprofit or cause supports the following UN SDGs to achieve a better and more sustainable future for all",
+  "whitelabel.checkout.summary.donation": "Donation",
+  "whitelabel.checkout.summary.fee": "Platform fee",
+  "whitelabel.checkout.summary.fee.note": "So most or all of your donation goes to the nonprofit",
+  "whitelabel.checkout.summary.total": "Total",
+  "whitelabel.checkout.summary.donation.modal.title": "Where does your donation go?",
+  "whitelabel.checkout.summary.donation.modal.description": "Most or all of your donation will go to the nonprofit. A small amount of your donation can be used to charge the processing fees from the payment service if any are applied.",
+  "whitelabel.checkout.summary.fee.modal.title": "What is the platform fee?",
+  "whitelabel.checkout.summary.fee.modal.description": "Our 4% platform fee will help us to pay our bills and keep providing everyone our free services ❤️"
 }
