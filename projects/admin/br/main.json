@@ -78,7 +78,7 @@
   "auctions.manager.title": "Gerir leilões",
   "auctions.notify.winner.error": "Não pode enviar o email porque o leilão ainda não terminou ou não existem licitações.",
   "auctions.notify.winner.success": "Email enviado com sucesso",
-  "auctions.select.charity": "Selecione uma instituião",
+  "auctions.select.charity": "Selecione uma instituição",
   "auctions.showonesolidar": "Mostrar na Esolidar",
   "auctions.subcategory": "Sub-categoria",
   "auctions.tax": "Taxa esolidar",
