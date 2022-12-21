@@ -642,5 +642,6 @@
   "requests.volunteering": "Volunteering",
   "statusEndedAndReviewed": "Ended and reviewed",
   "statusCanceled": "Canceled",
-  "cancelRequestSuccess": "Canceled successful to this request"
+  "cancelRequestSuccess": "Canceled successful to this request",
+  "request.detail.btn.imin": "I'm in"
 }

@@ -643,5 +643,6 @@
   "requests.volunteering": "Voluntariado",
   "statusEndedAndReviewed": "Finalizado e revisado",
   "statusCanceled": "Cancelado",
-  "cancelRequestSuccess": "Cancelou a sua inscrição neste projeto"
+  "cancelRequestSuccess": "Cancelou a sua inscrição neste projeto",
+  "request.detail.btn.imin": "Apoiar"
 }
