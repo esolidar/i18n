@@ -636,5 +636,11 @@
   "request.detail.modal.cancel.confirm": "Are you sure do you want to cancel join this request?",
   "request.detail.modal.cancel.title": "Cancel join request",
   "request.detail.modal.close.confirm": "Are you sure you want to sign up for this initiative?",
-  "request.detail.modal.join.title": "Join Request"
+  "request.detail.modal.join.title": "Join Request",
+  "donations": "Donations",
+  "requestGoods": "Goods ",
+  "requests.volunteering": "Volunteering",
+  "statusEndedAndReviewed": "Ended and reviewed",
+  "statusCanceled": "Canceled",
+  "cancelRequestSuccess": "Canceled successful to this request"
 }

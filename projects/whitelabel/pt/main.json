@@ -636,5 +636,11 @@
   "request.detail.modal.cancel.confirm": "Tem a certeza que pretende cancelar?",
   "request.detail.modal.cancel.title": "Cancelar inscrição",
   "request.detail.modal.close.confirm": "Tem certeza de que deseja se inscrever nesta iniciativa?",
-  "request.detail.modal.join.title": "Inscrição na iniciativa"
+  "request.detail.modal.join.title": "Inscrição na iniciativa",
+  "donations": "Donativos",
+  "requestGoods": "Bens ",
+  "requests.volunteering": "Voluntariado",
+  "statusEndedAndReviewed": "Terminado e revisto",
+  "statusCanceled": "Cancelado",
+  "cancelRequestSuccess": "Cancelou a sua inscrição neste projeto"
 }
