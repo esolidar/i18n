@@ -632,5 +632,9 @@
   "charityneeds.request.comments.loading": "A carregar ...",
   "charityneeds.request.comments.no-comments": "Ainda sem comentários",
   "charityneeds.request.comments.readmore": "Ver mais",
-  "charityneeds.request.comments.subtitle": "Comente e envolva-se com todos os envolvidos nesta iniciativa "
+  "charityneeds.request.comments.subtitle": "Comente e envolva-se com todos os envolvidos nesta iniciativa ",
+  "request.detail.modal.cancel.confirm": "Tem a certeza que pretende cancelar?",
+  "request.detail.modal.cancel.title": "Cancelar inscrição",
+  "request.detail.modal.close.confirm": "Tem certeza de que deseja se inscrever nesta iniciativa?",
+  "request.detail.modal.join.title": "Inscrição na iniciativa"
 }

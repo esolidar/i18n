@@ -632,5 +632,9 @@
   "charityneeds.request.comments.loading": "Loading...",
   "charityneeds.request.comments.no-comments": "No comments",
   "charityneeds.request.comments.readmore": "Read more ({value})",
-  "charityneeds.request.comments.subtitle": "Discuss, comment and engage with everyone involved in this initiative"
+  "charityneeds.request.comments.subtitle": "Discuss, comment and engage with everyone involved in this initiative",
+  "request.detail.modal.cancel.confirm": "Are you sure do you want to cancel join this request?",
+  "request.detail.modal.cancel.title": "Cancel join request",
+  "request.detail.modal.close.confirm": "Are you sure you want to sign up for this initiative?",
+  "request.detail.modal.join.title": "Join Request"
 }
