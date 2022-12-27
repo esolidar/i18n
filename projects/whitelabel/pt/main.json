@@ -643,5 +643,8 @@
   "statusEndedAndReviewed": "Terminado e revisto",
   "statusCanceled": "Cancelado",
   "cancelRequestSuccess": "Cancelou a sua inscrição neste projeto",
-  "request.detail.btn.imin": "Apoiar"
+  "request.detail.btn.imin": "Apoiar",
+  "report": "Relatório",
+  "companyCommentReplyAdded": "O seu comentário foi adicionado com sucesso",
+  "joinRequestSuccess": "Inscreveu-se com sucesso neste projeto"
 }

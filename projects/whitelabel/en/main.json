@@ -643,5 +643,8 @@
   "statusEndedAndReviewed": "Ended and reviewed",
   "statusCanceled": "Canceled",
   "cancelRequestSuccess": "Canceled successful to this request",
-  "request.detail.btn.imin": "I'm in"
+  "request.detail.btn.imin": "I'm in",
+  "report": "Report",
+  "companyCommentReplyAdded": "Your comment was successfully added",
+  "joinRequestSuccess": "Join successful to this request"
 }
